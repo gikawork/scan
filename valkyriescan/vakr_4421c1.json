@@ -1,0 +1,63 @@
+{
+  "title": "Cracking Sugar",
+  "author": "School of Night",
+  "artist": "School of Night",
+  "description": "Uma bibliotecária nerd é atraída para o mundo secreto da valentona que rouba livros de sua escola.",
+  "cover": "https://images2.imgbox.com/68/c5/ZC7QIh6n_o.jpg",
+  "chapters": {
+    "03": {
+      "title": "Capítulo 03",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/49/5c/U75NSIau_o.jpg",
+          "https://images2.imgbox.com/21/43/shZW990B_o.jpg",
+          "https://images2.imgbox.com/e9/54/uhDHYZOD_o.jpg",
+          "https://images2.imgbox.com/d1/34/jrb8AHrv_o.jpg",
+          "https://images2.imgbox.com/20/92/4XCT6aQ2_o.jpg",
+          "https://images2.imgbox.com/0e/dd/dcz6eOko_o.jpg",
+          "https://images2.imgbox.com/ea/ce/ovhtpOob_o.jpg",
+          "https://images2.imgbox.com/fc/72/ZsE4wv6N_o.jpg",
+          "https://images2.imgbox.com/9d/45/cefT1Fzh_o.jpg",
+          "https://images2.imgbox.com/6f/ab/aKluWw4S_o.jpg",
+          "https://images2.imgbox.com/ba/5a/beGMs8rB_o.jpg"
+        ]
+      }
+    },
+    "02": {
+      "title": "Capítulo 02",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/a1/e4/rrD7fjqa_o.jpg",
+          "https://images2.imgbox.com/d6/f6/kUIk3OKt_o.jpg",
+          "https://images2.imgbox.com/c3/19/5Pv6ImC8_o.jpg",
+          "https://images2.imgbox.com/5b/f8/Mdy1Udne_o.jpg",
+          "https://images2.imgbox.com/41/73/7erH2xYU_o.jpg",
+          "https://images2.imgbox.com/fa/18/k0P6JvR9_o.jpg",
+          "https://images2.imgbox.com/89/72/kdfvgTF8_o.jpg",
+          "https://images2.imgbox.com/52/a5/xhMY5g23_o.jpg",
+          "https://images2.imgbox.com/ba/65/PjYFcOkr_o.jpg",
+          "https://images2.imgbox.com/2c/70/xsHeDMdx_o.jpg",
+          "https://images2.imgbox.com/a0/ef/J2StrVDC_o.jpg"
+        ]
+      }
+    },
+    "01": {
+      "title": "Capítulo 01",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/8f/39/gTh8fMvc_o.jpg",
+          "https://images2.imgbox.com/a6/67/6R2WY3Ts_o.jpg",
+          "https://images2.imgbox.com/73/55/SkeaZlEf_o.jpg",
+          "https://images2.imgbox.com/8a/71/0TRTf5rR_o.jpg",
+          "https://images2.imgbox.com/6c/9a/2SSgjd6l_o.jpg",
+          "https://images2.imgbox.com/a7/d8/m6McuC9F_o.jpg",
+          "https://images2.imgbox.com/9d/c4/A8Z76iFf_o.jpg",
+          "https://images2.imgbox.com/be/7f/mF0fyfe0_o.jpg",
+          "https://images2.imgbox.com/34/51/bNGJ13W6_o.jpg",
+          "https://images2.imgbox.com/53/98/Eb33ABtw_o.jpg",
+          "https://images2.imgbox.com/7b/88/1RxJ7gtN_o.jpg"
+        ]
+      }
+    }
+  }
+}
