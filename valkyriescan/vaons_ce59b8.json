@@ -1,0 +1,27 @@
+{
+  "title": "A Certain Couple’s Weekend",
+  "author": "Hino Arashi",
+  "artist": "Hino Arashi",
+  "description": "Em seu primeiro fim de semana juntas como casal, elas resolvem assistir um filme. Surge um conflito sobre qual filme escolher.",
+  "cover": "https://images2.imgbox.com/08/37/lbGIcnk7_o.jpg",
+  "chapters": {
+    "Único": {
+      "title": "Capítulo Único",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/53/62/4NPcfKHB_o.jpg",
+          "https://images2.imgbox.com/0b/34/gMS1XXcZ_o.jpg",
+          "https://images2.imgbox.com/eb/bf/Fw0zRPtb_o.jpg",
+          "https://images2.imgbox.com/5c/db/9GUFJSx8_o.jpg",
+          "https://images2.imgbox.com/ad/17/GfWQN7S2_o.jpg",
+          "https://images2.imgbox.com/b2/03/p4s8pyG1_o.jpg",
+          "https://images2.imgbox.com/d7/02/339dmwoM_o.jpg",
+          "https://images2.imgbox.com/9e/53/pwLIgjtK_o.jpg",
+          "https://images2.imgbox.com/04/50/oGlOxMy1_o.jpg",
+          "https://images2.imgbox.com/50/50/78mZP4Gu_o.jpg",
+          "https://images2.imgbox.com/a6/9f/Uk9zlWla_o.jpg"
+        ]
+      }
+    }
+  }
+}
