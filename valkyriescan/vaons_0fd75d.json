@@ -1,0 +1,34 @@
+{
+  "title": "KiraSaya Manga",
+  "author": "Kanbayashi Makoto",
+  "artist": "Kanbayashi Makoto",
+  "description": "Uma doce história sobre duas pessoas que realmente querem uma à outra. A continuação do que ocorreu nos bastidores após o mergulho da Torre da Porta.",
+  "cover": "https://images2.imgbox.com/05/71/zUX3yJVp_o.jpg",
+  "chapters": {
+    "Único": {
+      "title": "Capítulo Único",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/fa/ee/xyTwiEc1_o.jpg",
+          "https://images2.imgbox.com/cb/e5/mYIdf8qz_o.jpg",
+          "https://images2.imgbox.com/4c/9f/xV852uUd_o.jpg",
+          "https://images2.imgbox.com/38/41/y4n1Pese_o.jpg",
+          "https://images2.imgbox.com/ba/ca/XANsEHoM_o.jpg",
+          "https://images2.imgbox.com/e4/dd/6KvhmR9b_o.jpg",
+          "https://images2.imgbox.com/47/a1/AGSgtlib_o.jpg",
+          "https://images2.imgbox.com/a3/d2/L3yGIQov_o.jpg",
+          "https://images2.imgbox.com/76/fe/Z0WcQv8R_o.jpg",
+          "https://images2.imgbox.com/73/93/gMXibyep_o.jpg",
+          "https://images2.imgbox.com/0c/fe/yVehA9fx_o.jpg",
+          "https://images2.imgbox.com/5c/d5/qApM5wHS_o.jpg",
+          "https://images2.imgbox.com/14/44/zhViC3ku_o.jpg",
+          "https://images2.imgbox.com/1e/48/6EcPOSGy_o.jpg",
+          "https://images2.imgbox.com/f2/f0/oWYrRqrC_o.jpg",
+          "https://images2.imgbox.com/55/c9/U7ErCTOf_o.jpg",
+          "https://images2.imgbox.com/f9/33/8glY3Ljc_o.jpg",
+          "https://images2.imgbox.com/64/c4/nmu8yobB_o.jpg"
+        ]
+      }
+    }
+  }
+}
