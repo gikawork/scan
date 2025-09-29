@@ -1,0 +1,24 @@
+{
+  "title": "My Brother’s Girlfriend",
+  "author": "Sumiko Arai",
+  "artist": "Sumiko Arai",
+  "description": "A história de uma garota que está em um relacionamento duvidoso e complicado com a namorada do seu irmão.",
+  "cover": "https://images2.imgbox.com/56/e0/I6xDvhB8_o.jpg",
+  "chapters": {
+    "Único": {
+      "title": "Capítulo Único",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/e5/2d/nUUJSmOa_o.png",
+          "https://images2.imgbox.com/bb/e8/dTqynivJ_o.jpg",
+          "https://images2.imgbox.com/fc/1a/SCw87ykz_o.jpg",
+          "https://images2.imgbox.com/8c/81/hAg5pPka_o.jpg",
+          "https://images2.imgbox.com/63/ec/CMB9BV5K_o.jpg",
+          "https://images2.imgbox.com/19/91/Erc4Ji0v_o.jpg",
+          "https://images2.imgbox.com/24/6e/buKS9lW9_o.jpg",
+          "https://images2.imgbox.com/46/3e/exROnyel_o.jpg"
+        ]
+      }
+    }
+  }
+}
