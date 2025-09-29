@@ -1,0 +1,72 @@
+{
+  "title": "Line by Line",
+  "author": "jennrost",
+  "artist": "jennrost",
+  "description": "No seu segundo ano, Poppy recebeu uma declaração de Olivia, sua veterana. Agora, no terceiro ano, Poppy ainda não deu uma resposta a Olivia. Mas, aos poucos, com cada conversa trocada entre as duas, a resposta certamente encontrará um caminho para sair do coração tímido de Poppy.",
+  "cover": "https://images2.imgbox.com/96/42/TwafYU5x_o.jpg",
+  "chapters": {
+    "03": {
+      "title": "Capítulo 03",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/01/54/fUQTJeZw_o.jpg",
+          "https://images2.imgbox.com/0d/35/JbhjpR59_o.jpg",
+          "https://images2.imgbox.com/ef/9e/iVcjcG45_o.jpg",
+          "https://images2.imgbox.com/90/2f/51EhIaxT_o.jpg",
+          "https://images2.imgbox.com/b5/d7/L0S45QfR_o.jpg",
+          "https://images2.imgbox.com/4e/a8/huxZcbZi_o.jpg",
+          "https://images2.imgbox.com/29/7c/0ROGp5QP_o.jpg",
+          "https://images2.imgbox.com/51/ea/CWWb8Ad0_o.jpg",
+          "https://images2.imgbox.com/97/26/m57W3J4s_o.jpg",
+          "https://images2.imgbox.com/59/2d/eur5KP9O_o.jpg",
+          "https://images2.imgbox.com/ce/87/6WX1CMvW_o.jpg"
+        ]
+      }
+    },
+    "02": {
+      "title": "Capítulo 02",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/58/4b/XovKF4hk_o.jpg",
+          "https://images2.imgbox.com/77/e9/AWFHeiqU_o.jpg",
+          "https://images2.imgbox.com/17/26/gWgVI6Xq_o.jpg",
+          "https://images2.imgbox.com/38/eb/Bv43rMPR_o.jpg",
+          "https://images2.imgbox.com/8c/dd/ypcDhMCv_o.jpg",
+          "https://images2.imgbox.com/59/6a/1383i5KS_o.jpg",
+          "https://images2.imgbox.com/72/ee/epWGmXly_o.jpg",
+          "https://images2.imgbox.com/c1/12/yKgStn7i_o.jpg",
+          "https://images2.imgbox.com/ad/0b/sj9BOa6i_o.jpg",
+          "https://images2.imgbox.com/97/34/IUGw35SR_o.jpg",
+          "https://images2.imgbox.com/98/47/HqrGXF1a_o.jpg"
+        ]
+      }
+    },
+    "01": {
+      "title": "Capítulo 01",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/ed/d9/QtuEyrRu_o.jpg",
+          "https://images2.imgbox.com/65/16/nxbYtkxI_o.jpg",
+          "https://images2.imgbox.com/0a/ba/8Vp6D4AE_o.jpg",
+          "https://images2.imgbox.com/e3/1c/vRH0nwA5_o.jpg",
+          "https://images2.imgbox.com/03/a6/FKGqnpvP_o.jpg",
+          "https://images2.imgbox.com/b8/d1/NeJmu0o7_o.jpg",
+          "https://images2.imgbox.com/fb/96/EaarQGsp_o.jpg",
+          "https://images2.imgbox.com/48/15/Ndoj6qBj_o.jpg",
+          "https://images2.imgbox.com/07/79/MRFRo7uu_o.jpg",
+          "https://images2.imgbox.com/65/7a/5Qvt6Vei_o.jpg",
+          "https://images2.imgbox.com/1d/f5/CnrIdPvO_o.jpg"
+        ]
+      }
+    },
+    "00": {
+      "title": "Capítulo 00",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/41/eb/x8kvtD2j_o.jpg",
+          "https://images2.imgbox.com/46/b8/Xnj7GWDI_o.jpg"
+        ]
+      }
+    }
+  }
+}
