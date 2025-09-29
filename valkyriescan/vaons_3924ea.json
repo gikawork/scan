@@ -1,0 +1,27 @@
+{
+  "title": "Amagoi no Kanojo",
+  "author": "Tsuke",
+  "artist": "Tsuke",
+  "description": "Uma garota encontra sua colega de classe em um dia chuvoso.",
+  "cover": "https://images2.imgbox.com/84/8b/KKJTFGz3_o.jpg",
+  "chapters": {
+    "Único": {
+      "title": "Capítulo Único",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/77/b3/XCKbXcaI_o.jpg",
+          "https://images2.imgbox.com/cc/46/EExoLeEL_o.jpg",
+          "https://images2.imgbox.com/d3/a0/vtzLShLU_o.jpg",
+          "https://images2.imgbox.com/11/0c/6rEvXdnB_o.jpg",
+          "https://images2.imgbox.com/2c/40/9tUP6kbn_o.jpg",
+          "https://images2.imgbox.com/cb/e7/f0Ik8rRc_o.jpg",
+          "https://images2.imgbox.com/4f/05/EKA93tiY_o.jpg",
+          "https://images2.imgbox.com/6e/0a/ZoJPRD0w_o.jpg",
+          "https://images2.imgbox.com/d4/3b/D3t5rmKD_o.jpg",
+          "https://images2.imgbox.com/23/e4/XoNUW07j_o.jpg",
+          "https://images2.imgbox.com/f2/b2/KYaYwixn_o.jpg"
+        ]
+      }
+    }
+  }
+}
