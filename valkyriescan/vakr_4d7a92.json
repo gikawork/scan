@@ -1,0 +1,74 @@
+{
+  "title": "My Future is Yours",
+  "author": "Diandra",
+  "artist": "Diandra",
+  "description": "Oráculos veem o passado e o futuro de todos com quem entram em contato. Elas compartilham sua visão com algumas poucas pessoas que estão determinadas a escolher seu próprio caminho na vida. Essas pessoas são chamadas de buscadores. No entanto, um buscador deve ser cauteloso, pois, se não for digno de seu próprio futuro, então será tomado dele. Esse é o maior medo de Elise ao se colocar diante da Oráculo. Mas ela está desesperada demais para recuar.",
+  "cover": "https://images2.imgbox.com/01/33/Za3IWw7B_o.png",
+  "chapters": {
+    "03": {
+      "title": "Capítulo 03 - O funeral de uma seeker",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/24/5e/2xypshUA_o.jpg",
+          "https://images2.imgbox.com/a1/c8/BtZG6w00_o.jpg",
+          "https://images2.imgbox.com/f7/28/CS5F0utQ_o.jpg",
+          "https://images2.imgbox.com/b8/d1/yh0jEgec_o.jpg",
+          "https://images2.imgbox.com/2d/01/2MAdGqfx_o.png"
+        ]
+      }
+    },
+    "02": {
+      "title": "Capítulo 02 - Oráculos",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/6f/a2/LV68sHRh_o.jpg",
+          "https://images2.imgbox.com/19/51/QD39hPQD_o.jpg",
+          "https://images2.imgbox.com/7d/e7/i10gWnSi_o.jpg",
+          "https://images2.imgbox.com/b0/75/0j32vG2p_o.jpg",
+          "https://images2.imgbox.com/3f/b2/o94edd5M_o.jpg",
+          "https://images2.imgbox.com/8e/5c/hxIyAlk7_o.jpg",
+          "https://images2.imgbox.com/a7/1a/HZE4WXtJ_o.png"
+        ]
+      }
+    },
+    "01": {
+      "title": "Capítulo 01 - Borboleta branca",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/02/74/lZKNIlnB_o.jpg",
+          "https://images2.imgbox.com/2a/72/Kw0jGm2C_o.jpg",
+          "https://images2.imgbox.com/0e/e2/GgqzCzGB_o.jpg",
+          "https://images2.imgbox.com/a8/11/lHJuSE07_o.jpg",
+          "https://images2.imgbox.com/6c/7e/BAE6WAU3_o.jpg",
+          "https://images2.imgbox.com/92/e0/vbCoDOqI_o.jpg",
+          "https://images2.imgbox.com/ef/1b/JKyvBpPE_o.jpg",
+          "https://images2.imgbox.com/9a/77/NHaGExok_o.jpg",
+          "https://images2.imgbox.com/d9/fa/6RULNfsi_o.jpg",
+          "https://images2.imgbox.com/f1/78/ows5EcUP_o.jpg",
+          "https://images2.imgbox.com/21/b8/ygLsFzi5_o.jpg",
+          "https://images2.imgbox.com/57/3a/GT1K0ZuM_o.jpg",
+          "https://images2.imgbox.com/23/b6/CQ6Dbz62_o.jpg",
+          "https://images2.imgbox.com/d3/05/SCY4QQzL_o.jpg",
+          "https://images2.imgbox.com/3c/ba/6BClDOLg_o.png"
+        ]
+      }
+    },
+    "00": {
+      "title": "Capítulo 00 - Prévia",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/9e/43/wwHecoWj_o.jpg",
+          "https://images2.imgbox.com/3f/87/eSlmpaej_o.jpg",
+          "https://images2.imgbox.com/65/2d/YOe2leWj_o.jpg",
+          "https://images2.imgbox.com/3b/79/04973C3L_o.jpg",
+          "https://images2.imgbox.com/a5/65/W8pfQte2_o.jpg",
+          "https://images2.imgbox.com/d2/32/EP7aVjR9_o.jpg",
+          "https://images2.imgbox.com/7a/54/XEn8w0Ds_o.jpg",
+          "https://images2.imgbox.com/7e/a1/T3QiRyfa_o.jpg",
+          "https://images2.imgbox.com/67/3d/65LsVpq6_o.jpg",
+          "https://images2.imgbox.com/a4/d8/5LYxp0DQ_o.png"
+        ]
+      }
+    }
+  }
+}
