@@ -1,0 +1,81 @@
+{
+  "title": "Love Letter",
+  "author": "asimplebengo",
+  "artist": "asimplebengo",
+  "description": "A história da conexão mesmo de longe. Duas mulheres se mantêm conectadas por meio de cartas, mantendo viva a paixão que sentem uma pela outra.",
+  "cover": "https://images2.imgbox.com/13/73/wnsIfsz4_o.jpg",
+  "chapters": {
+    "04": {
+      "title": "Capítulo 04 - Fim",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/1a/d4/MeqRUzOW_o.png",
+          "https://images2.imgbox.com/6d/42/KAZK9lgT_o.jpg",
+          "https://images2.imgbox.com/52/32/EdYBt6yy_o.jpg",
+          "https://images2.imgbox.com/2b/3f/88Baoq06_o.jpg",
+          "https://images2.imgbox.com/0b/76/j9mlk3Ke_o.jpg",
+          "https://images2.imgbox.com/0e/aa/B1zxkMna_o.jpg",
+          "https://images2.imgbox.com/96/6d/f0oCqfgx_o.jpg",
+          "https://images2.imgbox.com/20/ec/N851mR7c_o.jpg",
+          "https://images2.imgbox.com/49/35/k4HYTN6W_o.jpg",
+          "https://images2.imgbox.com/3d/7a/1L6RiMR3_o.jpg",
+          "https://images2.imgbox.com/b9/3f/jTZgB0G2_o.jpg"
+        ]
+      }
+    },
+    "03": {
+      "title": "Capítulo 03",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/54/51/HvTpWEnr_o.png",
+          "https://images2.imgbox.com/ac/f7/2CWrFpXE_o.jpg",
+          "https://images2.imgbox.com/6d/2f/Qc7w0DYq_o.jpg",
+          "https://images2.imgbox.com/47/61/B0Urmfct_o.jpg",
+          "https://images2.imgbox.com/d7/f5/DjRzxzq1_o.jpg",
+          "https://images2.imgbox.com/dc/b3/ihXg6QLc_o.jpg",
+          "https://images2.imgbox.com/af/71/pxUJFfOJ_o.jpg",
+          "https://images2.imgbox.com/7d/1c/7LSY5SRW_o.jpg",
+          "https://images2.imgbox.com/b1/d8/nBbKdwkF_o.jpg",
+          "https://images2.imgbox.com/67/a6/whW5E4Ay_o.jpg",
+          "https://images2.imgbox.com/64/de/wZhMHnLB_o.jpg"
+        ]
+      }
+    },
+    "02": {
+      "title": "Capítulo 02",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/32/b8/Kx7cTO5E_o.png",
+          "https://images2.imgbox.com/bb/c2/35W03Z4G_o.jpg",
+          "https://images2.imgbox.com/06/36/8UFLuSmE_o.jpg",
+          "https://images2.imgbox.com/61/2d/YqleRi8Q_o.jpg",
+          "https://images2.imgbox.com/f4/fc/1FUNtRdr_o.jpg",
+          "https://images2.imgbox.com/71/58/zLcqnEFm_o.jpg",
+          "https://images2.imgbox.com/2e/bc/iUTW7or4_o.jpg",
+          "https://images2.imgbox.com/85/c1/4vcKuvtQ_o.jpg",
+          "https://images2.imgbox.com/2a/55/oJ72h71c_o.jpg",
+          "https://images2.imgbox.com/1b/61/YCIAZN8R_o.jpg",
+          "https://images2.imgbox.com/ad/e1/1mUbsa6c_o.jpg"
+        ]
+      }
+    },
+    "01": {
+      "title": "Capítulo 01",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/31/1d/CrQdxJwM_o.png",
+          "https://images2.imgbox.com/9f/a8/iugxH0Xm_o.jpg",
+          "https://images2.imgbox.com/64/cb/FrCmrehU_o.jpg",
+          "https://images2.imgbox.com/ac/90/gQtZXtnA_o.jpg",
+          "https://images2.imgbox.com/f6/96/w74y3qxm_o.jpg",
+          "https://images2.imgbox.com/ae/0f/GGSJneaH_o.jpg",
+          "https://images2.imgbox.com/21/2f/rzsnX4Gf_o.jpg",
+          "https://images2.imgbox.com/94/1a/9phNmn7h_o.jpg",
+          "https://images2.imgbox.com/08/6b/r44XyeH9_o.jpg",
+          "https://images2.imgbox.com/73/5d/h2Q66pst_o.jpg",
+          "https://images2.imgbox.com/8a/9a/2m3Oc9KN_o.jpg"
+        ]
+      }
+    }
+  }
+}
