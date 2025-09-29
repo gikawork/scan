@@ -1,0 +1,27 @@
+{
+  "title": "A Secret Weekend",
+  "author": "Karuha",
+  "artist": "Karuha",
+  "description": "Um casal se deixando levar por fantasias…",
+  "cover": "https://images2.imgbox.com/15/40/KLXP93I1_o.jpg",
+  "chapters": {
+    "Único": {
+      "title": "Capítulo Único",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/8f/a2/5TJTgklf_o.png",
+          "https://images2.imgbox.com/00/6a/VWlFNj8O_o.png",
+          "https://images2.imgbox.com/d2/4a/1rQC1505_o.png",
+          "https://images2.imgbox.com/ee/c9/s8OlmTEu_o.png",
+          "https://images2.imgbox.com/ae/99/DqlnoWRR_o.png",
+          "https://images2.imgbox.com/30/87/7cLAaxEK_o.png",
+          "https://images2.imgbox.com/33/d3/Rt1kDO0H_o.png",
+          "https://images2.imgbox.com/89/3b/vOEO7pTd_o.png",
+          "https://images2.imgbox.com/6a/28/PxIOmVIT_o.png",
+          "https://images2.imgbox.com/1d/e9/32UvIun9_o.png",
+          "https://images2.imgbox.com/45/4d/ErbFh0qa_o.png"
+        ]
+      }
+    }
+  }
+}
