@@ -4,8 +4,9 @@
   "artist": "Murrang",
   "description": "A atrapalhada Yeon-Woo, um dia passa por um beco escuro e dá de cara com uma pessoa chamada Ha-Yang. Pra sua surpresa, a jovem parece ser uma vampira, que pede o sague de Yeon em troca. Será que Yeon vai deixar a assustadora Ha-Yang provar uma gota do seu sangue?",
   "cover": "https://images2.imgbox.com/bb/3c/YGi0FWSQ_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06 - O verdadeiro segredo",
       "groups": {
         "Valkyriescan": [
@@ -25,7 +26,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Irmã gêmea",
       "groups": {
         "Valkyriescan": [
@@ -51,7 +52,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Você quer ser minha amiga?",
       "groups": {
         "Valkyriescan": [
@@ -75,7 +76,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Meu tipo",
       "groups": {
         "Valkyriescan": [
@@ -94,7 +95,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Uma reunião sangrenta",
       "groups": {
         "Valkyriescan": [
@@ -107,7 +108,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Primeiro encontro",
       "groups": {
         "Valkyriescan": [
