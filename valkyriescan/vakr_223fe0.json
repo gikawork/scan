@@ -4,6 +4,7 @@
   "artist": "Oha25",
   "description": "Seulgi é uma estudante universitária de TI, introvertida que se “solta” toda vez que fica bebaça. Ela ouviu boatos de que para melhorar as notas em uma disciplina, precisaria participar dos rôles organizados pelo departamento social da Faculdade de Educação Física. Para manter suas notas ela resolve ir e acaba enchendo a cara, o que chama a atenção de Oh Bora, uma estudante de EF popular, dando inicio a uma divertida comédia romântica entre uma nerd introvertida e uma extrovertida confiante.",
   "cover": "https://images2.imgbox.com/f5/87/VN39lxGT_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "13": {
       "title": "Capítulo 13 - A especialista da universidade Minguk, Oh Bora",
@@ -143,7 +144,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Bêbada sem uma gota de álcool (2)",
       "groups": {
         "Valkyriescan": [
@@ -187,7 +188,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Bêbada sem uma gota de álcool",
       "groups": {
         "Valkyriescan": [
@@ -225,7 +226,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Humilhação",
       "groups": {
         "Valkyriescan": [
@@ -263,7 +264,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Eu vou gostar de você",
       "groups": {
         "Valkyriescan": [
@@ -295,7 +296,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Quando os pesadelos se tornam realidade",
       "groups": {
         "Valkyriescan": [
@@ -337,7 +338,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Consequências das ações",
       "groups": {
         "Valkyriescan": [
@@ -374,7 +375,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Comeu e saiu correndo",
       "groups": {
         "Valkyriescan": [
@@ -410,7 +411,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Ela não sabe beber, mas é gente boa (2)",
       "groups": {
         "Valkyriescan": [
@@ -447,7 +448,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Ela não sabe beber, mas é gente boa (1)",
       "groups": {
         "Valkyriescan": [
