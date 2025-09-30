@@ -4,6 +4,7 @@
   "artist": "Rrrrrrice",
   "description": "Em uma cidade litorânea do século XVII, esta é a história de uma garota que colhia ostras e cujo destino é transformado após um encontro com uma sereia…",
   "cover": "https://images2.imgbox.com/e6/3e/G4400R9a_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "2.2": {
       "title": "Capítulo 2.2 - Nó (Parte 2)",
@@ -127,7 +128,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo",
       "groups": {
         "Valkyriescan": [
