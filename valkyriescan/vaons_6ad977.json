@@ -4,8 +4,9 @@
   "artist": "Mito (ミト)",
   "description": "Momo, uma princesa ovelha, e Akki, sua fiel mordoma lobo, embarcam em uma viagem de lua de mel ao país das raposas. Entre momentos fofos e românticos, as duas vivem situações encantadoras e apaixonantes.",
   "cover": "https://images2.imgbox.com/70/25/Ex7T5XYX_o.png",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
