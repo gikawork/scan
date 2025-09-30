@@ -4,6 +4,7 @@
   "artist": "Taguchi Shouichi",
   "description": "Vampiros e lobisomens… Um dia, Eri, uma “oficial de revisão” que caça coisas que supostamente se ressentem da humanidade, entra em uma pensão administrada por uma garota misteriosa. O encontro entre uma garota cuja existência foi negada e um lendário vampiro. Ela não mudará o mundo, mas pode se tornar gentil. Uma comédia de administração doméstica emocionante começa agora!",
   "cover": "https://images2.imgbox.com/95/52/O7uw9EBY_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "12": {
       "title": "Capítulo 12 - Festivais e Filmes",
@@ -95,7 +96,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - A sereia e a Cidade - Parte 1",
       "groups": {
         "Valkyriescan": [
@@ -117,7 +118,7 @@
         ]
       }
     },
-    "08.5": {
+    "8.5": {
       "title": "Capítulo 08.5 - EXTRA",
       "groups": {
         "Valkyriescan": [
@@ -130,7 +131,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - A Determinação de Todos",
       "groups": {
         "Valkyriescan": [
@@ -161,7 +162,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - RIMAS E APLICAÇÕES",
       "groups": {
         "Valkyriescan": [
@@ -194,7 +195,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Vovô e Acordos",
       "groups": {
         "Valkyriescan": [
@@ -222,7 +223,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Desilusões e Duelos",
       "groups": {
         "Valkyriescan": [
@@ -255,7 +256,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Amor, respeito e invasão da casa de um amigo",
       "groups": {
         "Valkyriescan": [
@@ -283,7 +284,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Rivais e rumores",
       "groups": {
         "Valkyriescan": [
@@ -339,7 +340,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Pudim elegante e compreensão mútua",
       "groups": {
         "Valkyriescan": [
@@ -403,7 +404,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O senso de dever de uma criança",
       "groups": {
         "Valkyriescan": [
