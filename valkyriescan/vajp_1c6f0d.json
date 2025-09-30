@@ -4,6 +4,7 @@
   "artist": "Naekawa Sai",
   "description": "“Eu vim para te devorar.”",
   "cover": "https://images2.imgbox.com/e3/8a/qBbW5CxA_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "31.5": {
       "title": "Capítulo 31.5 - Posfácio e Extras",
@@ -1039,7 +1040,7 @@
         ]
       }
     },
-    "09.5": {
+    "9.5": {
       "title": "Capítulo 09.5 - Extra Volume 2",
       "groups": {
         "Valkyriescan": [
@@ -1061,7 +1062,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Apenas resta uma promessa na sua oração",
       "groups": {
         "Valkyriescan": [
@@ -1102,7 +1103,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Os laços frágeis que se unem",
       "groups": {
         "Valkyriescan": [
@@ -1133,7 +1134,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Memórias com você",
       "groups": {
         "Valkyriescan": [
@@ -1166,7 +1167,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Coisas que mudam e coisas que não",
       "groups": {
         "Valkyriescan": [
@@ -1198,7 +1199,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Um oceano de esperança",
       "groups": {
         "Valkyriescan": [
@@ -1239,7 +1240,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Florescer à noite e se espalhar no mar",
       "groups": {
         "Valkyriescan": [
@@ -1279,7 +1280,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O Monstro no Pôr do Sol e no Festival de Música",
       "groups": {
         "Valkyriescan": [
@@ -1317,7 +1318,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - O Desconhecido Sob a Luz do Sol Filtrada pelas Folhas",
       "groups": {
         "Valkyriescan": [
@@ -1355,7 +1356,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Uma Suicida Aguarda o Mar",
       "groups": {
         "Valkyriescan": [
