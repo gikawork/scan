@@ -4,8 +4,9 @@
   "artist": "Migihara",
   "description": "Uma vez por semana, Miyagi paga 5.000 ienes à sua colega de classe Sendai. Os 5.000 ienes são para comprar três horas do tempo de Sendai, o que dá a Miyagi o direito de lhe dar ordens.",
   "cover": "https://images2.imgbox.com/f9/dc/E3cgdrhM_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
