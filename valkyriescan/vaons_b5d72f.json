@@ -4,8 +4,9 @@
   "artist": "Senyuu",
   "description": "Um doujinshi de Sayo x Yukina (Bandori! / Bang Dream!)",
   "cover": "https://images2.imgbox.com/4e/f6/Wai6bJny_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
