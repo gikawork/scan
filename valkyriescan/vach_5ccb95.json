@@ -4,6 +4,7 @@
   "artist": "Lily Club",
   "description": "Nan Yue estava apenas de passagem no Reino dos Elfos. Mas ela descobriu que assinou um contrato de casamento com Ah Sha, a princesa élfica. Espera, eu sou uma garota! Como eu poderia me casar com a princesa? E por que agora sou procurada pelo mundo depois de assinar um contrato de casamento??",
   "cover": "https://images2.imgbox.com/5a/1e/IRTu93Hj_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "52": {
       "title": "Capítulo 52 - Aqui está sua recompensa!",
@@ -1374,7 +1375,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Eu... Eu sou a pior",
       "groups": {
         "Valkyriescan": [
@@ -1403,7 +1404,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Você é a pior, Nan Yue!",
       "groups": {
         "Valkyriescan": [
@@ -1432,7 +1433,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Eu juro pelo meu amor por você!",
       "groups": {
         "Valkyriescan": [
@@ -1461,7 +1462,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Beijo indireto",
       "groups": {
         "Valkyriescan": [
@@ -1490,7 +1491,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Jantar chique",
       "groups": {
         "Valkyriescan": [
@@ -1519,7 +1520,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Eu amo a minha esposa! Não tenho medo!",
       "groups": {
         "Valkyriescan": [
@@ -1538,7 +1539,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Nós elfos mantemos nossas promessas!",
       "groups": {
         "Valkyriescan": [
@@ -1557,7 +1558,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Eu tenho um contrato de casamento com a princesa elfa!",
       "groups": {
         "Valkyriescan": [
@@ -1576,7 +1577,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Encontro com a elfa selvagem, e é isso",
       "groups": {
         "Valkyriescan": [
@@ -1605,7 +1606,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prévia",
       "groups": {
         "Valkyriescan": [
