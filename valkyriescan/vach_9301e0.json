@@ -4,6 +4,7 @@
   "artist": "Shi Yi Er",
   "description": "O que acontecerá quando uma filha excessivamente solidária descobrir um monte de fotos de sua mãe, uma atriz famosa, na internet posando com suas co-estrelas femininas de maneiras que “amigas” não fariam?",
   "cover": "https://images2.imgbox.com/b1/f3/2O2Uan5g_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "39": {
       "title": "Capítulo 39 - Luz do Sol 🍊",
@@ -712,7 +713,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Comunicado",
       "groups": {
         "Valkyriescan": [
@@ -725,7 +726,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Caderno (2)",
       "groups": {
         "Valkyriescan": [
@@ -743,7 +744,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Caderno (1)",
       "groups": {
         "Valkyriescan": [
@@ -758,7 +759,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Entrevista Exclusiva",
       "groups": {
         "Valkyriescan": [
@@ -773,7 +774,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Reunião",
       "groups": {
         "Valkyriescan": [
@@ -788,7 +789,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Mal-entendido",
       "groups": {
         "Valkyriescan": [
@@ -801,7 +802,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -814,7 +815,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -827,7 +828,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
