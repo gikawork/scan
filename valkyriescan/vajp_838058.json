@@ -4,7 +4,43 @@
   "artist": "Nauchi",
   "description": "Um mangá escolar yuri sobre o “príncipe” de uma escola feminina e uma garota que é tão fofa como um animalzinho.",
   "cover": "https://images2.imgbox.com/46/c2/SmgZmaOf_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
+    "16": {
+      "title": "Capitulo 16 - Os desafios que preciso enfrentar",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/cf/d4/65QFExdX_o.png",
+          "https://images2.imgbox.com/b7/47/tBrpaJUY_o.png",
+          "https://images2.imgbox.com/e4/e8/jYLhyPHP_o.png",
+          "https://images2.imgbox.com/17/96/v7KXPso8_o.png",
+          "https://images2.imgbox.com/ab/18/R7HAvNXk_o.png",
+          "https://images2.imgbox.com/82/10/t7LX7G3z_o.png",
+          "https://images2.imgbox.com/e6/00/7ZRR19O1_o.png",
+          "https://images2.imgbox.com/a0/9b/l0IIXU67_o.png",
+          "https://images2.imgbox.com/60/6a/qTPWtPRp_o.png",
+          "https://images2.imgbox.com/a6/57/KVo9CiSo_o.png",
+          "https://images2.imgbox.com/c4/d0/qMJ5tq3U_o.png",
+          "https://images2.imgbox.com/8a/c9/LbyOSVZQ_o.png",
+          "https://images2.imgbox.com/34/5b/FfN7ZyZg_o.png",
+          "https://images2.imgbox.com/b3/c8/cfA3VOWT_o.png",
+          "https://images2.imgbox.com/57/a4/96rYsoWm_o.png",
+          "https://images2.imgbox.com/85/ea/xCacLAsV_o.png",
+          "https://images2.imgbox.com/70/94/pbuSCQSN_o.png",
+          "https://images2.imgbox.com/01/7b/ymHASUYe_o.png",
+          "https://images2.imgbox.com/9c/1a/B679vONe_o.png",
+          "https://images2.imgbox.com/e7/a7/OtRryH51_o.png",
+          "https://images2.imgbox.com/71/9e/WvQf7Qrl_o.png",
+          "https://images2.imgbox.com/23/1f/Lnm26SPz_o.png",
+          "https://images2.imgbox.com/00/a0/coAAF1FD_o.png",
+          "https://images2.imgbox.com/a7/76/DuxYg6Dl_o.png",
+          "https://images2.imgbox.com/69/cb/NIppnyb2_o.png",
+          "https://images2.imgbox.com/d1/84/9wvhXzAx_o.png",
+          "https://images2.imgbox.com/97/a2/osWESyJh_o.png",
+          "https://images2.imgbox.com/7c/d6/y92NPETj_o.png"
+        ]
+      }
+    },
     "15": {
       "title": "Capítulo 15 - Florescendo",
       "groups": {
@@ -230,7 +266,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Príncipe Kaguya",
       "groups": {
         "Valkyriescan": [
@@ -267,7 +303,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Distância Invisível",
       "groups": {
         "Valkyriescan": [
@@ -300,7 +336,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Comparando respostas onde não há nenhuma",
       "groups": {
         "Valkyriescan": [
@@ -333,7 +369,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Desejos que Começaram a Crescer",
       "groups": {
         "Valkyriescan": [
@@ -366,7 +402,7 @@
         ]
       }
     },
-    "05.6": {
+    "5.6": {
       "title": "Capítulo 05.6 - Extra - Volume 1",
       "groups": {
         "Valkyriescan": [
@@ -378,7 +414,7 @@
         ]
       }
     },
-    "05.5": {
+    "5.5": {
       "title": "Capítulo 05.5 - Extra - No Caminho de Casa",
       "groups": {
         "Valkyriescan": [
@@ -402,7 +438,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Mistério Resolvido",
       "groups": {
         "Valkyriescan": [
@@ -434,7 +470,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Força de vontade",
       "groups": {
         "Valkyriescan": [
@@ -467,7 +503,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O que é uma amiga?",
       "groups": {
         "Valkyriescan": [
@@ -475,7 +511,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Pulsação violenta",
       "groups": {
         "Valkyriescan": [
@@ -511,7 +547,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Príncipe da escola feminina",
       "groups": {
         "Valkyriescan": [
@@ -544,41 +580,6 @@
           "https://images2.imgbox.com/de/5f/voUQMg7O_o.jpg",
           "https://images2.imgbox.com/0a/e6/ZgcllXaH_o.jpg",
           "https://images2.imgbox.com/92/7a/7ROTQAvT_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 16": {
-      "title": "Capitulo 16 - Os desafios que preciso enfrentar",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/cf/d4/65QFExdX_o.png",
-          "https://images2.imgbox.com/b7/47/tBrpaJUY_o.png",
-          "https://images2.imgbox.com/e4/e8/jYLhyPHP_o.png",
-          "https://images2.imgbox.com/17/96/v7KXPso8_o.png",
-          "https://images2.imgbox.com/ab/18/R7HAvNXk_o.png",
-          "https://images2.imgbox.com/82/10/t7LX7G3z_o.png",
-          "https://images2.imgbox.com/e6/00/7ZRR19O1_o.png",
-          "https://images2.imgbox.com/a0/9b/l0IIXU67_o.png",
-          "https://images2.imgbox.com/60/6a/qTPWtPRp_o.png",
-          "https://images2.imgbox.com/a6/57/KVo9CiSo_o.png",
-          "https://images2.imgbox.com/c4/d0/qMJ5tq3U_o.png",
-          "https://images2.imgbox.com/8a/c9/LbyOSVZQ_o.png",
-          "https://images2.imgbox.com/34/5b/FfN7ZyZg_o.png",
-          "https://images2.imgbox.com/b3/c8/cfA3VOWT_o.png",
-          "https://images2.imgbox.com/57/a4/96rYsoWm_o.png",
-          "https://images2.imgbox.com/85/ea/xCacLAsV_o.png",
-          "https://images2.imgbox.com/70/94/pbuSCQSN_o.png",
-          "https://images2.imgbox.com/01/7b/ymHASUYe_o.png",
-          "https://images2.imgbox.com/9c/1a/B679vONe_o.png",
-          "https://images2.imgbox.com/e7/a7/OtRryH51_o.png",
-          "https://images2.imgbox.com/71/9e/WvQf7Qrl_o.png",
-          "https://images2.imgbox.com/23/1f/Lnm26SPz_o.png",
-          "https://images2.imgbox.com/00/a0/coAAF1FD_o.png",
-          "https://images2.imgbox.com/a7/76/DuxYg6Dl_o.png",
-          "https://images2.imgbox.com/69/cb/NIppnyb2_o.png",
-          "https://images2.imgbox.com/d1/84/9wvhXzAx_o.png",
-          "https://images2.imgbox.com/97/a2/osWESyJh_o.png",
-          "https://images2.imgbox.com/7c/d6/y92NPETj_o.png"
         ]
       }
     }
