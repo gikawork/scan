@@ -4,8 +4,9 @@
   "artist": "Aji",
   "description": "Uma coletânea GL com 8 histórias emocionantes perfeitas para aquecer o coração como o primeiro floco de neve 🌨️",
   "cover": "https://images2.imgbox.com/46/fe/ghD1rTNp_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Só vou estudar? - Parte 2 (Doolce)",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Só vou estudar? - Parte 1 (Doolce)",
       "groups": {
         "Valkyriescan": [
@@ -96,7 +97,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Dama Sensual - Parte 02 - Final (Grey Nagato)",
       "groups": {
         "Valkyriescan": [
@@ -154,7 +155,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Dama Sensual - Parte 01 (Grey Nagato)",
       "groups": {
         "Valkyriescan": [
