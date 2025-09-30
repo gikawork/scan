@@ -4,6 +4,7 @@
   "artist": "Idol Meow Studio (爱豆喵工作室)",
   "description": "Hu Yimeng parece ser elegante, mas na verdade gosta de coisas fofas. Zhang Luoyu é uma garota angelical na superfície, mas fala com um forte sotaque da sua região e, longe de ser uma garota fofa, é uma competidora feroz em decatlo! Uma cosplayer feminina deslumbrante e uma pintora bela e estoica formam um casal contrastante, e sua hilária e ansiosa história de amor diária está prestes a começar.",
   "cover": "https://images2.imgbox.com/f4/a9/tGAj9Z6I_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "20": {
       "title": "Capítulo 20 - Primeiro encontro",
@@ -343,7 +344,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Namorado?",
       "groups": {
         "Valkyriescan": [
@@ -376,7 +377,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Ela realmente me odeia",
       "groups": {
         "Valkyriescan": [
@@ -409,7 +410,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - O outro lado da anjinho",
       "groups": {
         "Valkyriescan": [
@@ -442,7 +443,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Perigo na estrada",
       "groups": {
         "Valkyriescan": [
@@ -475,7 +476,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Isso é bem diferente do que eu imaginei!",
       "groups": {
         "Valkyriescan": [
@@ -503,7 +504,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Pode vir na minha casa",
       "groups": {
         "Valkyriescan": [
@@ -531,7 +532,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Viagem à fantasia",
       "groups": {
         "Valkyriescan": [
@@ -564,7 +565,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Conhecendo o florescer dela",
       "groups": {
         "Valkyriescan": [
@@ -597,7 +598,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Vendo-a florescer",
       "groups": {
         "Valkyriescan": [
