@@ -4,8 +4,9 @@
   "artist": "Ema Tooyama",
   "description": "Uma mulher reencarna como Jona-sensei, um professora de magia de maldição em um jogo de videogame, e tenta impedir o fim trágico da vilã do jogo.",
   "cover": "https://images2.imgbox.com/fd/b1/mjt9v0yG_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
