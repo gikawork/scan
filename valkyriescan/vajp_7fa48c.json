@@ -4,6 +4,7 @@
   "artist": "HATTORI Mitsuru",
   "description": "Sem um único amigo, a estudante de ensino médio Chigawa Kon vive em uma pequena ilha e lamenta que ela ainda não tenha se “apaixonado”, ao contrário de seus colegas de classe. Ela costuma ir para a “O Buraco”, uma caverna perto do mar onde vive um monstro devorador de homens, de acordo com contos populares. Um dia, quando ela se encontra com outra garota que acidentalmente deixa cair seu smartphone no mar, eles caem de um penhasco juntas, mas milagrosamente sobrevivem. Acontece que Furuka também está sozinha.",
   "cover": "https://images2.imgbox.com/38/6a/yIrIc5sq_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "25": {
       "title": "Capítulo 25",
@@ -314,7 +315,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -334,7 +335,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -354,7 +355,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -378,7 +379,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -395,7 +396,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -417,7 +418,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -437,7 +438,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -459,7 +460,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -480,7 +481,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
