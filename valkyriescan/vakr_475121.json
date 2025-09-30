@@ -4,6 +4,7 @@
   "artist": "Satsk",
   "description": "Jaque odeia mais que tudo ser o centro das atenções, mas um mal entendido fará com que ela passe a ser perseguida pela garota mais popular da escola.",
   "cover": "https://images2.imgbox.com/c4/48/Ova9OPaq_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "16": {
       "title": "Capítulo 16 - Próxima vez",
@@ -260,7 +261,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Um plano",
       "groups": {
         "Valkyriescan": [
@@ -301,7 +302,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Confissão",
       "groups": {
         "Valkyriescan": [
@@ -340,7 +341,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - A Carta",
       "groups": {
         "Valkyriescan": [
@@ -375,7 +376,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Um Favor",
       "groups": {
         "Valkyriescan": [
@@ -412,7 +413,7 @@
         ]
       }
     },
-    "05.1": {
+    "5.1": {
       "title": "Capítulo 05.1 - Extra",
       "groups": {
         "Valkyriescan": [
@@ -427,7 +428,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Primeiras Impressões",
       "groups": {
         "Valkyriescan": [
@@ -467,7 +468,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Rumores",
       "groups": {
         "Valkyriescan": [
@@ -506,7 +507,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Duplas",
       "groups": {
         "Valkyriescan": [
@@ -547,7 +548,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Aluna Nova",
       "groups": {
         "Valkyriescan": [
@@ -583,7 +584,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Amor Tolo",
       "groups": {
         "Valkyriescan": [
@@ -620,7 +621,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo",
       "groups": {
         "Valkyriescan": [
