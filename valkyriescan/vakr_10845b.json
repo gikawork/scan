@@ -4,8 +4,9 @@
   "artist": "DDOGAK",
   "description": "Ela só quer começar de novo para poder se formar em paz. Ela quer deixar para trás todas as más lembranças – seu sonambulismo, o trauma de ser intimidada na escola – tudo isso. Ela fez de tudo para ficar na sua, mas a presidente da classe, Hae-on, simplesmente não a deixa em paz. Um dia, quando Seulbi visita o lago local que Hae-on recomendou, ela se depara com algo que nunca imaginou ver nem em seus sonhos mais loucos: uma sereia selvagem e sombria.",
   "cover": "https://images2.imgbox.com/f7/0b/n0ZCC7NV_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -43,7 +44,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -101,7 +102,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -159,7 +160,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
