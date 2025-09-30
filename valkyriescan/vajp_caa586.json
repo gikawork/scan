@@ -4,8 +4,9 @@
   "artist": "Nanahashi Raku",
   "description": "Na cidade repleta de gatos de Miyakecho, existe uma lenda urbana que diz que os felinos às vezes lançam maldições sobre os humanos.",
   "cover": "https://images2.imgbox.com/d5/aa/XPNIC2sy_o.jpeg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -44,7 +45,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -102,7 +103,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
