@@ -4,8 +4,9 @@
   "artist": "伊実",
   "description": "Enquanto fazia um lanche noturno, a artista Xin Xin acidentalmente salva Yin Yin, uma garota rica bêbada. Ela dá um banho nela, troca suas roupas e até faz uma tigela de macarrão suantang depois de muita insistência…",
   "cover": "https://images2.imgbox.com/62/bd/HwbKo5Hz_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Robalo ao vapor",
       "groups": {
         "Valkyriescan": [
@@ -33,7 +34,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Figura modelo!",
       "groups": {
         "Valkyriescan": [
@@ -61,7 +62,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Hambúrguer chinês!",
       "groups": {
         "Valkyriescan": [
@@ -89,7 +90,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Regras comunitárias",
       "groups": {
         "Valkyriescan": [
@@ -117,7 +118,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Tão saboroso!",
       "groups": {
         "Valkyriescan": [
@@ -145,7 +146,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Quatro quilos de asinhas de frango!",
       "groups": {
         "Valkyriescan": [
@@ -173,7 +174,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Essa sopa tem uma acidez única!",
       "groups": {
         "Valkyriescan": [
@@ -201,7 +202,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Quero comer Suantang Guamian",
       "groups": {
         "Valkyriescan": [
@@ -229,7 +230,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Um Kebab para animar o dia",
       "groups": {
         "Valkyriescan": [
