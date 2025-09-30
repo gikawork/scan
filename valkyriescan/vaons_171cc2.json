@@ -4,8 +4,9 @@
   "artist": "Itou Nanami",
   "description": "Durante uma sessão de estudos, duas amigas resolvem brincar com magia.",
   "cover": "https://images2.imgbox.com/82/8e/OT7HR0FY_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
