@@ -4,8 +4,9 @@
   "artist": "Suto",
   "description": "Doujinshi original",
   "cover": "https://images2.imgbox.com/58/d1/ovoy4pNY_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
