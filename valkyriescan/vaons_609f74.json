@@ -4,8 +4,9 @@
   "artist": "Hino Arashi",
   "description": "Eu posso ver o “Fio Vermelho do Destino” desde que me lembro. Ao ver casais unidos por isso, também anseio por minha pessoa predestinada.",
   "cover": "https://images2.imgbox.com/a4/67/u0LR0bOR_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
