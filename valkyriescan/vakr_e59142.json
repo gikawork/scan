@@ -4,6 +4,7 @@
   "artist": "Silvia Wirke",
   "description": "Acompanhe o dia-a-dia fofo e divertido de Kim, uma jovem garota de 19 anos de idade, seus amigos e sua família! Seja em casa, no trabalho ou na faculdade, sempre tem algo interessante e divertido acontecendo, principalmente após a chegada de Rose, uma garota misteriosa levemente peculiar.",
   "cover": "https://images2.imgbox.com/6e/91/AmVEo9pJ_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "91": {
       "title": "Capítulo 91 - Amor Sincero",
@@ -1457,7 +1458,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Filmes e Magia",
       "groups": {
         "Valkyriescan": [
@@ -1489,7 +1490,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Noite do Pijama",
       "groups": {
         "Valkyriescan": [
@@ -1521,7 +1522,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Não Pense Bobagens, Kim Jolie!",
       "groups": {
         "Valkyriescan": [
@@ -1547,7 +1548,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Emoções Cor de Rosa",
       "groups": {
         "Valkyriescan": [
@@ -1566,7 +1567,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Boas Intenções",
       "groups": {
         "Valkyriescan": [
@@ -1589,7 +1590,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Rose Veio Visitar",
       "groups": {
         "Valkyriescan": [
@@ -1608,7 +1609,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Loja do Barbudo",
       "groups": {
         "Valkyriescan": [
@@ -1629,7 +1630,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Cemitério",
       "groups": {
         "Valkyriescan": [
@@ -1648,7 +1649,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Rotina Matinal Interrompida",
       "groups": {
         "Valkyriescan": [
