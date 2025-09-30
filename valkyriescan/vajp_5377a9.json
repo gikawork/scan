@@ -4,6 +4,7 @@
   "artist": "Yuama",
   "description": "Shizuku Hoshikawa, uma garota do ensino médio que evita contato com as pessoas, escreve um romance que, por acaso, é lido por sua colega de classe, Kaori Asaka.",
   "cover": "https://images2.imgbox.com/af/a6/Wx8DA559_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "31": {
       "title": "Capítulo 31 - Para Kaori",
@@ -876,7 +877,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Encarando uma a outra",
       "groups": {
         "Valkyriescan": [
@@ -928,7 +929,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Abrindo o lacre",
       "groups": {
         "Valkyriescan": [
@@ -959,7 +960,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Memórias",
       "groups": {
         "Valkyriescan": [
@@ -1000,7 +1001,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Afogando-se em um banho de chuva",
       "groups": {
         "Valkyriescan": [
@@ -1031,7 +1032,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Confissão",
       "groups": {
         "Valkyriescan": [
@@ -1075,7 +1076,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Sementes",
       "groups": {
         "Valkyriescan": [
@@ -1091,7 +1092,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Na biblioteca",
       "groups": {
         "Valkyriescan": [
@@ -1124,7 +1125,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Incompreensível",
       "groups": {
         "Valkyriescan": [
@@ -1156,7 +1157,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Desaparecendo",
       "groups": {
         "Valkyriescan": [
