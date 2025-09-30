@@ -4,6 +4,7 @@
   "artist": "cosmos",
   "description": "Haegu, uma assassina competente e impiedosa, executa um homem na frente de sua própria filha e toma a criança sob suas asas. Ela decide chamá-la de Mian, a palavra com a tradução “desculpe” em coreano, e dá a ela uma missão: “Mate-me quando puder”. A partir desse momento, Mian decide que fará isso sufocando Haegu com amor fingido e a manipulando emocionalmente até a submissão.",
   "cover": "https://images2.imgbox.com/ff/8e/sAGL9D6O_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "105": {
       "title": "Capítulo 105",
@@ -1095,6 +1096,62 @@
           "https://images2.imgbox.com/68/0b/ycLroeX3_o.jpg",
           "https://images2.imgbox.com/27/17/wrFwCR84_o.jpg",
           "https://images2.imgbox.com/c5/be/2QIKxsJH_o.jpg"
+        ]
+      }
+    },
+    "65": {
+      "title": "Capitulo 65",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/b3/27/Sz5qIpnI_o.jpg",
+          "https://images2.imgbox.com/fc/86/bKs7XMQ1_o.jpg",
+          "https://images2.imgbox.com/af/7f/4lpq8ZFV_o.jpg",
+          "https://images2.imgbox.com/f6/84/6mr7fjyu_o.jpg",
+          "https://images2.imgbox.com/cb/af/Y7IpzSgC_o.jpg",
+          "https://images2.imgbox.com/c5/f0/m0G6nwBm_o.jpg",
+          "https://images2.imgbox.com/a8/dc/9KdUGq5y_o.jpg",
+          "https://images2.imgbox.com/f8/db/yQ0JRVOm_o.jpg",
+          "https://images2.imgbox.com/03/a7/41n7X9Ok_o.jpg",
+          "https://images2.imgbox.com/b0/18/R00BYPPq_o.jpg",
+          "https://images2.imgbox.com/99/56/ibqu7i0Q_o.jpg",
+          "https://images2.imgbox.com/31/e2/Y8BYuZKW_o.jpg",
+          "https://images2.imgbox.com/30/26/4r9xRn0i_o.jpg",
+          "https://images2.imgbox.com/1f/27/ez050XS4_o.jpg",
+          "https://images2.imgbox.com/99/dd/CdT6fG2F_o.jpg",
+          "https://images2.imgbox.com/49/9a/5HynhhpZ_o.jpg",
+          "https://images2.imgbox.com/06/64/UNu6mum3_o.jpg",
+          "https://images2.imgbox.com/40/89/MXK0bk7I_o.jpg",
+          "https://images2.imgbox.com/83/ab/NtfKbuS1_o.jpg",
+          "https://images2.imgbox.com/3e/a1/gu0CDFOH_o.jpg",
+          "https://images2.imgbox.com/b9/e8/rNmSBXgm_o.jpg"
+        ]
+      }
+    },
+    "64": {
+      "title": "Capitulo 64",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/3a/61/cnElDz73_o.jpg",
+          "https://images2.imgbox.com/23/47/LuCeZ3zh_o.jpg",
+          "https://images2.imgbox.com/f3/8f/jskwXsRo_o.jpg",
+          "https://images2.imgbox.com/23/6e/SIXLw3BN_o.jpg",
+          "https://images2.imgbox.com/54/94/E8LhMxC7_o.jpg",
+          "https://images2.imgbox.com/08/15/LGQpqRUY_o.jpg",
+          "https://images2.imgbox.com/5e/78/XSnADJY9_o.jpg",
+          "https://images2.imgbox.com/a1/66/TidVgfkQ_o.jpg",
+          "https://images2.imgbox.com/bd/97/bBIJ0tLP_o.jpg",
+          "https://images2.imgbox.com/5f/b5/scT9zdrT_o.jpg",
+          "https://images2.imgbox.com/df/44/lc2WAepd_o.jpg",
+          "https://images2.imgbox.com/86/32/TX1mgKJ4_o.jpg",
+          "https://images2.imgbox.com/7b/bf/XW2fsDRM_o.jpg",
+          "https://images2.imgbox.com/34/04/9mKz5Klj_o.jpg",
+          "https://images2.imgbox.com/5b/e8/H21JRwII_o.jpg",
+          "https://images2.imgbox.com/77/84/M4BbH0V0_o.jpg",
+          "https://images2.imgbox.com/37/94/18JjG6BR_o.jpg",
+          "https://images2.imgbox.com/90/41/ifRWIr6A_o.jpg",
+          "https://images2.imgbox.com/92/0e/qVrZ4BXN_o.jpg",
+          "https://images2.imgbox.com/0e/3e/b1fFP2IE_o.jpg",
+          "https://images2.imgbox.com/44/15/Y0nLso2x_o.jpg"
         ]
       }
     },
@@ -2711,7 +2768,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -2745,7 +2802,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -2780,7 +2837,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -2812,7 +2869,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -2845,7 +2902,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -2873,7 +2930,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -2904,7 +2961,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -2936,7 +2993,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -2969,69 +3026,13 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
           "https://images2.imgbox.com/a4/a4/KbLjEjQk_o.jpg",
           "https://images2.imgbox.com/43/99/EWpoVlyB_o.jpg",
           "https://images2.imgbox.com/7c/f0/LtJT1Xk4_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 65": {
-      "title": "Capitulo 65",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/b3/27/Sz5qIpnI_o.jpg",
-          "https://images2.imgbox.com/fc/86/bKs7XMQ1_o.jpg",
-          "https://images2.imgbox.com/af/7f/4lpq8ZFV_o.jpg",
-          "https://images2.imgbox.com/f6/84/6mr7fjyu_o.jpg",
-          "https://images2.imgbox.com/cb/af/Y7IpzSgC_o.jpg",
-          "https://images2.imgbox.com/c5/f0/m0G6nwBm_o.jpg",
-          "https://images2.imgbox.com/a8/dc/9KdUGq5y_o.jpg",
-          "https://images2.imgbox.com/f8/db/yQ0JRVOm_o.jpg",
-          "https://images2.imgbox.com/03/a7/41n7X9Ok_o.jpg",
-          "https://images2.imgbox.com/b0/18/R00BYPPq_o.jpg",
-          "https://images2.imgbox.com/99/56/ibqu7i0Q_o.jpg",
-          "https://images2.imgbox.com/31/e2/Y8BYuZKW_o.jpg",
-          "https://images2.imgbox.com/30/26/4r9xRn0i_o.jpg",
-          "https://images2.imgbox.com/1f/27/ez050XS4_o.jpg",
-          "https://images2.imgbox.com/99/dd/CdT6fG2F_o.jpg",
-          "https://images2.imgbox.com/49/9a/5HynhhpZ_o.jpg",
-          "https://images2.imgbox.com/06/64/UNu6mum3_o.jpg",
-          "https://images2.imgbox.com/40/89/MXK0bk7I_o.jpg",
-          "https://images2.imgbox.com/83/ab/NtfKbuS1_o.jpg",
-          "https://images2.imgbox.com/3e/a1/gu0CDFOH_o.jpg",
-          "https://images2.imgbox.com/b9/e8/rNmSBXgm_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 64": {
-      "title": "Capitulo 64",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/3a/61/cnElDz73_o.jpg",
-          "https://images2.imgbox.com/23/47/LuCeZ3zh_o.jpg",
-          "https://images2.imgbox.com/f3/8f/jskwXsRo_o.jpg",
-          "https://images2.imgbox.com/23/6e/SIXLw3BN_o.jpg",
-          "https://images2.imgbox.com/54/94/E8LhMxC7_o.jpg",
-          "https://images2.imgbox.com/08/15/LGQpqRUY_o.jpg",
-          "https://images2.imgbox.com/5e/78/XSnADJY9_o.jpg",
-          "https://images2.imgbox.com/a1/66/TidVgfkQ_o.jpg",
-          "https://images2.imgbox.com/bd/97/bBIJ0tLP_o.jpg",
-          "https://images2.imgbox.com/5f/b5/scT9zdrT_o.jpg",
-          "https://images2.imgbox.com/df/44/lc2WAepd_o.jpg",
-          "https://images2.imgbox.com/86/32/TX1mgKJ4_o.jpg",
-          "https://images2.imgbox.com/7b/bf/XW2fsDRM_o.jpg",
-          "https://images2.imgbox.com/34/04/9mKz5Klj_o.jpg",
-          "https://images2.imgbox.com/5b/e8/H21JRwII_o.jpg",
-          "https://images2.imgbox.com/77/84/M4BbH0V0_o.jpg",
-          "https://images2.imgbox.com/37/94/18JjG6BR_o.jpg",
-          "https://images2.imgbox.com/90/41/ifRWIr6A_o.jpg",
-          "https://images2.imgbox.com/92/0e/qVrZ4BXN_o.jpg",
-          "https://images2.imgbox.com/0e/3e/b1fFP2IE_o.jpg",
-          "https://images2.imgbox.com/44/15/Y0nLso2x_o.jpg"
         ]
       }
     }
