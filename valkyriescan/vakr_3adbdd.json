@@ -4,8 +4,9 @@
   "artist": "Shihho",
   "description": "Almendra tem duas certezas: que o amor eterno existe, e que não é para ela. Assim foram seus dias até que ela se apaixonou por Aurora, sua melhor amiga, no lugar e no momento menos apropriados. E enquanto este romance não começa com um “era uma vez”, com seu charme e determinação tudo parece pronto para um “final feliz”, exceto por um detalhe: há pessoas que não concordam com as implicações de um conto de fadas.",
   "cover": "https://images2.imgbox.com/d0/6c/M8swI63n_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -51,7 +52,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -87,7 +88,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
@@ -175,6 +176,33 @@
           "https://images2.imgbox.com/b8/44/JBN6TddR_o.jpg",
           "https://images2.imgbox.com/ab/3e/hh2gFS9N_o.jpg",
           "https://images2.imgbox.com/7d/43/t7FqxSeW_o.jpg"
+        ]
+      }
+    },
+    "Capítulo Extra - Agradecimentos e Processo": {
+      "title": "Capítulo Extra - Agradecimentos e Processo",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/87/a8/2ZWytYOt_o.jpg",
+          "https://images2.imgbox.com/71/aa/ZyFlUuDJ_o.jpg",
+          "https://images2.imgbox.com/f0/eb/So8Bgx4Z_o.jpg",
+          "https://images2.imgbox.com/e1/a1/CMMRo3CM_o.jpg",
+          "https://images2.imgbox.com/b5/99/vOGYeNbA_o.jpg",
+          "https://images2.imgbox.com/3d/d2/UpU7lcol_o.jpg",
+          "https://images2.imgbox.com/71/ca/F6tezhD7_o.jpg",
+          "https://images2.imgbox.com/3a/41/Hvc0NvWk_o.jpg",
+          "https://images2.imgbox.com/32/34/hOEgN99S_o.jpg",
+          "https://images2.imgbox.com/9d/16/zpK17Lrs_o.jpg",
+          "https://images2.imgbox.com/aa/aa/sbmHPTXE_o.jpg",
+          "https://images2.imgbox.com/e7/f8/lIhmZRDK_o.jpg",
+          "https://images2.imgbox.com/a1/c5/aDFgEz9Y_o.jpg",
+          "https://images2.imgbox.com/57/93/MJSmPCbQ_o.jpg",
+          "https://images2.imgbox.com/95/dc/Hy89rlDL_o.jpg",
+          "https://images2.imgbox.com/99/a7/16rG41x9_o.jpg",
+          "https://images2.imgbox.com/05/4c/Dc9J4YCX_o.jpg",
+          "https://images2.imgbox.com/07/c2/WsZlVxZ8_o.jpg",
+          "https://images2.imgbox.com/3d/d7/jBGzhZbt_o.jpg",
+          "https://images2.imgbox.com/4b/8b/j60L98ab_o.jpg"
         ]
       }
     }
