@@ -4,8 +4,9 @@
   "artist": "Karuha",
   "description": "Doujinshi de Love Live!",
   "cover": "https://images2.imgbox.com/27/8a/E8CYUgD1_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
