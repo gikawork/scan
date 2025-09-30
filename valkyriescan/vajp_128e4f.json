@@ -4,6 +4,7 @@
   "artist": "Yasunori Bizen",
   "description": "Takina Inoue, uma estudante do ensino médio que trabalha como membro de uma força-tarefa composta exclusivamente por assassinas e espiãs conhecida como “Lycoris”, enviada para eliminar criminosos e terroristas em Tóquio, é punida por seus superiores na agência DA por desobedecer ordens para salvar uma colega. Ela é transferida para trabalhar com a agente de elite Lycoris, Chisato Nishikigi, em uma das filiais da agência, que opera sob a fachada de um café chamado “LycoReco”.",
   "cover": "https://images2.imgbox.com/ba/44/rb1bhK3v_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "19": {
       "title": "Capítulo 19",
@@ -358,7 +359,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -386,7 +387,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -433,7 +434,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -464,7 +465,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -509,7 +510,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -544,7 +545,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -594,7 +595,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -648,7 +649,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -688,7 +689,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
