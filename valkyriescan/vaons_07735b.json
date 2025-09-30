@@ -4,8 +4,9 @@
   "artist": "Goto Yuki",
   "description": "Um oneshot da Yuri-Hime.",
   "cover": "https://images2.imgbox.com/9d/fb/oMEpa0Hg_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
