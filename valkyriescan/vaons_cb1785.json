@@ -4,8 +4,9 @@
   "artist": "Miyamoto Liz",
   "description": "Doujinshi de Shielder x Gudako (Fate/Grand Order)",
   "cover": "https://images2.imgbox.com/9f/9e/JSR5ZGSs_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
