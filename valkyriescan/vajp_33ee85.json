@@ -4,6 +4,7 @@
   "artist": "Aono Shimo",
   "description": "A história de uma gamer reencarnada que busca conquistar o amor de sua vilã em uma academia feminina de fantasia!",
   "cover": "https://images2.imgbox.com/44/e9/nftWcJfk_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "54": {
       "title": "Capítulo 54 - Projeto",
@@ -1834,7 +1835,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Monstro",
       "groups": {
         "Valkyriescan": [
@@ -1875,7 +1876,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Aulas de Magia",
       "groups": {
         "Valkyriescan": [
@@ -1908,7 +1909,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - O que significa ser um Lírio?",
       "groups": {
         "Valkyriescan": [
@@ -1922,7 +1923,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Os Jogos dos Príncipes",
       "groups": {
         "Valkyriescan": [
@@ -1967,7 +1968,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Os Dias de Uma Empregada",
       "groups": {
         "Valkyriescan": [
@@ -2007,7 +2008,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - A Liberdade de Escolher seu Próprio Trabalho",
       "groups": {
         "Valkyriescan": [
@@ -2048,7 +2049,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - A Primeira Competição Delas (2)",
       "groups": {
         "Valkyriescan": [
@@ -2087,7 +2088,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A Primeira Competição Delas (1)",
       "groups": {
         "Valkyriescan": [
@@ -2128,7 +2129,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O Mundo dos Otome Games",
       "groups": {
         "Valkyriescan": [
