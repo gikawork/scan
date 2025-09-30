@@ -4,6 +4,7 @@
   "artist": "PIKAPI COMIC TEAM",
   "description": "A jovem saudosa da guarda Liu, Siqing, foi salva durante um acidente por um Xian de aparência masculina e cabelos brancos chamado ChanNu.\nEla se apaixonou por ele à primeira vista. E após reencontrá-lo, descobriu também que ele é na verdade “ela”.\nAcima de tudo, “ela” parece ter uma identidade muito original…\nUma história de humanos, etéreos, mestres, servos, vingança e lealdade está prestes a começar.",
   "cover": "https://images2.imgbox.com/be/92/yZ3c6DHA_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "124": {
       "title": "Capítulo 124",
@@ -2751,7 +2752,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -2776,7 +2777,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -2801,7 +2802,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -2826,7 +2827,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -2860,7 +2861,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -2886,7 +2887,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -2911,7 +2912,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -2937,7 +2938,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -2968,7 +2969,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -2990,7 +2991,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
