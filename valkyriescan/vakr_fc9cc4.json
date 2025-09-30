@@ -4,8 +4,9 @@
   "artist": "Lunna",
   "description": "O amor florescente entre Haneul, uma artista de webcomic, e sua nova assistente, Boram!",
   "cover": "https://images2.imgbox.com/50/dd/AmpKhbMY_o.jpg",
+  "status": "Hiato",
   "chapters": {
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
