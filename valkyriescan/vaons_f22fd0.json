@@ -4,8 +4,9 @@
   "artist": "2C=Galore",
   "description": "Um oneshot de 2C=Galore, publicado em Yuritra Jump ~Ultra Jump Yuri Anthology~ Vol.1.",
   "cover": "https://images2.imgbox.com/6e/e6/g2xgA5oC_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
