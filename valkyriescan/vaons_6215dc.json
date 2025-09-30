@@ -4,8 +4,9 @@
   "artist": "Gyarin",
   "description": "Doujinshi de Nachi x Ashigara (Kantai Collection)",
   "cover": "https://images2.imgbox.com/f6/81/mELLGqwj_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
