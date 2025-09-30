@@ -4,6 +4,7 @@
   "artist": "Lily Club (橘姬社)",
   "description": "Su, nascida na prisão, sempre quis ver a “multidão” que sua mãe lhe contara. Um dia, quando estava prestes a ser secretamente executada, Gill, uma IA, foi colocada na prisão para um teste. Ela guarda tudo do mundo exterior em seu banco de dados. Su desenvolveu sentimentos especiais por Gill, embora ela não se importasse se as palavras de Gill fossem programadas ou de sua própria consciência. Incapaz de distinguir seus próprios sentimentos humanos… Nessa pequena cela, a solitária Su ganha sua primeira boneca – Ela conheceu uma “pessoa” que poderia lhe trazer consolo.",
   "cover": "https://images2.imgbox.com/87/3c/e1nQwGls_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "12": {
       "title": "Capítulo 12 - Me fundir a ela",
@@ -117,7 +118,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Toque Inocente",
       "groups": {
         "Valkyriescan": [
@@ -145,7 +146,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Gill incomum",
       "groups": {
         "Valkyriescan": [
@@ -173,7 +174,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Um corvo nascido do carvão",
       "groups": {
         "Valkyriescan": [
@@ -201,7 +202,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Beijos e brigas",
       "groups": {
         "Valkyriescan": [
@@ -229,7 +230,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Você é diferente",
       "groups": {
         "Valkyriescan": [
@@ -257,7 +258,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Apenas um covarde",
       "groups": {
         "Valkyriescan": [
@@ -285,7 +286,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Nossos primeiros quinze minutos",
       "groups": {
         "Valkyriescan": [
@@ -313,7 +314,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Sua chegada",
       "groups": {
         "Valkyriescan": [
@@ -338,7 +339,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Prisão Pittaka",
       "groups": {
         "Valkyriescan": [
@@ -358,7 +359,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Autoconsciência",
       "groups": {
         "Valkyriescan": [
