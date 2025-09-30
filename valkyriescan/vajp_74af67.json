@@ -4,8 +4,9 @@
   "artist": "ASANO Yagura",
   "description": "Desde que a escola campeã, que venceu nove campeonatos seguidos, foi derrotada, o mundo do ping pong feminino de ensino fundamental II virou um caos.",
   "cover": "https://images2.imgbox.com/e3/04/1aPdTUgi_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -61,7 +62,7 @@
         ]
       }
     },
-    "07.5": {
+    "7.5": {
       "title": "Capítulo 07.5",
       "groups": {
         "Valkyriescan": [
@@ -92,7 +93,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -142,7 +143,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
