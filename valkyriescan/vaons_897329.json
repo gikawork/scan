@@ -4,8 +4,9 @@
   "artist": "KASHIWAGI Tsukiko",
   "description": "Coisas que definem o campo: Lento. Tedioso. Nada.\nMesmo assim, o inesperado pode simplesmente saltar sobre você…",
   "cover": "https://images2.imgbox.com/4d/74/QN4PRBEN_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
