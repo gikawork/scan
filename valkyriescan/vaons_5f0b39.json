@@ -4,8 +4,9 @@
   "artist": "Murasakino",
   "description": "Sobre amor de infância…",
   "cover": "https://images2.imgbox.com/78/5c/OJVDrVNg_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
