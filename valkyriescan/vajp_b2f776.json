@@ -4,6 +4,7 @@
   "artist": "Yuzuhara Moke",
   "description": "O segundo andar do ginásio. Esse é o nosso lugar. A aula está acontecendo agora, mas eles não dão aula em um lugar como este. Foi aqui que Shimamura e eu nos tornamos amigas. O que é esse sentimento? Ontem, eu sonhei que a beijava. Eu não sou assim, e tenho certeza de que Shimamura também não é. Mas… quando Shimamura pensa na palavra “amiga”, eu quero ser a primeira coisa que vem à mente dela. Isso é tudo.",
   "cover": "https://images2.imgbox.com/af/ed/LOM81f73_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "48": {
       "title": "Capítulo 48",
@@ -1502,7 +1503,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -1537,7 +1538,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -1565,7 +1566,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -1591,7 +1592,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -1615,7 +1616,7 @@
         ]
       }
     },
-    "05.5": {
+    "5.5": {
       "title": "Capítulo 05.5",
       "groups": {
         "Valkyriescan": [
@@ -1641,7 +1642,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -1661,7 +1662,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -1670,7 +1671,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -1708,7 +1709,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -1746,7 +1747,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
