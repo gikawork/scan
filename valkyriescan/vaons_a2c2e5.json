@@ -4,8 +4,9 @@
   "artist": "Burakuradou (Circle)",
   "description": "Um casal de namoradas passa uma tarde explorando ruínas.",
   "cover": "https://images2.imgbox.com/5d/bb/APAt50ui_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
