@@ -4,6 +4,7 @@
   "artist": "砂上雪",
   "description": "Esta é a história de duas mulheres cujas vidas se cruzam de maneira inesperada.",
   "cover": "https://images2.imgbox.com/2d/2a/V8mAdWfS_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "26": {
       "title": "Capítulo 26",
@@ -513,7 +514,7 @@
         ]
       }
     },
-    "09.2": {
+    "9.2": {
       "title": "Capítulo 09.2",
       "groups": {
         "Valkyriescan": [
@@ -526,7 +527,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -544,7 +545,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -572,7 +573,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -590,7 +591,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -618,7 +619,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -636,7 +637,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -654,7 +655,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -669,7 +670,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -687,7 +688,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
