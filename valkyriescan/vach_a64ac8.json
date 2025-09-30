@@ -4,6 +4,7 @@
   "artist": "Da Qing Long",
   "description": "Duas protagonistas femininas escondidas em uma vasta propriedade, que se salvam mutuamente ao longo de seu relacionamento tumultuado! Bai Yuetao, esposa de um empresário rico, culpa a si mesma pelas tendências mulherengas de seu marido. Após passar mais uma noite sozinha em sua luxuosa residência, ela vê uma mulher graciosa aparecer no recém-adquirido espetáculo raro. Essa mulher se autodenomina “Sonho de Borboleta” e afirma poder ensinar a Bai Yuetao como “laçar” o coração de seu marido. Mas o preço que ela exige? O corpo de Bai Yuetao.",
   "cover": "https://images2.imgbox.com/c1/17/fEy0jNSn_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "15": {
       "title": "Capítulo 15 - Agonia em meio a lágrimas veladas",
@@ -167,7 +168,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Ainda mais certa disso",
       "groups": {
         "Valkyriescan": [
@@ -196,7 +197,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Qual é a diferença?",
       "groups": {
         "Valkyriescan": [
@@ -225,7 +226,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Isso é absurdo, certo?",
       "groups": {
         "Valkyriescan": [
@@ -254,7 +255,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Eu não deixarei ir",
       "groups": {
         "Valkyriescan": [
@@ -283,7 +284,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Eu estava realmente errada",
       "groups": {
         "Valkyriescan": [
@@ -312,7 +313,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Vou pensar em algo",
       "groups": {
         "Valkyriescan": [
@@ -341,7 +342,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O passado e as ilusões",
       "groups": {
         "Valkyriescan": [
@@ -370,7 +371,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A condição para roubo de corpos",
       "groups": {
         "Valkyriescan": [
@@ -399,7 +400,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Um espelho estranho",
       "groups": {
         "Valkyriescan": [
@@ -428,7 +429,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo",
       "groups": {
         "Valkyriescan": [
