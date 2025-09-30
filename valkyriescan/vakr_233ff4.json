@@ -4,8 +4,9 @@
   "artist": "jennrost",
   "description": "No seu segundo ano, Poppy recebeu uma declaração de Olivia, sua veterana. Agora, no terceiro ano, Poppy ainda não deu uma resposta a Olivia. Mas, aos poucos, com cada conversa trocada entre as duas, a resposta certamente encontrará um caminho para sair do coração tímido de Poppy.",
   "cover": "https://images2.imgbox.com/96/42/TwafYU5x_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -23,7 +24,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -41,7 +42,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -59,7 +60,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
