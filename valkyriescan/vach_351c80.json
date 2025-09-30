@@ -4,6 +4,7 @@
   "artist": "Hua Fu",
   "description": "Lin Ling é infeliz em tudo o que faz… Até o dia em que conheceu Fang Wan, uma aluna gentil e perfeita. Inconscientemente, se sentiu atraída por ela. Em algum lugar do vasto universo, há sempre alguém que está intimamente ligado a você e, se o destino permitir, você nunca estará sozinha.",
   "cover": "https://images2.imgbox.com/09/b3/KoTFLe6T_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "14": {
       "title": "Capítulo 14 - Batimento cardíaco incontrolável",
@@ -150,7 +151,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Você gosta de mim?",
       "groups": {
         "Valkyriescan": [
@@ -165,7 +166,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - É assim que se aprecia um vinho",
       "groups": {
         "Valkyriescan": [
@@ -180,7 +181,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Você é o único antídoto",
       "groups": {
         "Valkyriescan": [
@@ -195,7 +196,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Abraço secreto",
       "groups": {
         "Valkyriescan": [
@@ -210,7 +211,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Boatos de namoro",
       "groups": {
         "Valkyriescan": [
@@ -227,7 +228,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Registro de novatos",
       "groups": {
         "Valkyriescan": [
@@ -245,7 +246,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Você sob a luz das velas",
       "groups": {
         "Valkyriescan": [
@@ -261,7 +262,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Volte para casa comigo",
       "groups": {
         "Valkyriescan": [
@@ -278,7 +279,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Destinos entrelaçados pela linha azul",
       "groups": {
         "Valkyriescan": [
@@ -300,7 +301,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo - Predestinadas",
       "groups": {
         "Valkyriescan": [
