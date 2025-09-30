@@ -4,6 +4,7 @@
   "artist": "Dongom",
   "description": "Sherbet, uma garota de uma família nobre, é forçada a se casar com um homem que ela nunca viu. Ela decide escapar desse destino e embarca em um cruzeiro que navega pelo mar de névoa, um lugar cheio de lendas e segredos.",
   "cover": "https://images2.imgbox.com/17/d5/SvTRYlWQ_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "38": {
       "title": "Capítulo 38 - Sedutora",
@@ -960,7 +961,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - A porta para o coração",
       "groups": {
         "Valkyriescan": [
@@ -993,7 +994,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Jogo de azar",
       "groups": {
         "Valkyriescan": [
@@ -1026,7 +1027,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Melancolia",
       "groups": {
         "Valkyriescan": [
@@ -1059,7 +1060,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Amardilha do amor",
       "groups": {
         "Valkyriescan": [
@@ -1092,7 +1093,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Duas garotas",
       "groups": {
         "Valkyriescan": [
@@ -1125,7 +1126,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Diferença de fofura",
       "groups": {
         "Valkyriescan": [
@@ -1158,7 +1159,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Uma sala para duas",
       "groups": {
         "Valkyriescan": [
@@ -1191,7 +1192,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Olá, Srta. Granita",
       "groups": {
         "Valkyriescan": [
@@ -1224,7 +1225,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Sherbet acima do mar de névoa",
       "groups": {
         "Valkyriescan": [
