@@ -4,6 +4,7 @@
   "artist": "axdevila",
   "description": "Eu estava afundando, a escuridão estava me cercando lentamente. A profundidade do mar me puxava cada vez mais para baixo, eu não conseguia mais ver o luar que brilhava lá de cima. Mas quem é essa bela criatura de cabelos prateados, com uma voz sedutora nadando em minha direção?",
   "cover": "https://images2.imgbox.com/ee/4c/kDYtJY7L_o.jpg",
+  "status": "Completo",
   "chapters": {
     "14": {
       "title": "Capítulo 14 - Anúncio Oficial",
@@ -257,7 +258,7 @@
         ]
       }
     },
-    "12.10": {
+    "12.1": {
       "title": "Capítulo 12.10",
       "groups": {
         "Valkyriescan": [
@@ -272,24 +273,6 @@
           "https://images2.imgbox.com/72/a9/vFRysZaa_o.jpg",
           "https://images2.imgbox.com/d6/9c/KDsV8SsA_o.jpg",
           "https://images2.imgbox.com/f4/c7/Vif0VfRT_o.jpg"
-        ]
-      }
-    },
-    "12.1": {
-      "title": "Capítulo 12.1",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/fb/e6/RmNy2JpF_o.jpg",
-          "https://images2.imgbox.com/d8/8a/cu75CJxR_o.jpg",
-          "https://images2.imgbox.com/8d/0b/Fckjx6tz_o.jpg",
-          "https://images2.imgbox.com/bc/f3/dlkwGwMY_o.jpg",
-          "https://images2.imgbox.com/4c/59/dObPKGQL_o.jpg",
-          "https://images2.imgbox.com/13/11/0eipq7QB_o.jpg",
-          "https://images2.imgbox.com/a0/ae/mXc73KD6_o.jpg",
-          "https://images2.imgbox.com/54/ce/RlnyjVoH_o.jpg",
-          "https://images2.imgbox.com/df/19/iEPEB4Nu_o.jpg",
-          "https://images2.imgbox.com/77/32/HsaoPHiW_o.jpg",
-          "https://images2.imgbox.com/20/82/14mTOi9c_o.jpg"
         ]
       }
     },
@@ -455,7 +438,7 @@
         ]
       }
     },
-    "11.10": {
+    "11.1": {
       "title": "Capítulo 11.10",
       "groups": {
         "Valkyriescan": [
@@ -470,24 +453,6 @@
           "https://images2.imgbox.com/5c/54/ftxiBNZK_o.jpg",
           "https://images2.imgbox.com/50/9e/uD9KWJ44_o.jpg",
           "https://images2.imgbox.com/37/8f/iTq3tFo7_o.jpg"
-        ]
-      }
-    },
-    "11.1": {
-      "title": "Capítulo 11.1",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/8c/b9/a0ncacJI_o.jpg",
-          "https://images2.imgbox.com/cf/55/StmylWoU_o.jpg",
-          "https://images2.imgbox.com/81/1d/J1IJ6y6C_o.jpg",
-          "https://images2.imgbox.com/5d/e6/E0eNoSRX_o.jpg",
-          "https://images2.imgbox.com/63/82/iuKTuGE2_o.jpg",
-          "https://images2.imgbox.com/34/4c/2nFp2ZPv_o.jpg",
-          "https://images2.imgbox.com/a8/4b/TJsdmk8a_o.jpg",
-          "https://images2.imgbox.com/41/9a/olxBcHpz_o.jpg",
-          "https://images2.imgbox.com/0b/ff/adh7oRIF_o.jpg",
-          "https://images2.imgbox.com/ab/b0/eqWr3Snn_o.jpg",
-          "https://images2.imgbox.com/dd/6b/FmgGGbth_o.jpg"
         ]
       }
     },
@@ -606,7 +571,7 @@
         ]
       }
     },
-    "09.4": {
+    "9.4": {
       "title": "Capítulo 09.4",
       "groups": {
         "Valkyriescan": [
@@ -619,7 +584,7 @@
         ]
       }
     },
-    "09.3": {
+    "9.3": {
       "title": "Capítulo 09.3",
       "groups": {
         "Valkyriescan": [
@@ -632,7 +597,7 @@
         ]
       }
     },
-    "09.2": {
+    "9.2": {
       "title": "Capítulo 09.2",
       "groups": {
         "Valkyriescan": [
@@ -645,7 +610,7 @@
         ]
       }
     },
-    "09.1": {
+    "9.1": {
       "title": "Capítulo 09.1",
       "groups": {
         "Valkyriescan": [
@@ -658,7 +623,7 @@
         ]
       }
     },
-    "08.7": {
+    "8.7": {
       "title": "Capítulo 08.7",
       "groups": {
         "Valkyriescan": [
@@ -676,7 +641,7 @@
         ]
       }
     },
-    "08.6": {
+    "8.6": {
       "title": "Capítulo 08.6",
       "groups": {
         "Valkyriescan": [
@@ -694,7 +659,7 @@
         ]
       }
     },
-    "08.5": {
+    "8.5": {
       "title": "Capítulo 08.5",
       "groups": {
         "Valkyriescan": [
@@ -712,7 +677,7 @@
         ]
       }
     },
-    "08.4": {
+    "8.4": {
       "title": "Capítulo 08.4",
       "groups": {
         "Valkyriescan": [
@@ -730,7 +695,7 @@
         ]
       }
     },
-    "08.3": {
+    "8.3": {
       "title": "Capítulo 08.3",
       "groups": {
         "Valkyriescan": [
@@ -748,7 +713,7 @@
         ]
       }
     },
-    "08.2": {
+    "8.2": {
       "title": "Capítulo 08.2",
       "groups": {
         "Valkyriescan": [
@@ -766,7 +731,7 @@
         ]
       }
     },
-    "08.1": {
+    "8.1": {
       "title": "Capítulo 08.1",
       "groups": {
         "Valkyriescan": [
@@ -784,7 +749,7 @@
         ]
       }
     },
-    "07.5": {
+    "7.5": {
       "title": "Capítulo 07.5",
       "groups": {
         "Valkyriescan": [
@@ -802,7 +767,7 @@
         ]
       }
     },
-    "07.4": {
+    "7.4": {
       "title": "Capítulo 07.4",
       "groups": {
         "Valkyriescan": [
@@ -821,7 +786,7 @@
         ]
       }
     },
-    "07.3": {
+    "7.3": {
       "title": "Capítulo 07.3",
       "groups": {
         "Valkyriescan": [
@@ -840,7 +805,7 @@
         ]
       }
     },
-    "07.2": {
+    "7.2": {
       "title": "Capítulo 07.2",
       "groups": {
         "Valkyriescan": [
@@ -858,7 +823,7 @@
         ]
       }
     },
-    "07.1": {
+    "7.1": {
       "title": "Capítulo 07.1",
       "groups": {
         "Valkyriescan": [
@@ -876,7 +841,7 @@
         ]
       }
     },
-    "06.6": {
+    "6.6": {
       "title": "Capítulo 06.6",
       "groups": {
         "Valkyriescan": [
@@ -889,7 +854,7 @@
         ]
       }
     },
-    "06.5": {
+    "6.5": {
       "title": "Capítulo 06.5",
       "groups": {
         "Valkyriescan": [
@@ -902,7 +867,7 @@
         ]
       }
     },
-    "06.4": {
+    "6.4": {
       "title": "Capítulo 06.4",
       "groups": {
         "Valkyriescan": [
@@ -915,7 +880,7 @@
         ]
       }
     },
-    "06.3": {
+    "6.3": {
       "title": "Capítulo 06.3",
       "groups": {
         "Valkyriescan": [
@@ -928,7 +893,7 @@
         ]
       }
     },
-    "06.2": {
+    "6.2": {
       "title": "Capítulo 06.2",
       "groups": {
         "Valkyriescan": [
@@ -941,7 +906,7 @@
         ]
       }
     },
-    "06.1": {
+    "6.1": {
       "title": "Capítulo 06.1",
       "groups": {
         "Valkyriescan": [
@@ -954,7 +919,7 @@
         ]
       }
     },
-    "05.7": {
+    "5.7": {
       "title": "Capítulo 05.7",
       "groups": {
         "Valkyriescan": [
@@ -967,7 +932,7 @@
         ]
       }
     },
-    "05.6": {
+    "5.6": {
       "title": "Capítulo 05.6",
       "groups": {
         "Valkyriescan": [
@@ -980,7 +945,7 @@
         ]
       }
     },
-    "05.5": {
+    "5.5": {
       "title": "Capítulo 05.5",
       "groups": {
         "Valkyriescan": [
@@ -993,7 +958,7 @@
         ]
       }
     },
-    "05.4": {
+    "5.4": {
       "title": "Capítulo 05.4",
       "groups": {
         "Valkyriescan": [
@@ -1006,7 +971,7 @@
         ]
       }
     },
-    "05.3": {
+    "5.3": {
       "title": "Capítulo 05.3",
       "groups": {
         "Valkyriescan": [
@@ -1019,7 +984,7 @@
         ]
       }
     },
-    "05.2": {
+    "5.2": {
       "title": "Capítulo 05.2",
       "groups": {
         "Valkyriescan": [
@@ -1032,7 +997,7 @@
         ]
       }
     },
-    "05.1": {
+    "5.1": {
       "title": "Capítulo 05.1",
       "groups": {
         "Valkyriescan": [
@@ -1045,7 +1010,7 @@
         ]
       }
     },
-    "04.6": {
+    "4.6": {
       "title": "Capítulo 04.6",
       "groups": {
         "Valkyriescan": [
@@ -1059,7 +1024,7 @@
         ]
       }
     },
-    "04.5": {
+    "4.5": {
       "title": "Capítulo 04.5",
       "groups": {
         "Valkyriescan": [
@@ -1073,7 +1038,7 @@
         ]
       }
     },
-    "04.4": {
+    "4.4": {
       "title": "Capítulo 04.4",
       "groups": {
         "Valkyriescan": [
@@ -1087,7 +1052,7 @@
         ]
       }
     },
-    "04.3": {
+    "4.3": {
       "title": "Capítulo 04.3",
       "groups": {
         "Valkyriescan": [
@@ -1101,7 +1066,7 @@
         ]
       }
     },
-    "04.2": {
+    "4.2": {
       "title": "Capítulo 04.2",
       "groups": {
         "Valkyriescan": [
@@ -1115,7 +1080,7 @@
         ]
       }
     },
-    "04.1": {
+    "4.1": {
       "title": "Capítulo 04.1",
       "groups": {
         "Valkyriescan": [
@@ -1129,7 +1094,7 @@
         ]
       }
     },
-    "03.3": {
+    "3.3": {
       "title": "Capítulo 03.3",
       "groups": {
         "Valkyriescan": [
@@ -1143,7 +1108,7 @@
         ]
       }
     },
-    "03.2": {
+    "3.2": {
       "title": "Capítulo 03.2",
       "groups": {
         "Valkyriescan": [
@@ -1157,7 +1122,7 @@
         ]
       }
     },
-    "03.1": {
+    "3.1": {
       "title": "Capítulo 03.1",
       "groups": {
         "Valkyriescan": [
@@ -1176,7 +1141,19 @@
         ]
       }
     },
-    "02.4": {
+    "3": {
+      "title": "Extra 03 - Depois do banho",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/87/bd/fNncHXMw_o.jpg",
+          "https://images2.imgbox.com/c9/11/fo1bLDXk_o.jpg",
+          "https://images2.imgbox.com/51/c1/O23rgzXz_o.jpg",
+          "https://images2.imgbox.com/6d/d5/T9DQiOe7_o.jpg",
+          "https://images2.imgbox.com/f8/dc/vdeuLYNA_o.jpg"
+        ]
+      }
+    },
+    "2.4": {
       "title": "Capítulo 02.4",
       "groups": {
         "Valkyriescan": [
@@ -1195,7 +1172,7 @@
         ]
       }
     },
-    "02.3": {
+    "2.3": {
       "title": "Capítulo 02.3",
       "groups": {
         "Valkyriescan": [
@@ -1209,7 +1186,7 @@
         ]
       }
     },
-    "02.2": {
+    "2.2": {
       "title": "Capítulo 02.2",
       "groups": {
         "Valkyriescan": [
@@ -1223,7 +1200,7 @@
         ]
       }
     },
-    "02.1": {
+    "2.1": {
       "title": "Capítulo 02.1",
       "groups": {
         "Valkyriescan": [
@@ -1237,7 +1214,19 @@
         ]
       }
     },
-    "01.7": {
+    "2": {
+      "title": "Extra 02 - O que a Avina faz em seu tempo livre",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/d9/1c/ybCtHzjm_o.jpg",
+          "https://images2.imgbox.com/b8/c2/UIP3WFmg_o.jpg",
+          "https://images2.imgbox.com/1a/57/qnWdQrRU_o.jpg",
+          "https://images2.imgbox.com/5c/f8/Zy8BFFCX_o.jpg",
+          "https://images2.imgbox.com/81/f2/nHEa7XKo_o.jpg"
+        ]
+      }
+    },
+    "1.7": {
       "title": "Capítulo 01.7",
       "groups": {
         "Valkyriescan": [
@@ -1253,7 +1242,7 @@
         ]
       }
     },
-    "01.6": {
+    "1.6": {
       "title": "Capítulo 01.6",
       "groups": {
         "Valkyriescan": [
@@ -1267,7 +1256,7 @@
         ]
       }
     },
-    "01.5": {
+    "1.5": {
       "title": "Capítulo 01.5",
       "groups": {
         "Valkyriescan": [
@@ -1279,7 +1268,7 @@
         ]
       }
     },
-    "01.4": {
+    "1.4": {
       "title": "Capítulo 01.4",
       "groups": {
         "Valkyriescan": [
@@ -1291,7 +1280,7 @@
         ]
       }
     },
-    "01.3": {
+    "1.3": {
       "title": "Capítulo 01.3",
       "groups": {
         "Valkyriescan": [
@@ -1303,7 +1292,7 @@
         ]
       }
     },
-    "01.2": {
+    "1.2": {
       "title": "Capítulo 01.2",
       "groups": {
         "Valkyriescan": [
@@ -1315,7 +1304,7 @@
         ]
       }
     },
-    "01.1": {
+    "1.1": {
       "title": "Capítulo 01.1",
       "groups": {
         "Valkyriescan": [
@@ -1327,91 +1316,7 @@
         ]
       }
     },
-    "00.5": {
-      "title": "Capítulo 00.5",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/92/3e/KpTO6wo8_o.jpg",
-          "https://images2.imgbox.com/40/cb/6yAWFRox_o.jpg",
-          "https://images2.imgbox.com/ab/04/z9A6oA3M_o.jpg",
-          "https://images2.imgbox.com/0b/e8/ix4qZfP3_o.jpg",
-          "https://images2.imgbox.com/2e/5e/Qhvy8jEe_o.jpg"
-        ]
-      }
-    },
-    "00.4": {
-      "title": "Capítulo 00.4",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/d7/ca/vwvQQAPY_o.jpg",
-          "https://images2.imgbox.com/41/7a/FheLNWVa_o.jpg",
-          "https://images2.imgbox.com/2a/29/QCBdrNce_o.jpg",
-          "https://images2.imgbox.com/b0/53/fCrcObKU_o.jpg",
-          "https://images2.imgbox.com/83/05/kdvBYvVJ_o.jpg"
-        ]
-      }
-    },
-    "00.3": {
-      "title": "Capítulo 00.3",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/cf/16/2FX78Ehy_o.jpg",
-          "https://images2.imgbox.com/67/9d/q9Hpu61G_o.jpg",
-          "https://images2.imgbox.com/10/7b/ihR5lX5D_o.jpg",
-          "https://images2.imgbox.com/0b/96/ZfTL7eio_o.jpg",
-          "https://images2.imgbox.com/7a/0c/pdbfvadU_o.jpg"
-        ]
-      }
-    },
-    "00.2": {
-      "title": "Capítulo 00.2",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/c8/f0/X71Dol57_o.jpg",
-          "https://images2.imgbox.com/ff/22/FJbHh76j_o.jpg",
-          "https://images2.imgbox.com/bf/d8/uDaNkFYS_o.jpg",
-          "https://images2.imgbox.com/42/fc/vLLUK1OF_o.jpg",
-          "https://images2.imgbox.com/68/be/8Pc47SWx_o.jpg"
-        ]
-      }
-    },
-    "00.1": {
-      "title": "Capítulo 00.1",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/f7/c6/4sDoZQFl_o.jpg",
-          "https://images2.imgbox.com/bb/bf/N2YzF5C8_o.jpg",
-          "https://images2.imgbox.com/d1/f9/AlwImAz7_o.jpg",
-          "https://images2.imgbox.com/b1/71/iaPjOeUF_o.jpg",
-          "https://images2.imgbox.com/23/c1/fSnPWqIl_o.jpg"
-        ]
-      }
-    },
-    "Extra 03": {
-      "title": "Extra 03 - Depois do banho",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/87/bd/fNncHXMw_o.jpg",
-          "https://images2.imgbox.com/c9/11/fo1bLDXk_o.jpg",
-          "https://images2.imgbox.com/51/c1/O23rgzXz_o.jpg",
-          "https://images2.imgbox.com/6d/d5/T9DQiOe7_o.jpg",
-          "https://images2.imgbox.com/f8/dc/vdeuLYNA_o.jpg"
-        ]
-      }
-    },
-    "Extra 02": {
-      "title": "Extra 02 - O que a Avina faz em seu tempo livre",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/d9/1c/ybCtHzjm_o.jpg",
-          "https://images2.imgbox.com/b8/c2/UIP3WFmg_o.jpg",
-          "https://images2.imgbox.com/1a/57/qnWdQrRU_o.jpg",
-          "https://images2.imgbox.com/5c/f8/Zy8BFFCX_o.jpg",
-          "https://images2.imgbox.com/81/f2/nHEa7XKo_o.jpg"
-        ]
-      }
-    },
-    "Extra 01": {
+    "1": {
       "title": "Extra 01",
       "groups": {
         "Valkyriescan": [
@@ -1426,6 +1331,66 @@
           "https://images2.imgbox.com/c0/a3/Lt06fQ4f_o.jpg",
           "https://images2.imgbox.com/88/d5/kD6my4AN_o.jpg",
           "https://images2.imgbox.com/fa/da/uIxzEKwp_o.jpg"
+        ]
+      }
+    },
+    "0.5": {
+      "title": "Capítulo 00.5",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/92/3e/KpTO6wo8_o.jpg",
+          "https://images2.imgbox.com/40/cb/6yAWFRox_o.jpg",
+          "https://images2.imgbox.com/ab/04/z9A6oA3M_o.jpg",
+          "https://images2.imgbox.com/0b/e8/ix4qZfP3_o.jpg",
+          "https://images2.imgbox.com/2e/5e/Qhvy8jEe_o.jpg"
+        ]
+      }
+    },
+    "0.4": {
+      "title": "Capítulo 00.4",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/d7/ca/vwvQQAPY_o.jpg",
+          "https://images2.imgbox.com/41/7a/FheLNWVa_o.jpg",
+          "https://images2.imgbox.com/2a/29/QCBdrNce_o.jpg",
+          "https://images2.imgbox.com/b0/53/fCrcObKU_o.jpg",
+          "https://images2.imgbox.com/83/05/kdvBYvVJ_o.jpg"
+        ]
+      }
+    },
+    "0.3": {
+      "title": "Capítulo 00.3",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/cf/16/2FX78Ehy_o.jpg",
+          "https://images2.imgbox.com/67/9d/q9Hpu61G_o.jpg",
+          "https://images2.imgbox.com/10/7b/ihR5lX5D_o.jpg",
+          "https://images2.imgbox.com/0b/96/ZfTL7eio_o.jpg",
+          "https://images2.imgbox.com/7a/0c/pdbfvadU_o.jpg"
+        ]
+      }
+    },
+    "0.2": {
+      "title": "Capítulo 00.2",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/c8/f0/X71Dol57_o.jpg",
+          "https://images2.imgbox.com/ff/22/FJbHh76j_o.jpg",
+          "https://images2.imgbox.com/bf/d8/uDaNkFYS_o.jpg",
+          "https://images2.imgbox.com/42/fc/vLLUK1OF_o.jpg",
+          "https://images2.imgbox.com/68/be/8Pc47SWx_o.jpg"
+        ]
+      }
+    },
+    "0.1": {
+      "title": "Capítulo 00.1",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/f7/c6/4sDoZQFl_o.jpg",
+          "https://images2.imgbox.com/bb/bf/N2YzF5C8_o.jpg",
+          "https://images2.imgbox.com/d1/f9/AlwImAz7_o.jpg",
+          "https://images2.imgbox.com/b1/71/iaPjOeUF_o.jpg",
+          "https://images2.imgbox.com/23/c1/fSnPWqIl_o.jpg"
         ]
       }
     }
