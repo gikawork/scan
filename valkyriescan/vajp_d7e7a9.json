@@ -4,6 +4,7 @@
   "artist": "Arima",
   "description": "O popular mangá, “Adachi to Shimamura” ganha sua primeira antologia oficial em quadrinhos!",
   "cover": "https://images2.imgbox.com/43/13/nkU1aJyb_o.jpg",
+  "status": "Completo",
   "chapters": {
     "10": {
       "title": "Capítulo 10 - Adachi no País das Maravilhas",
@@ -29,7 +30,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Segurando as mãos habilmente (Natsushi)",
       "groups": {
         "Valkyriescan": [
@@ -50,7 +51,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Gravidade (Knots)",
       "groups": {
         "Valkyriescan": [
@@ -73,7 +74,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Troca (Yoshita Popuri)",
       "groups": {
         "Valkyriescan": [
@@ -94,7 +95,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - O retorno do colo (Misuzaki Hiraki)",
       "groups": {
         "Valkyriescan": [
@@ -115,7 +116,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Segunda Velocidade Côsmica (majoccid)",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - O Shiritori Decisivo de Adachi (Arima)",
       "groups": {
         "Valkyriescan": [
@@ -158,7 +159,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Adachi cãozinho (Yuino Chiri)",
       "groups": {
         "Valkyriescan": [
@@ -176,7 +177,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - 5cm mais longe (Kumo Suzume)",
       "groups": {
         "Valkyriescan": [
@@ -200,7 +201,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Pesca do Final de Semana (Yuzuhara Moke)",
       "groups": {
         "Valkyriescan": [
