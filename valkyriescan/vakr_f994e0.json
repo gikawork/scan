@@ -4,8 +4,9 @@
   "artist": "Nong Jangjwi",
   "description": "Após perder sua mãe, Ruby se torna empregada da família Bell por intermédio da Sra. Watson, amiga de sua mãe. Em sua nova posição, Ruby conhece Grace, uma jovem que vem de um mundo completamente diferente do seu.",
   "cover": "https://images2.imgbox.com/a3/35/gkcd8RPS_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -129,7 +130,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
