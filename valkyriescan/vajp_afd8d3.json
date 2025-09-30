@@ -4,6 +4,7 @@
   "artist": "Kuzushiro",
   "description": "Em uma noite chuvosa, Saki está correndo para uma aula de piano quando esbarra em uma linda garota de cabelos longos, deixando cair sua partitura no processo. Saki gagueja um pedido de desculpas, mas a garota simplesmente devolve a partitura e vai embora sem dizer uma palavra. Na manhã seguinte, Saki começa seu primeiro dia de aula no ensino médio e encontra a estranha da noite anterior sentada na carteira ao lado da sua. Ela descobre que o nome da garota é Kanon e que ela não é totalmente surda, mas tem uma audição muito difícil. Embora Kanon precise estar perto das pessoas para ler seus lábios, ela tende a afastar as pessoas com seu comportamento gelado. Por meio de um gesto gentil, Saki começa lentamente a derrubar as paredes ao redor de Kanon, ao mesmo tempo em que sente algo novo florescer dentro dela.",
   "cover": "https://images2.imgbox.com/c6/e9/LsMAVhvM_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "12": {
       "title": "Capítulo 12",
@@ -136,7 +137,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -189,7 +190,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -241,7 +242,7 @@
         ]
       }
     },
-    "07.5": {
+    "7.5": {
       "title": "Capítulo 07.5",
       "groups": {
         "Valkyriescan": [
@@ -279,7 +280,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -304,7 +305,7 @@
         ]
       }
     },
-    "06.5": {
+    "6.5": {
       "title": "Capítulo 06.5",
       "groups": {
         "Valkyriescan": [
@@ -329,7 +330,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -354,7 +355,7 @@
         ]
       }
     },
-    "05.5": {
+    "5.5": {
       "title": "Capítulo 05.5",
       "groups": {
         "Valkyriescan": [
@@ -379,7 +380,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -404,7 +405,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -425,7 +426,7 @@
         ]
       }
     },
-    "03.5": {
+    "3.5": {
       "title": "Capítulo 03.5",
       "groups": {
         "Valkyriescan": [
@@ -447,7 +448,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -477,7 +478,7 @@
         ]
       }
     },
-    "02.5": {
+    "2.5": {
       "title": "Capítulo 02.5",
       "groups": {
         "Valkyriescan": [
@@ -503,7 +504,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -531,7 +532,7 @@
         ]
       }
     },
-    "01.5": {
+    "1.5": {
       "title": "Capítulo 01.5",
       "groups": {
         "Valkyriescan": [
@@ -563,7 +564,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
