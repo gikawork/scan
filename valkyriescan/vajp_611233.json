@@ -4,6 +4,7 @@
   "artist": "Yakiniku Teishoku",
   "description": "A bela e inteligente Tsuda Akane é indispensável na fábrica de robótica em que trabalha, mas seus colegas nunca viram seu lado pessoal. Em casa, Akane é uma bagunça, com um apartamento que mais parece um aterro sanitário do que um espaço habitável. Quando ela pede, bêbada, uma empregada para ajudá-la a arrumar tudo, a androide que chega é uma gostosa excitada que está prestes a dar a Akane mais serviço do que ela esperava!",
   "cover": "https://images2.imgbox.com/ca/e3/cxDPMtUo_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "20": {
       "title": "Capítulo 20",
@@ -446,7 +447,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -484,7 +485,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -521,7 +522,7 @@
         ]
       }
     },
-    "07.5": {
+    "7.5": {
       "title": "Capítulo 07.5",
       "groups": {
         "Valkyriescan": [
@@ -537,7 +538,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -569,7 +570,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -628,7 +629,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -661,7 +662,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -695,7 +696,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -733,7 +734,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -769,7 +770,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
