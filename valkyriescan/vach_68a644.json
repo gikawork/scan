@@ -4,6 +4,7 @@
   "artist": "MOMO636",
   "description": "Chocante! A paciente tinha uma doença misteriosa e foi ao hospital várias vezes, mas não foi curada. A verdade acabou por ser…!",
   "cover": "https://images2.imgbox.com/fb/44/YdlbxoN3_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "12": {
       "title": "Capítulo 12 - Amantes?",
@@ -66,6 +67,16 @@
         ]
       }
     },
+    "10.1": {
+      "title": "Chapter 10.1 - Sala de Escape, Tristeza",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/05/d6/rgWCpA5i_o.jpg",
+          "https://images2.imgbox.com/25/01/IT7pHRFU_o.png",
+          "https://images2.imgbox.com/ba/5d/tmSRK2ug_o.jpg"
+        ]
+      }
+    },
     "10": {
       "title": "Capítulo 10 - Sala de Escape II",
       "groups": {
@@ -95,7 +106,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Sala de Escape I",
       "groups": {
         "Valkyriescan": [
@@ -123,7 +134,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - A doutora substituta",
       "groups": {
         "Valkyriescan": [
@@ -184,7 +195,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Relacionamento médico-paciente",
       "groups": {
         "Valkyriescan": [
@@ -217,7 +228,7 @@
         ]
       }
     },
-    "06.5": {
+    "6.5": {
       "title": "Capítulo 06.5 - Dia de São Valentim (Especial)",
       "groups": {
         "Valkyriescan": [
@@ -226,7 +237,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Tive um sonho",
       "groups": {
         "Valkyriescan": [
@@ -254,7 +265,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Flecha de duas pontas (5)",
       "groups": {
         "Valkyriescan": [
@@ -305,7 +316,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Flecha de duas pontas (4)",
       "groups": {
         "Valkyriescan": [
@@ -323,7 +334,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Flecha de duas pontas (3)",
       "groups": {
         "Valkyriescan": [
@@ -341,7 +352,7 @@
         ]
       }
     },
-    "02.8": {
+    "2.8": {
       "title": "Capítulo 02.8 - Flecha de duas pontas (Especial Ano Novo)",
       "groups": {
         "Valkyriescan": [
@@ -359,7 +370,7 @@
         ]
       }
     },
-    "02.1": {
+    "2.1": {
       "title": "Capítulo 02.1 - Chá preto de limão",
       "groups": {
         "Valkyriescan": [
@@ -375,7 +386,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Flecha de duas pontas (2)",
       "groups": {
         "Valkyriescan": [
@@ -393,23 +404,13 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Flecha de duas pontas (1)",
       "groups": {
         "Valkyriescan": [
           "https://images2.imgbox.com/04/86/q7Soze9F_o.jpg",
           "https://images2.imgbox.com/d7/20/WwmejvTu_o.jpg",
           "https://images2.imgbox.com/64/94/dTBPBGB0_o.jpg"
-        ]
-      }
-    },
-    "Chapter 10.1": {
-      "title": "Chapter 10.1 - Sala de Escape, Tristeza",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/05/d6/rgWCpA5i_o.jpg",
-          "https://images2.imgbox.com/25/01/IT7pHRFU_o.png",
-          "https://images2.imgbox.com/ba/5d/tmSRK2ug_o.jpg"
         ]
       }
     }
