@@ -4,6 +4,7 @@
   "artist": "Chantsky",
   "description": "Tricia acredita que o amor é superestimado. Mas quando Elise entrou na livraria da família em que trabalha, as coisas começaram a mudar. Após o encontro, ela começou a ver memórias de sua vida anterior e sonhos com Elise todas as noites. Quem era Tricia na vida de Elise antes? Ela sente que o universo continua jogando um jogo com ela. Testemunhe esta jornada improvável de amizade, aceitação, amor e de vida e morte.",
   "cover": "https://images2.imgbox.com/5b/cc/xCijwb4q_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "60.4": {
       "title": "Capítulo 60.4 - É isso (4)",
@@ -1641,7 +1642,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Como foi seu treino",
       "groups": {
         "Valkyriescan": [
@@ -1657,7 +1658,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Cuidar",
       "groups": {
         "Valkyriescan": [
@@ -1675,7 +1676,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Cortejada",
       "groups": {
         "Valkyriescan": [
@@ -1693,7 +1694,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Sempre você",
       "groups": {
         "Valkyriescan": [
@@ -1716,7 +1717,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Um sonho",
       "groups": {
         "Valkyriescan": [
@@ -1732,7 +1733,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Senhorita Elise",
       "groups": {
         "Valkyriescan": [
@@ -1748,7 +1749,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Constantes",
       "groups": {
         "Valkyriescan": [
@@ -1763,7 +1764,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Eu não disse que estava apaixonada",
       "groups": {
         "Valkyriescan": [
@@ -1777,7 +1778,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Rosa e Azul",
       "groups": {
         "Valkyriescan": [
@@ -1787,150 +1788,6 @@
           "https://images2.imgbox.com/13/93/aKvGM9Uk_o.jpg",
           "https://images2.imgbox.com/ef/b8/sSoZMFK9_o.jpg",
           "https://images2.imgbox.com/f9/14/AaoEqD3W_o.jpg"
-        ]
-      }
-    },
-    "Extra 12": {
-      "title": "Extra 12 - Especial + Revelação do título e capa da nova comic",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/eb/20/jI1Sklvi_o.png",
-          "https://images2.imgbox.com/91/b1/uefoZfns_o.jpg",
-          "https://images2.imgbox.com/ee/ff/uQxL5XYe_o.jpg",
-          "https://images2.imgbox.com/d9/e8/tliQJRC5_o.jpg",
-          "https://images2.imgbox.com/7e/35/nvdnagNS_o.jpg",
-          "https://images2.imgbox.com/f5/60/lEsornsP_o.jpg",
-          "https://images2.imgbox.com/d7/e0/lt13q9pP_o.jpg",
-          "https://images2.imgbox.com/94/91/GAoN677Y_o.jpg",
-          "https://images2.imgbox.com/61/c4/LswjN5K9_o.jpg",
-          "https://images2.imgbox.com/da/e1/wFyNT58y_o.jpg",
-          "https://images2.imgbox.com/3e/04/4xPNM0oo_o.jpg"
-        ]
-      }
-    },
-    "Extra 11": {
-      "title": "Extra 11 - Q&A",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/92/68/OXJkYCMp_o.png",
-          "https://images2.imgbox.com/3f/42/W2hDYLiv_o.jpg",
-          "https://images2.imgbox.com/fd/04/Bh7SBJKl_o.jpg",
-          "https://images2.imgbox.com/da/8e/0i4hEpiY_o.jpg",
-          "https://images2.imgbox.com/e9/40/jkl0AdSs_o.jpg",
-          "https://images2.imgbox.com/e9/a8/ZnvetY5m_o.jpg",
-          "https://images2.imgbox.com/a1/60/jxFwbstI_o.jpg",
-          "https://images2.imgbox.com/69/bc/EoKCu3YE_o.jpg",
-          "https://images2.imgbox.com/dd/e1/kmsEVwH8_o.jpg",
-          "https://images2.imgbox.com/16/9a/2S8Q9XCY_o.jpg",
-          "https://images2.imgbox.com/d4/c3/IYCK5R0D_o.jpg"
-        ]
-      }
-    },
-    "Extra 10": {
-      "title": "Extra 10 - Feliz Dia dos Namorados",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/37/db/nFPweZc5_o.jpg",
-          "https://images2.imgbox.com/1c/75/DNhgPhxO_o.jpg"
-        ]
-      }
-    },
-    "Extra 09": {
-      "title": "Extra 09 - Feliz Natal!",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/a5/fa/P7tn7sXk_o.jpg",
-          "https://images2.imgbox.com/ae/2f/CyVeCxjs_o.jpg"
-        ]
-      }
-    },
-    "Extra 08": {
-      "title": "Extra 08 - Halloween 2021",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/e3/b0/P9rlsU3K_o.jpg",
-          "https://images2.imgbox.com/55/35/8gn6hvkj_o.png",
-          "https://images2.imgbox.com/36/33/lrTZ9HqG_o.png",
-          "https://images2.imgbox.com/8b/6a/MVN4aLxB_o.png",
-          "https://images2.imgbox.com/99/40/QORMD8Hl_o.png"
-        ]
-      }
-    },
-    "Extra 07": {
-      "title": "Extra 07 - Já faz o quê!",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/51/f2/Oa8OOdwE_o.jpg",
-          "https://images2.imgbox.com/4d/ab/GNc6fKKp_o.jpg",
-          "https://images2.imgbox.com/4c/4a/K3JEeNm5_o.jpg",
-          "https://images2.imgbox.com/68/66/8zJqnLsO_o.jpg",
-          "https://images2.imgbox.com/d1/bc/I7yph6y6_o.jpg",
-          "https://images2.imgbox.com/2d/a8/qjNleUJs_o.jpg"
-        ]
-      }
-    },
-    "Extra 06": {
-      "title": "Extra 06 - Marca do Pat – Mês do Orgulho",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/df/b1/AjmqxzLz_o.jpg",
-          "https://images2.imgbox.com/20/66/Q9I0aC3a_o.jpg",
-          "https://images2.imgbox.com/51/5c/wSxrwAOq_o.jpg"
-        ]
-      }
-    },
-    "Extra 05": {
-      "title": "Extra 05 - Q&A!!",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/9c/c7/AoWoody4_o.jpg",
-          "https://images2.imgbox.com/66/b8/OV3B5ViA_o.jpg",
-          "https://images2.imgbox.com/2c/dc/ZOXqdydU_o.jpg",
-          "https://images2.imgbox.com/80/3f/y8CFJn9d_o.jpg",
-          "https://images2.imgbox.com/ad/61/2aUraHRw_o.jpg",
-          "https://images2.imgbox.com/fc/a7/EjOU71jZ_o.jpg",
-          "https://images2.imgbox.com/b5/c8/HXwpwbaf_o.jpg"
-        ]
-      }
-    },
-    "Extra 04": {
-      "title": "Extra 04 - Feliz Ano Novo",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/45/74/7ihKTyWl_o.jpg",
-          "https://images2.imgbox.com/66/e9/GteL401Y_o.png"
-        ]
-      }
-    },
-    "Extra 03": {
-      "title": "Extra 03 - Feliz Dia das Bruxas!",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/c1/94/2qv0pZCD_o.jpg",
-          "https://images2.imgbox.com/fd/9b/xOfiPJnN_o.png"
-        ]
-      }
-    },
-    "Extra 02": {
-      "title": "Extra 02 - Especial de 1k",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/1a/8e/5L9Gq4S6_o.jpg",
-          "https://images2.imgbox.com/84/f6/5tYyiSdh_o.jpg",
-          "https://images2.imgbox.com/c4/31/e0X9zEXA_o.jpg",
-          "https://images2.imgbox.com/28/28/FpkTM9FE_o.jpg",
-          "https://images2.imgbox.com/c2/60/0JY4T2t6_o.jpg",
-          "https://images2.imgbox.com/ca/9d/dqM6AWAs_o.jpg"
-        ]
-      }
-    },
-    "Extra 01": {
-      "title": "Extra 01 - Biografia das personagens",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/1b/ef/8kRvCceq_o.jpg",
-          "https://images2.imgbox.com/7f/a1/taUBQyzM_o.jpg",
-          "https://images2.imgbox.com/7f/5e/xTKlnRkO_o.jpg"
         ]
       }
     }
