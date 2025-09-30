@@ -4,8 +4,9 @@
   "artist": "Nacht",
   "description": "Duas amigas cuidando de um santuário e dividindo um guarda-chuva num dia chuvoso.",
   "cover": "https://images2.imgbox.com/af/0b/EJiHE4xH_o.png",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
