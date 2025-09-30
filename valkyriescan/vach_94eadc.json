@@ -4,6 +4,7 @@
   "artist": "Lily Club (橘姬社)",
   "description": "Yan Shuangshuang viu sua namorada morrer diante dela. Um anjo apareceu e ofereceu-lhe uma segunda chance. Mas depois que ela renasceu, tudo parecia estar um pouco diferente.",
   "cover": "https://images2.imgbox.com/04/f1/idQAxtGi_o.jpg",
+  "status": "Cancelado",
   "chapters": {
     "23": {
       "title": "Capítulo 23 - Contra-ataque",
@@ -411,7 +412,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Encontro",
       "groups": {
         "Valkyriescan": [
@@ -440,7 +441,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Resistência",
       "groups": {
         "Valkyriescan": [
@@ -469,7 +470,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Inevitável",
       "groups": {
         "Valkyriescan": [
@@ -498,7 +499,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A maior vilã da minha vida",
       "groups": {
         "Valkyriescan": [
@@ -527,7 +528,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Não quero me envolver demais",
       "groups": {
         "Valkyriescan": [
@@ -556,7 +557,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Não sou gananciosa",
       "groups": {
         "Valkyriescan": [
@@ -585,7 +586,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Preciso de um pouco de coragem",
       "groups": {
         "Valkyriescan": [
@@ -614,7 +615,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Quero vingança",
       "groups": {
         "Valkyriescan": [
@@ -643,7 +644,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Quero salvá-la",
       "groups": {
         "Valkyriescan": [
