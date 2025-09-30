@@ -4,8 +4,9 @@
   "artist": "Nakamura Yukichi",
   "description": "Uma história de amor pura entre uma mulher carismática e uma mulher discreta, mas sensual. Duas mulheres que trabalham juntas e também dividem o mesmo teto.",
   "cover": "https://images2.imgbox.com/b4/c9/iHB9JG4L_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
