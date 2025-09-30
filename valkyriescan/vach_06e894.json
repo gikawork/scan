@@ -4,8 +4,9 @@
   "artist": "Shi Yi Er",
   "description": "Esta é uma história sobre duas garotas doces. Uma é um fantasma que vagueia pelo hospital e a outra é um paciente com problemas cardíacos. É fofo! É bonitinho!",
   "cover": "https://images2.imgbox.com/6b/a0/97SGt3px_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -33,7 +34,7 @@
         ]
       }
     },
-    "07.7": {
+    "7.7": {
       "title": "Capítulo 07.7",
       "groups": {
         "Valkyriescan": [
@@ -56,7 +57,7 @@
         ]
       }
     },
-    "07.6": {
+    "7.6": {
       "title": "Capítulo 07.6",
       "groups": {
         "Valkyriescan": [
@@ -69,7 +70,7 @@
         ]
       }
     },
-    "07.5": {
+    "7.5": {
       "title": "Capítulo 07.5",
       "groups": {
         "Valkyriescan": [
@@ -81,7 +82,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -109,7 +110,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -165,7 +166,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -193,7 +194,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -215,7 +216,7 @@
         ]
       }
     },
-    "02.5": {
+    "2.5": {
       "title": "Capítulo 02.5",
       "groups": {
         "Valkyriescan": [
@@ -226,7 +227,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -246,7 +247,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
