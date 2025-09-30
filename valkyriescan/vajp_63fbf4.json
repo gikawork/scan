@@ -4,8 +4,9 @@
   "artist": "Kashikaze",
   "description": "A história de duas jovens musicistas: uma, incomodada por sua voz que não combina com a aparência, e a outra, que sente ter atingido seus limites na composição.",
   "cover": "https://images2.imgbox.com/38/79/fJY1PTQH_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Protagonista",
       "groups": {
         "Valkyriescan": [
@@ -44,7 +45,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Somos parceiras afinal",
       "groups": {
         "Valkyriescan": [
@@ -80,7 +81,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Um pequeno passo para nós duas",
       "groups": {
         "Valkyriescan": [
@@ -108,7 +109,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Minha Música",
       "groups": {
         "Valkyriescan": [
@@ -161,7 +162,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - A chave para o coração",
       "groups": {
         "Valkyriescan": [
