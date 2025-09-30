@@ -4,8 +4,9 @@
   "artist": "KASHIWAGI Tsukiko",
   "description": "Ichiko e Kuran fazem parte do clube de estudos de subcultura. Elas adoram coisas fofas, gostam de subculturas, mas são introvertidas e têm dificuldades sociais. Mesmo assim, as duas continuam conversando sobre o que amam, criticando o que não gostam e indo experimentar as novas sobremesas que estão bombando. Duas “gyaru tímidas” vivem uma nova moratória da juventude em um cotidiano típico da era moderna.",
   "cover": "https://images2.imgbox.com/17/75/VFZsRpBS_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Até uma nerd tem seu orgulho",
       "groups": {
         "Valkyriescan": [
@@ -28,7 +29,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Uma foto tirada por sua amada é a mais bela do mundo",
       "groups": {
         "Valkyriescan": [
@@ -48,7 +49,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Cinéfilos são insuportáveis",
       "groups": {
         "Valkyriescan": [
