@@ -4,6 +4,7 @@
   "artist": "悠作文化",
   "description": "A fria e arrogante médica legista Lin Yan, conhece a honesta e habilidosa detetive Song Yuhang. As duas juntas testemunharam a jornada de muitos indivíduos: uma jovem inocente que morreu injustamente lutando para viver, uma idosa que esperava o retorno de seu filho criminoso nas profundezas das montanhas, uma policial medrosa, mas que enfrenta bandidos armados… Elas lutam pelos direitos dos vivos, falam pelos mortos e juram desvendar uma a uma as verdades silenciadas por anos de segredos.",
   "cover": "https://images2.imgbox.com/36/a6/9oa6HDrf_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "24": {
       "title": "Capítulo 24 - O processo já passou",
@@ -490,7 +491,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Campo Shura",
       "groups": {
         "Valkyriescan": [
@@ -518,7 +519,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Embaraço",
       "groups": {
         "Valkyriescan": [
@@ -551,7 +552,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Confronto",
       "groups": {
         "Valkyriescan": [
@@ -584,7 +585,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Ameaça",
       "groups": {
         "Valkyriescan": [
@@ -617,7 +618,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Disputa",
       "groups": {
         "Valkyriescan": [
@@ -650,7 +651,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Um encontro casual",
       "groups": {
         "Valkyriescan": [
@@ -678,7 +679,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Um encontro às cegas?",
       "groups": {
         "Valkyriescan": [
@@ -711,7 +712,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Objeção",
       "groups": {
         "Valkyriescan": [
@@ -742,7 +743,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Sessão Judicial",
       "groups": {
         "Valkyriescan": [
