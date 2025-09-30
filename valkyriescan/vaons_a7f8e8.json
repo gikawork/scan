@@ -4,8 +4,9 @@
   "artist": "Yuni",
   "description": "Uma história sobre um editora sênior e uma editora júnior que trabalham no departamento editorial de uma revista feminina.",
   "cover": "https://images2.imgbox.com/6d/93/br7owfJR_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
