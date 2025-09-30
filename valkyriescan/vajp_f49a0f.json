@@ -4,8 +4,9 @@
   "artist": "Miura Kozumi",
   "description": "Takamine-senpai é legal, bonita e boa em seu trabalho, a flor inatingível do escritório. Nono, que concorda em sair com Takamine, é uma garota hétero comum. Mas Takamine tem um segredo…",
   "cover": "https://images2.imgbox.com/fa/ee/S7wHKGg3_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Fim",
       "groups": {
         "Valkyriescan": [
@@ -25,7 +26,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -47,7 +48,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
