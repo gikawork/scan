@@ -4,6 +4,7 @@
   "artist": "KuKu",
   "description": "Quem imaginaria que isso poderia acontecer entre membros do mesmo grupo feminino?",
   "cover": "https://images2.imgbox.com/3c/89/B3wpzRWw_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "38": {
       "title": "Capítulo 38",
@@ -462,6 +463,39 @@
         ]
       }
     },
+    "23": {
+      "title": "Capitulo 23",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/77/e8/aDA4A88R_o.jpg",
+          "https://images2.imgbox.com/e0/d0/zci0NQk0_o.jpg",
+          "https://images2.imgbox.com/c2/23/gwpvujYg_o.jpg",
+          "https://images2.imgbox.com/86/59/zdIcIuOl_o.jpg",
+          "https://images2.imgbox.com/0a/c0/RPFlUFQD_o.jpg",
+          "https://images2.imgbox.com/34/5c/39tlwi3x_o.jpg",
+          "https://images2.imgbox.com/a4/0f/jkjv31p8_o.jpg",
+          "https://images2.imgbox.com/28/04/g6RblZNG_o.jpg",
+          "https://images2.imgbox.com/88/25/WQZbZ6K3_o.jpg",
+          "https://images2.imgbox.com/dc/84/5Z00LEIA_o.jpg",
+          "https://images2.imgbox.com/05/39/6PlFiGqM_o.jpg",
+          "https://images2.imgbox.com/d4/8f/HwxzLKTS_o.jpg",
+          "https://images2.imgbox.com/a7/59/vgqXZTJr_o.jpg",
+          "https://images2.imgbox.com/1c/aa/t7OlzUsw_o.jpg",
+          "https://images2.imgbox.com/43/0b/saL3rjj7_o.jpg",
+          "https://images2.imgbox.com/d5/01/DbG1ZDUh_o.jpg",
+          "https://images2.imgbox.com/3d/fa/6evXmQzz_o.jpg",
+          "https://images2.imgbox.com/07/17/AguHK9Gf_o.jpg",
+          "https://images2.imgbox.com/9c/bd/hDQ0CGmN_o.jpg",
+          "https://images2.imgbox.com/df/ad/8wOxt2TU_o.jpg",
+          "https://images2.imgbox.com/16/4f/KxeVZNP3_o.jpg",
+          "https://images2.imgbox.com/a1/a5/uoNxRjoH_o.jpg",
+          "https://images2.imgbox.com/df/72/TZGcGXx4_o.jpg",
+          "https://images2.imgbox.com/1e/13/XDDSwgYi_o.jpg",
+          "https://images2.imgbox.com/26/74/forKlikM_o.jpg",
+          "https://images2.imgbox.com/e4/aa/Ex8aFHet_o.jpg"
+        ]
+      }
+    },
     "22": {
       "title": "Capítulo 22",
       "groups": {
@@ -871,7 +905,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -904,7 +938,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -937,7 +971,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -970,7 +1004,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -1003,7 +1037,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -1036,7 +1070,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -1069,7 +1103,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -1102,7 +1136,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -1135,7 +1169,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -1165,39 +1199,6 @@
           "https://images2.imgbox.com/3f/cf/ki3xrSoV_o.jpg",
           "https://images2.imgbox.com/8a/c8/QFYIjXBP_o.jpg",
           "https://images2.imgbox.com/6c/27/6rMwBLoG_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 23": {
-      "title": "Capitulo 23",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/77/e8/aDA4A88R_o.jpg",
-          "https://images2.imgbox.com/e0/d0/zci0NQk0_o.jpg",
-          "https://images2.imgbox.com/c2/23/gwpvujYg_o.jpg",
-          "https://images2.imgbox.com/86/59/zdIcIuOl_o.jpg",
-          "https://images2.imgbox.com/0a/c0/RPFlUFQD_o.jpg",
-          "https://images2.imgbox.com/34/5c/39tlwi3x_o.jpg",
-          "https://images2.imgbox.com/a4/0f/jkjv31p8_o.jpg",
-          "https://images2.imgbox.com/28/04/g6RblZNG_o.jpg",
-          "https://images2.imgbox.com/88/25/WQZbZ6K3_o.jpg",
-          "https://images2.imgbox.com/dc/84/5Z00LEIA_o.jpg",
-          "https://images2.imgbox.com/05/39/6PlFiGqM_o.jpg",
-          "https://images2.imgbox.com/d4/8f/HwxzLKTS_o.jpg",
-          "https://images2.imgbox.com/a7/59/vgqXZTJr_o.jpg",
-          "https://images2.imgbox.com/1c/aa/t7OlzUsw_o.jpg",
-          "https://images2.imgbox.com/43/0b/saL3rjj7_o.jpg",
-          "https://images2.imgbox.com/d5/01/DbG1ZDUh_o.jpg",
-          "https://images2.imgbox.com/3d/fa/6evXmQzz_o.jpg",
-          "https://images2.imgbox.com/07/17/AguHK9Gf_o.jpg",
-          "https://images2.imgbox.com/9c/bd/hDQ0CGmN_o.jpg",
-          "https://images2.imgbox.com/df/ad/8wOxt2TU_o.jpg",
-          "https://images2.imgbox.com/16/4f/KxeVZNP3_o.jpg",
-          "https://images2.imgbox.com/a1/a5/uoNxRjoH_o.jpg",
-          "https://images2.imgbox.com/df/72/TZGcGXx4_o.jpg",
-          "https://images2.imgbox.com/1e/13/XDDSwgYi_o.jpg",
-          "https://images2.imgbox.com/26/74/forKlikM_o.jpg",
-          "https://images2.imgbox.com/e4/aa/Ex8aFHet_o.jpg"
         ]
       }
     }
