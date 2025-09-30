@@ -4,8 +4,9 @@
   "artist": "Yas-sae",
   "description": "Um dia, sob as ordens do chefe da facção JinHong, ela fica encarregada de vigiar a sua filha, Cheon Hee-Min. Mesmo surpresa ao saber da existência dessa filha, desconhecida para o restante do mundo, Eun-Oh obedece às ordens fielmente.",
   "cover": "https://images2.imgbox.com/8c/23/v2J08s6V_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -54,7 +55,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -98,7 +99,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -147,7 +148,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -197,7 +198,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -247,7 +248,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
