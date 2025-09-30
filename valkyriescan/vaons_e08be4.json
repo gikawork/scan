@@ -4,8 +4,9 @@
   "artist": "Shizuhime",
   "description": "Um doujinshi de Bleach (Yoruichi Shihoin x Soi Fon)",
   "cover": "https://images2.imgbox.com/0b/a5/fvGoqI6K_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
