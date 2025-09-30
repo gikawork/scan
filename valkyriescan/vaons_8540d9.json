@@ -4,8 +4,9 @@
   "artist": "Atsuka Yamagata",
   "description": "Eu deveria estar morta, mas, em vez disso, pareço estar perdida em um mundo semelhante a um jogo de donzela. O príncipe me pediu em casamento, mas a pessoa de quem eu gosto é…!",
   "cover": "https://images2.imgbox.com/d7/ca/C006uJkf_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
