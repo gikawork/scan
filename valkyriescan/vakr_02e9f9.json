@@ -4,6 +4,7 @@
   "artist": "Ratana Satis",
   "description": "“Em tempos imemoriais, uma jovem conhecida pelos habitantes da cidade como “bruxa”, para escapar da perseguição, acabou fugindo para as profundezas da floresta. Lá, ela semeou desprezo e raiva em seu coração e colheu sua vingança amaldiçoando todos eles em feras grandes e pequenas.",
   "cover": "https://images2.imgbox.com/3c/f2/tgyN8Dht_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "50": {
       "title": "Capítulo 50",
@@ -993,7 +994,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -1008,7 +1009,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -1023,7 +1024,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -1039,7 +1040,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -1053,7 +1054,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -1068,7 +1069,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -1082,7 +1083,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -1107,7 +1108,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -1130,7 +1131,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -1157,7 +1158,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
