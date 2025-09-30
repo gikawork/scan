@@ -4,8 +4,9 @@
   "artist": "Battan",
   "description": "Uma história sobre a relação entre Tainaka Seri, uma mangaká de meia carreira que só teve uma obra de sucesso, e sua nova editora, Futami Sumire. Quando a editora que a acompanhou por 10 anos desde sua estreia é transferida, Seri conhece Sumire. Sumire diz que é fã de Seri e, mesmo que Seri fique surpresa com o jeito estranho e direto dela de se aproximar, acaba ficando meio fascinada por ela…",
   "cover": "https://images2.imgbox.com/d1/f8/9QTWP1ca_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Aquele que Deus preparou só para mim",
       "groups": {
         "Valkyriescan": [
@@ -47,7 +48,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Mais que amigas, menos que amantes",
       "groups": {
         "Valkyriescan": [
@@ -92,7 +93,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Eu poderia até ir pro inferno",
       "groups": {
         "Valkyriescan": [
