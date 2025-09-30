@@ -4,8 +4,9 @@
   "artist": "Diandra",
   "description": "Oráculos veem o passado e o futuro de todos com quem entram em contato. Elas compartilham sua visão com algumas poucas pessoas que estão determinadas a escolher seu próprio caminho na vida. Essas pessoas são chamadas de buscadores. No entanto, um buscador deve ser cauteloso, pois, se não for digno de seu próprio futuro, então será tomado dele. Esse é o maior medo de Elise ao se colocar diante da Oráculo. Mas ela está desesperada demais para recuar.",
   "cover": "https://images2.imgbox.com/01/33/Za3IWw7B_o.png",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O funeral de uma seeker",
       "groups": {
         "Valkyriescan": [
@@ -17,7 +18,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Oráculos",
       "groups": {
         "Valkyriescan": [
@@ -31,7 +32,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Borboleta branca",
       "groups": {
         "Valkyriescan": [
@@ -53,7 +54,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prévia",
       "groups": {
         "Valkyriescan": [
