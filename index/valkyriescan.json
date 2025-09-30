@@ -1,8 +1,8 @@
 {
   "scan_info": {
     "name": "ValkyriesScan",
-    "icon_url": "",
-    "description": "Mangás, manhwas e manhuas da ValkyriesScan",
+    "icon_url": "https://files.catbox.moe/5q5up0.jpg",
+    "description": "A Valkyrie Scan era um site de tradução e publicação de mangás, manhwas e webtoons, focado no gênero yuri/GL. Esta página é um backup das obras disponíveis lá, criado para preservar o acesso ao catálogo para leitura e referência, sem fins lucrativos e respeitando os direitos autorais originais.",
     "lastUpdated": 1759256696,
     "total_works": 536,
     "version": "1.0.0"
