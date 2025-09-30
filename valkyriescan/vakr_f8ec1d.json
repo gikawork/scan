@@ -4,8 +4,9 @@
   "artist": "Cho Sangduck",
   "description": "Uma coletânea GL com oito histórias curtas que se desenrolam em dias chuvosos.",
   "cover": "https://images2.imgbox.com/d4/7e/6uCVQWIz_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "08": {
+    "8": {
       "title": "Capítulo 08 - A vizinha encharcada quer que eu a toque (Cho Sangdeok)",
       "groups": {
         "Valkyriescan": [
@@ -63,7 +64,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - O nome da emoção (Kang Unni-Miss PM)",
       "groups": {
         "Valkyriescan": [
@@ -121,7 +122,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Como sobreviver à temporada de chuvas (Willow)",
       "groups": {
         "Valkyriescan": [
@@ -154,7 +155,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - O salto da gata ( Team 걸러버여행기 )",
       "groups": {
         "Valkyriescan": [
@@ -202,7 +203,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Segredos em um dia chuvoso (Hongback)",
       "groups": {
         "Valkyriescan": [
@@ -235,7 +236,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Acensão úmida (Jackbull)",
       "groups": {
         "Valkyriescan": [
@@ -293,7 +294,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Chuva de Azar (Yongnack)",
       "groups": {
         "Valkyriescan": [
@@ -351,7 +352,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Benção disfarçada (Notima)",
       "groups": {
         "Valkyriescan": [
