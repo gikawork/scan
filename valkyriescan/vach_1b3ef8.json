@@ -4,6 +4,7 @@
   "artist": "Lily Club",
   "description": "Uma vampira que está dormindo há quase duzentos anos, Maria é acordada por uma garota loba que passava por acaso, e no momento em que o caixão é aberto, a maldição recai sobre ela. As duas meninas iniciaram a jornada para a cidade.",
   "cover": "https://images2.imgbox.com/3c/76/36UCtzbV_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "134": {
       "title": "Capítulo 134 - Teste final",
@@ -2461,7 +2462,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Faça um bom disfarce",
       "groups": {
         "Valkyriescan": [
@@ -2476,7 +2477,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Separadas",
       "groups": {
         "Valkyriescan": [
@@ -2492,7 +2493,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Ela é minha cura",
       "groups": {
         "Valkyriescan": [
@@ -2508,7 +2509,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Isso está tudo no passado",
       "groups": {
         "Valkyriescan": [
@@ -2524,7 +2525,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - A história dos meus ancestrais",
       "groups": {
         "Valkyriescan": [
@@ -2539,7 +2540,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Você quer brincar de me vestir",
       "groups": {
         "Valkyriescan": [
@@ -2555,7 +2556,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Por favor, saboreia-me",
       "groups": {
         "Valkyriescan": [
@@ -2571,7 +2572,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Embarque na jornada",
       "groups": {
         "Valkyriescan": [
@@ -2589,7 +2590,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Você gostaria de ser minha comida",
       "groups": {
         "Valkyriescan": [
@@ -2606,7 +2607,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prévia",
       "groups": {
         "Valkyriescan": [
