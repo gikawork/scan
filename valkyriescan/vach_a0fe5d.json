@@ -4,6 +4,7 @@
   "artist": "悠作文化",
   "description": "Chi Tang e Youyu são duas esquisitas da Sala 2 do 1º ano do ensino médio. Elas se tornaram companheiras de mesa, colegas de quarto e a salvação uma da outra, protegendo a sua vontade de viver. Uma relação iniciada na ignorância, terminando em compreensão. Um poema da juventude.",
   "cover": "https://images2.imgbox.com/2c/41/ec1i1dr2_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "51": {
       "title": "Capítulo 51 - Festa de Ano Novo",
@@ -1327,7 +1328,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Você conseguiu o primeiro lugar",
       "groups": {
         "Valkyriescan": [
@@ -1360,7 +1361,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Não se atreva a atacá-la",
       "groups": {
         "Valkyriescan": [
@@ -1393,7 +1394,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Você é diferente",
       "groups": {
         "Valkyriescan": [
@@ -1426,7 +1427,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Ela ao seu ver",
       "groups": {
         "Valkyriescan": [
@@ -1459,7 +1460,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Presente de coração",
       "groups": {
         "Valkyriescan": [
@@ -1492,7 +1493,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - O uniforme escolar dela",
       "groups": {
         "Valkyriescan": [
@@ -1525,7 +1526,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Alívio",
       "groups": {
         "Valkyriescan": [
@@ -1558,7 +1559,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - De quem é a carta de amor?",
       "groups": {
         "Valkyriescan": [
@@ -1582,7 +1583,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Colegas de quarto",
       "groups": {
         "Valkyriescan": [
@@ -1626,7 +1627,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
