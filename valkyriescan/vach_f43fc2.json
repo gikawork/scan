@@ -4,6 +4,7 @@
   "artist": "Julys",
   "description": "Bai Lijin, uma fada que vivia no paraíso, comendo e bebendo sem se preocupar, quebrou colorido prato de vitral de sua Majestade em seu aniversário e foi banida para o reino mortal. Agora ela tem que começar suas aventuras entre os humanos, sem os seus poderes espirituais!",
   "cover": "https://images2.imgbox.com/f2/ab/Y4O0ZJhQ_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "153": {
       "title": "Capítulo 153 - Esse momento",
@@ -4248,7 +4249,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Intencionalmente",
       "groups": {
         "Valkyriescan": [
@@ -4287,7 +4288,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Esta fada está confusa",
       "groups": {
         "Valkyriescan": [
@@ -4315,7 +4316,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - O demônio altamente habilidoso é ousado",
       "groups": {
         "Valkyriescan": [
@@ -4351,7 +4352,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A pessoa do meu sonho",
       "groups": {
         "Valkyriescan": [
@@ -4393,7 +4394,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Planejado",
       "groups": {
         "Valkyriescan": [
@@ -4427,7 +4428,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Será que ela é um espírito de raposa",
       "groups": {
         "Valkyriescan": [
@@ -4443,7 +4444,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Pegando uma fada e levando-a para casa",
       "groups": {
         "Valkyriescan": [
@@ -4459,7 +4460,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Uma fada também precisa comer",
       "groups": {
         "Valkyriescan": [
@@ -4510,7 +4511,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Você cheira muito bem",
       "groups": {
         "Valkyriescan": [
@@ -4561,6 +4562,39 @@
           "https://images2.imgbox.com/33/39/gccUQTqX_o.jpg",
           "https://images2.imgbox.com/49/c4/Wms7Ma4G_o.jpg",
           "https://images2.imgbox.com/5d/71/wlFneHE1_o.jpg"
+        ]
+      }
+    },
+    "0": {
+      "title": "Capítulo 68 - Encanto único",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/62/a1/dndXAXCt_o.png",
+          "https://images2.imgbox.com/9f/f4/9npngMe0_o.jpg",
+          "https://images2.imgbox.com/39/67/YuHB17yU_o.jpg",
+          "https://images2.imgbox.com/38/dc/trBMO4u7_o.jpg",
+          "https://images2.imgbox.com/05/c8/A1c731Cu_o.jpg",
+          "https://images2.imgbox.com/d7/aa/5n3uRFpc_o.jpg",
+          "https://images2.imgbox.com/22/03/wegcRdfJ_o.jpg",
+          "https://images2.imgbox.com/ed/3d/e2w3zXls_o.jpg",
+          "https://images2.imgbox.com/12/46/stVoMkuJ_o.jpg",
+          "https://images2.imgbox.com/15/2c/uXer6XO2_o.jpg",
+          "https://images2.imgbox.com/10/d5/5yy24bfE_o.jpg",
+          "https://images2.imgbox.com/54/bc/uXyel6wi_o.jpg",
+          "https://images2.imgbox.com/cb/f8/SX3V7gNq_o.jpg",
+          "https://images2.imgbox.com/b8/a9/FtA3UbEs_o.jpg",
+          "https://images2.imgbox.com/92/54/So1kGsgM_o.jpg",
+          "https://images2.imgbox.com/29/e8/FrA6Gr4n_o.jpg",
+          "https://images2.imgbox.com/f1/e5/dt6FVzF0_o.jpg",
+          "https://images2.imgbox.com/ed/ce/FSOvejod_o.jpg",
+          "https://images2.imgbox.com/ae/10/vs8edS9D_o.jpg",
+          "https://images2.imgbox.com/79/f2/3jOUlnTt_o.jpg",
+          "https://images2.imgbox.com/b7/04/JfKAvPJb_o.jpg",
+          "https://images2.imgbox.com/9a/98/lST8yc9u_o.jpg",
+          "https://images2.imgbox.com/51/94/MQ7J9Y6Q_o.jpg",
+          "https://images2.imgbox.com/a9/15/HwZfTohI_o.jpg",
+          "https://images2.imgbox.com/55/a3/B9l5wdzJ_o.jpg",
+          "https://images2.imgbox.com/b6/2e/AmWNPXsp_o.jpg"
         ]
       }
     }
