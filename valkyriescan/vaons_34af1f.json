@@ -4,8 +4,9 @@
   "artist": "Ohi Pikachi",
   "description": "Um doujinshi de Lycoris Recoil, sobre Chisato e Takina se divertindo na cama antes de irem para o Havaí.",
   "cover": "https://images2.imgbox.com/4e/d0/8PZfWp0m_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
