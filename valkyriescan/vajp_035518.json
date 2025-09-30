@@ -4,7 +4,64 @@
   "artist": "Akashi",
   "description": "Shimizu Makoto, uma líder de pesquisa e desenvolvimento bem paga de uma empresa industrial, tem um segredo – ela desenha e vende fanfics gays em seus dias de folga. Mas quando sua doce colega de trabalho, Maekawa, acidentalmente entra em seu mundo secreto de garotas que gostam de outras garotas, Shimizu tem que ficar cara a cara com algumas realizações sérias… e lidar com o quão esquisita Maekawa é!",
   "cover": "https://images2.imgbox.com/ba/26/ghtnfivU_o.jpg",
+  "status": "Completo",
   "chapters": {
+    "23.5": {
+      "title": "Capitulo 23.5",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/85/85/tEZAlzGo_o.jpg",
+          "https://images2.imgbox.com/e2/6b/orovm4yF_o.jpg",
+          "https://images2.imgbox.com/85/01/8tg77GYd_o.jpg",
+          "https://images2.imgbox.com/c5/c0/e803QiDz_o.jpg",
+          "https://images2.imgbox.com/46/7a/4MKx7nAA_o.jpg",
+          "https://images2.imgbox.com/89/49/UnNwPl84_o.jpg",
+          "https://images2.imgbox.com/38/0a/Sg85H1b1_o.jpg",
+          "https://images2.imgbox.com/4e/83/vLENY7Zo_o.jpg",
+          "https://images2.imgbox.com/ea/08/1RWgoUbs_o.jpg",
+          "https://images2.imgbox.com/6b/18/z7JAPxyd_o.jpg",
+          "https://images2.imgbox.com/a1/c6/vc4iDDM5_o.jpg"
+        ]
+      }
+    },
+    "23": {
+      "title": "Capitulo 23",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/5a/2a/CRqFJMGP_o.jpg",
+          "https://images2.imgbox.com/1b/c3/o6xwGGQJ_o.jpg",
+          "https://images2.imgbox.com/91/06/WtjEcbOU_o.jpg",
+          "https://images2.imgbox.com/71/36/kccn7Les_o.jpg",
+          "https://images2.imgbox.com/68/32/nka86D5z_o.jpg",
+          "https://images2.imgbox.com/3e/cd/oIjKi093_o.jpg",
+          "https://images2.imgbox.com/3f/65/rUrEoauw_o.jpg",
+          "https://images2.imgbox.com/42/70/9mbw4BdQ_o.jpg",
+          "https://images2.imgbox.com/ea/b4/AnZ7hxAk_o.jpg",
+          "https://images2.imgbox.com/a1/6c/iEsJXbKV_o.jpg",
+          "https://images2.imgbox.com/2f/2c/lTsvzCvW_o.jpg",
+          "https://images2.imgbox.com/e8/43/GyQWjbat_o.jpg",
+          "https://images2.imgbox.com/f5/15/KRJtChgr_o.jpg",
+          "https://images2.imgbox.com/11/99/CS19CoWG_o.jpg",
+          "https://images2.imgbox.com/a1/1d/0e8FInx8_o.jpg",
+          "https://images2.imgbox.com/8e/63/Hz57Cicf_o.jpg",
+          "https://images2.imgbox.com/b0/f2/fhR7AjJS_o.jpg",
+          "https://images2.imgbox.com/1c/bf/YoPYB9iR_o.jpg",
+          "https://images2.imgbox.com/39/5e/gA3wLDmd_o.jpg",
+          "https://images2.imgbox.com/d7/d7/M2xIFgv7_o.jpg",
+          "https://images2.imgbox.com/23/41/8VpmcJfK_o.jpg",
+          "https://images2.imgbox.com/a3/eb/MNqj1fdv_o.jpg",
+          "https://images2.imgbox.com/d2/b7/0RCS92sw_o.jpg",
+          "https://images2.imgbox.com/bc/0e/ukNVtI6X_o.jpg",
+          "https://images2.imgbox.com/07/2b/v2yTWBYW_o.jpg",
+          "https://images2.imgbox.com/4e/58/mRlurH9j_o.jpg",
+          "https://images2.imgbox.com/e5/88/vIBk6J72_o.jpg",
+          "https://images2.imgbox.com/b2/38/9SmIuXhr_o.jpg",
+          "https://images2.imgbox.com/16/c8/gBJ1XZv2_o.jpg",
+          "https://images2.imgbox.com/62/5c/Cj8jSOnG_o.jpg",
+          "https://images2.imgbox.com/4a/47/m2WkVnip_o.jpg"
+        ]
+      }
+    },
     "22": {
       "title": "Capítulo 22",
       "groups": {
@@ -434,7 +491,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -462,7 +519,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -482,7 +539,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -517,7 +574,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -547,7 +604,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -577,7 +634,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -611,7 +668,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -641,7 +698,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -671,7 +728,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -693,62 +750,6 @@
           "https://images2.imgbox.com/35/14/LcLucHKL_o.jpg",
           "https://images2.imgbox.com/8c/8e/ewfH1igz_o.jpg",
           "https://images2.imgbox.com/82/09/8pizbs6L_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 23.5": {
-      "title": "Capitulo 23.5",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/85/85/tEZAlzGo_o.jpg",
-          "https://images2.imgbox.com/e2/6b/orovm4yF_o.jpg",
-          "https://images2.imgbox.com/85/01/8tg77GYd_o.jpg",
-          "https://images2.imgbox.com/c5/c0/e803QiDz_o.jpg",
-          "https://images2.imgbox.com/46/7a/4MKx7nAA_o.jpg",
-          "https://images2.imgbox.com/89/49/UnNwPl84_o.jpg",
-          "https://images2.imgbox.com/38/0a/Sg85H1b1_o.jpg",
-          "https://images2.imgbox.com/4e/83/vLENY7Zo_o.jpg",
-          "https://images2.imgbox.com/ea/08/1RWgoUbs_o.jpg",
-          "https://images2.imgbox.com/6b/18/z7JAPxyd_o.jpg",
-          "https://images2.imgbox.com/a1/c6/vc4iDDM5_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 23": {
-      "title": "Capitulo 23",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/5a/2a/CRqFJMGP_o.jpg",
-          "https://images2.imgbox.com/1b/c3/o6xwGGQJ_o.jpg",
-          "https://images2.imgbox.com/91/06/WtjEcbOU_o.jpg",
-          "https://images2.imgbox.com/71/36/kccn7Les_o.jpg",
-          "https://images2.imgbox.com/68/32/nka86D5z_o.jpg",
-          "https://images2.imgbox.com/3e/cd/oIjKi093_o.jpg",
-          "https://images2.imgbox.com/3f/65/rUrEoauw_o.jpg",
-          "https://images2.imgbox.com/42/70/9mbw4BdQ_o.jpg",
-          "https://images2.imgbox.com/ea/b4/AnZ7hxAk_o.jpg",
-          "https://images2.imgbox.com/a1/6c/iEsJXbKV_o.jpg",
-          "https://images2.imgbox.com/2f/2c/lTsvzCvW_o.jpg",
-          "https://images2.imgbox.com/e8/43/GyQWjbat_o.jpg",
-          "https://images2.imgbox.com/f5/15/KRJtChgr_o.jpg",
-          "https://images2.imgbox.com/11/99/CS19CoWG_o.jpg",
-          "https://images2.imgbox.com/a1/1d/0e8FInx8_o.jpg",
-          "https://images2.imgbox.com/8e/63/Hz57Cicf_o.jpg",
-          "https://images2.imgbox.com/b0/f2/fhR7AjJS_o.jpg",
-          "https://images2.imgbox.com/1c/bf/YoPYB9iR_o.jpg",
-          "https://images2.imgbox.com/39/5e/gA3wLDmd_o.jpg",
-          "https://images2.imgbox.com/d7/d7/M2xIFgv7_o.jpg",
-          "https://images2.imgbox.com/23/41/8VpmcJfK_o.jpg",
-          "https://images2.imgbox.com/a3/eb/MNqj1fdv_o.jpg",
-          "https://images2.imgbox.com/d2/b7/0RCS92sw_o.jpg",
-          "https://images2.imgbox.com/bc/0e/ukNVtI6X_o.jpg",
-          "https://images2.imgbox.com/07/2b/v2yTWBYW_o.jpg",
-          "https://images2.imgbox.com/4e/58/mRlurH9j_o.jpg",
-          "https://images2.imgbox.com/e5/88/vIBk6J72_o.jpg",
-          "https://images2.imgbox.com/b2/38/9SmIuXhr_o.jpg",
-          "https://images2.imgbox.com/16/c8/gBJ1XZv2_o.jpg",
-          "https://images2.imgbox.com/62/5c/Cj8jSOnG_o.jpg",
-          "https://images2.imgbox.com/4a/47/m2WkVnip_o.jpg"
         ]
       }
     }
