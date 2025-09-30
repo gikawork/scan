@@ -4,6 +4,7 @@
   "artist": "Chen Guojian",
   "description": "Um dia, a streamer Bai Xinxin é transmigrada para a filha do príncipe, Bai Yueguang, do jogo de suspense “Nightingale and the Rose”. Mas todos neste jogo estão determinados a matar Bai Yueguang e Lan Sha é a única personagem que pode protegê-la. Enquanto luta por sua vida contra inimigos conhecidos e desconhecidos, Bai Yueguang tenta encontrar uma maneira de sobreviver com Lan Sha ao seu lado também. No entanto, a personagem principal Lan Sha não parece ser uma mera NPC…",
   "cover": "https://images2.imgbox.com/ba/c9/PYaDuGUy_o.jpg",
+  "status": "Completo",
   "chapters": {
     "35": {
       "title": "Capítulo 35 - Brava Heroína",
@@ -668,7 +669,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Não tenha medo. Estou aqui por você",
       "groups": {
         "Valkyriescan": [
@@ -687,7 +688,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Fisgando o coração de nossos amados com comida!",
       "groups": {
         "Valkyriescan": [
@@ -720,7 +721,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Eu Te acusando sem motivo",
       "groups": {
         "Valkyriescan": [
@@ -753,7 +754,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Lan Sha, você é a mais inteligente!",
       "groups": {
         "Valkyriescan": [
@@ -781,7 +782,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Eu continuo sendo a protagonista",
       "groups": {
         "Valkyriescan": [
@@ -796,7 +797,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Eu vou ter que ser a mais vilã de todos eles!",
       "groups": {
         "Valkyriescan": [
@@ -814,7 +815,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O primeiro final ruim",
       "groups": {
         "Valkyriescan": [
@@ -830,7 +831,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Tão virtuosa quanto a própria Virgem Maria",
       "groups": {
         "Valkyriescan": [
@@ -854,7 +855,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Então, você está preparada para morrer",
       "groups": {
         "Valkyriescan": [
@@ -887,7 +888,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo",
       "groups": {
         "Valkyriescan": [
