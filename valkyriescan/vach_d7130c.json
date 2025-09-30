@@ -4,6 +4,7 @@
   "artist": "悠作文化",
   "description": "A novata assistente de fotografia, Xiao Zhou, é cativada pela modelo Lan Shan em um bar. Quando Lan Shan percebe que Xiao Zhou roubou uma foto sua, ela não fica com raiva, mas fica impressionada com a aura/energia da fotografia. As duas, que se encontram pela primeira vez, ficam profundamente cativadas uma pela outra e sentem uma conexão natural. Seus destinos se cruzam.",
   "cover": "https://images2.imgbox.com/d3/bc/wMqKESDN_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "17": {
       "title": "Capítulo 17 - Quero você",
@@ -242,7 +243,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Chama acesa",
       "groups": {
         "Valkyriescan": [
@@ -271,7 +272,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Primavera",
       "groups": {
         "Valkyriescan": [
@@ -300,7 +301,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Voltando para casa",
       "groups": {
         "Valkyriescan": [
@@ -329,7 +330,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Fogo selvagem",
       "groups": {
         "Valkyriescan": [
@@ -358,7 +359,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Confiança",
       "groups": {
         "Valkyriescan": [
@@ -387,7 +388,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Heroína",
       "groups": {
         "Valkyriescan": [
@@ -416,7 +417,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Sonhos se tornam realidade",
       "groups": {
         "Valkyriescan": [
@@ -444,7 +445,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Reunião",
       "groups": {
         "Valkyriescan": [
@@ -472,7 +473,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Musa",
       "groups": {
         "Valkyriescan": [
@@ -500,7 +501,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo",
       "groups": {
         "Valkyriescan": [
