@@ -4,6 +4,7 @@
   "artist": "Kate Flynn",
   "description": "Não há nada definitivo sobre a vida após a morte, exceto a inscrição involuntária na misteriosa Academia Nevermore. Agora Lenore e Annabel Lee devem começar seu currículo para recuperar as memórias de sua trágica morte. Entre o comportamento macabro do reitor e os perigos reveladores dos exames finais, as duas garotas devem aprender a confiar uma na outra e em suas formas fantasmas recém adquiridas, ou Espectros, não apenas para se formar na academia… mas para ganhar uma segunda chance na vida.",
   "cover": "https://images2.imgbox.com/60/af/nhxWc3r6_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "112": {
       "title": "Capítulo 112",
@@ -3357,7 +3358,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -3421,7 +3422,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -3468,7 +3469,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -3532,7 +3533,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -3585,7 +3586,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -3698,7 +3699,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -3802,7 +3803,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -3858,7 +3859,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -3891,7 +3892,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
