@@ -4,8 +4,9 @@
   "artist": "Ando Uni",
   "description": "Uma menina chorona que de repente foi beijada por uma garota delinquente que ela acabara de conhecer… A história de Crybaby e Cocoa começa sem saber por que se beijaram.",
   "cover": "https://images2.imgbox.com/fb/02/DWX4lZLH_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -15,7 +16,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -25,7 +26,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -35,7 +36,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
