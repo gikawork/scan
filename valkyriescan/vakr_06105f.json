@@ -4,8 +4,9 @@
   "artist": "April Pierce",
   "description": "Um romance proibido. Uma batalha pelo controle dos mares. Meela escolherá salvar seu povo ou a sereia que ela ama?",
   "cover": "https://images2.imgbox.com/17/03/stMpxM42_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "08.3": {
+    "8.3": {
       "title": "Capítulo 08.3",
       "groups": {
         "Valkyriescan": [
@@ -33,7 +34,7 @@
         ]
       }
     },
-    "08.2": {
+    "8.2": {
       "title": "Capítulo 08.2",
       "groups": {
         "Valkyriescan": [
@@ -61,7 +62,7 @@
         ]
       }
     },
-    "08.1": {
+    "8.1": {
       "title": "Capítulo 08.1",
       "groups": {
         "Valkyriescan": [
@@ -89,7 +90,7 @@
         ]
       }
     },
-    "07.2": {
+    "7.2": {
       "title": "Capítulo 07.2",
       "groups": {
         "Valkyriescan": [
@@ -117,7 +118,7 @@
         ]
       }
     },
-    "07.1": {
+    "7.1": {
       "title": "Capítulo 07.1",
       "groups": {
         "Valkyriescan": [
@@ -145,7 +146,7 @@
         ]
       }
     },
-    "06.4": {
+    "6.4": {
       "title": "Capítulo 06.4",
       "groups": {
         "Valkyriescan": [
@@ -178,7 +179,7 @@
         ]
       }
     },
-    "06.3": {
+    "6.3": {
       "title": "Capítulo 06.3",
       "groups": {
         "Valkyriescan": [
@@ -211,7 +212,7 @@
         ]
       }
     },
-    "06.2": {
+    "6.2": {
       "title": "Capítulo 06.2",
       "groups": {
         "Valkyriescan": [
@@ -227,7 +228,7 @@
         ]
       }
     },
-    "06.1": {
+    "6.1": {
       "title": "Capítulo 06.1",
       "groups": {
         "Valkyriescan": [
@@ -245,7 +246,7 @@
         ]
       }
     },
-    "05.3": {
+    "5.3": {
       "title": "Capítulo 05.3",
       "groups": {
         "Valkyriescan": [
@@ -273,7 +274,7 @@
         ]
       }
     },
-    "05.2": {
+    "5.2": {
       "title": "Capítulo 05.2",
       "groups": {
         "Valkyriescan": [
@@ -301,7 +302,7 @@
         ]
       }
     },
-    "05.1": {
+    "5.1": {
       "title": "Capítulo 05.1",
       "groups": {
         "Valkyriescan": [
@@ -329,7 +330,7 @@
         ]
       }
     },
-    "04.4": {
+    "4.4": {
       "title": "Capítulo 04.4",
       "groups": {
         "Valkyriescan": [
@@ -357,7 +358,7 @@
         ]
       }
     },
-    "04.3": {
+    "4.3": {
       "title": "Capítulo 04.3",
       "groups": {
         "Valkyriescan": [
@@ -385,7 +386,7 @@
         ]
       }
     },
-    "04.2": {
+    "4.2": {
       "title": "Capítulo 04.2",
       "groups": {
         "Valkyriescan": [
@@ -413,7 +414,7 @@
         ]
       }
     },
-    "04.1": {
+    "4.1": {
       "title": "Capítulo 04.1",
       "groups": {
         "Valkyriescan": [
@@ -441,7 +442,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -472,7 +473,7 @@
         ]
       }
     },
-    "02.1": {
+    "2.1": {
       "title": "Capítulo 02.1 - Especial de Natal",
       "groups": {
         "Valkyriescan": [
@@ -480,7 +481,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -505,7 +506,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
