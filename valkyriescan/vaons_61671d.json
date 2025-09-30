@@ -4,8 +4,9 @@
   "artist": "Musihara",
   "description": "Uma coletânea de doujinshis de Lycoris Recoil.",
   "cover": "https://images2.imgbox.com/5f/3b/rO4tqdwE_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Único & Nosso",
       "groups": {
         "Valkyriescan": [
@@ -43,7 +44,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Tentação & Pulsação",
       "groups": {
         "Valkyriescan": [
@@ -81,7 +82,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Surpresa & Sedução",
       "groups": {
         "Valkyriescan": [
@@ -114,7 +115,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Registro & Gravação",
       "groups": {
         "Valkyriescan": [
@@ -141,6 +142,44 @@
           "https://images2.imgbox.com/95/c6/KgZyZT1a_o.jpg",
           "https://images2.imgbox.com/b7/33/fSie1lXL_o.jpg",
           "https://images2.imgbox.com/e2/a7/pGmm0QG2_o.jpg"
+        ]
+      }
+    },
+    "0": {
+      "title": "Capítulo 04 - Único & Nosso",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/ca/e4/m6mi8LJ3_o.jpg",
+          "https://images2.imgbox.com/05/8d/THUIcwwA_o.jpg",
+          "https://images2.imgbox.com/f8/88/INPHpbZs_o.jpg",
+          "https://images2.imgbox.com/cd/71/CFzOQoet_o.jpg",
+          "https://images2.imgbox.com/27/55/WFEXHZaf_o.jpg",
+          "https://images2.imgbox.com/5c/12/FPE3v2zj_o.jpg",
+          "https://images2.imgbox.com/dd/8d/XjKtvJRA_o.jpg",
+          "https://images2.imgbox.com/a1/d8/Zd5K0MHc_o.jpg",
+          "https://images2.imgbox.com/a2/f0/HLkWeTBJ_o.jpg",
+          "https://images2.imgbox.com/59/98/UANNjZwu_o.jpg",
+          "https://images2.imgbox.com/20/8d/HY1b43st_o.jpg",
+          "https://images2.imgbox.com/98/fb/wxlgrUka_o.jpg",
+          "https://images2.imgbox.com/a5/5c/tq1KLQNg_o.jpg",
+          "https://images2.imgbox.com/5a/a9/qNXC8y2Z_o.jpg",
+          "https://images2.imgbox.com/09/09/ALUBy8lt_o.jpg",
+          "https://images2.imgbox.com/23/d7/UjM5lH8d_o.jpg",
+          "https://images2.imgbox.com/3c/39/IIReffvi_o.jpg",
+          "https://images2.imgbox.com/c4/8e/Y7c2rp04_o.jpg",
+          "https://images2.imgbox.com/5c/72/3htwxs7g_o.jpg",
+          "https://images2.imgbox.com/1d/62/XYjIz8Gu_o.jpg",
+          "https://images2.imgbox.com/e7/75/3GZIj3Ak_o.jpg",
+          "https://images2.imgbox.com/c8/c1/F9hHjAkT_o.jpg",
+          "https://images2.imgbox.com/1c/91/4LNDbSPn_o.jpg",
+          "https://images2.imgbox.com/f9/18/lk1cuupN_o.jpg",
+          "https://images2.imgbox.com/ff/c0/jSM27mYF_o.jpg",
+          "https://images2.imgbox.com/6d/f7/tvOcGPvG_o.jpg",
+          "https://images2.imgbox.com/d3/7b/mVPUnoPK_o.jpg",
+          "https://images2.imgbox.com/48/99/QvavR5Eg_o.jpg",
+          "https://images2.imgbox.com/79/58/m2U0ASMe_o.jpg",
+          "https://images2.imgbox.com/6c/3e/n9qj78uu_o.jpg",
+          "https://images2.imgbox.com/c8/e7/aL1cuIqH_o.jpg"
         ]
       }
     }
