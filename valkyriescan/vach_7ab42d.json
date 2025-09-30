@@ -4,8 +4,9 @@
   "artist": "Whisky老豬",
   "description": "Um dia, uma garota acusada de ser bruxa é resgatada por Dolores, que é uma bruxa. Dolores pede a essa garota que ofereça seu sangue em troca de deixá-la ficar em sua casa.\nSerá que esta estadia irá desenvolver algum sentimento entre elas?",
   "cover": "https://images2.imgbox.com/d5/3f/XBS38wXI_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Anjo (Fim)",
       "groups": {
         "Valkyriescan": [
@@ -22,7 +23,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Rouxinol",
       "groups": {
         "Valkyriescan": [
@@ -36,7 +37,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Estrela",
       "groups": {
         "Valkyriescan": [
@@ -52,7 +53,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Nenúfares",
       "groups": {
         "Valkyriescan": [
@@ -73,7 +74,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Destino",
       "groups": {
         "Valkyriescan": [
@@ -93,7 +94,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Demônio",
       "groups": {
         "Valkyriescan": [
@@ -112,7 +113,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Pimenta e sal",
       "groups": {
         "Valkyriescan": [
@@ -133,7 +134,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Garota",
       "groups": {
         "Valkyriescan": [
@@ -152,7 +153,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Bruxa",
       "groups": {
         "Valkyriescan": [
