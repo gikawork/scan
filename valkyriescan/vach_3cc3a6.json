@@ -4,8 +4,9 @@
   "artist": "桌子Table",
   "description": "Quando a despreocupada professora de arte Jiang Ting conhece a treinadora de ginástica Yang Qingzhao por acaso, as primeiras faíscas do verão são acesas.",
   "cover": "https://images2.imgbox.com/81/4c/88R7ibGh_o.jpeg",
+  "status": "Hiato",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -55,7 +56,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -111,7 +112,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
