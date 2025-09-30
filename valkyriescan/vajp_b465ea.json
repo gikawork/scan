@@ -4,6 +4,7 @@
   "artist": "MINAKATA Sunao",
   "description": "Flum Apricot não tem nada de heroína. Mesmo seus status sendo zerados e possuir um poder que ela não consegue usar, ela de alguma forma se encontrou incluída no grupo de heróis. Mas a vida de Flum vira do avesso quando o sábio renomado da equipe, Jean Inteige, decide que a garota inútil é um peso morto, e providencia sua venda como escrava. Jogada para ser devorada por monstros para entretenimento de seu mestre, Flum faz uma escolha desesperada para alcançar uma arma amaldiçoada… e algo desperta dentro dela. E antes de escapar, ela leva uma das escravas sobreviventes com ela, sem uma razão clara, ela apenas chamou sua atenção. Mal sabia ela que essa garota, chamada Milkitt, se tornaria tão importante para ela. Uma história sombria sobre a missão sangrenta de uma mulher, sua amada, e uma espada amaldiçoada, para reconstruir suas vidas!",
   "cover": "https://images2.imgbox.com/a9/e0/3aKFqiFB_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "17": {
       "title": "Capítulo 17",
@@ -339,7 +340,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -373,7 +374,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -412,7 +413,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -454,7 +455,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -492,7 +493,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -530,7 +531,7 @@
         ]
       }
     },
-    "04.5": {
+    "4.5": {
       "title": "Capítulo 04.5",
       "groups": {
         "Valkyriescan": [
@@ -557,7 +558,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -595,7 +596,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -628,7 +629,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -663,7 +664,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
