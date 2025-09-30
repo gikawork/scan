@@ -4,8 +4,9 @@
   "artist": "Ayane",
   "description": "Aki e Kei estão juntas há 2 anos, mas qual é exatamente o relacionamento delas?",
   "cover": "https://images2.imgbox.com/5e/2d/cv9kyGRL_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
