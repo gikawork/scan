@@ -4,8 +4,9 @@
   "artist": "Yudepan",
   "description": "Maho, uma trabalhadora de escritório, gosta de ler livros até a hora de fechar a biblioteca. Um dia, conhece uma estudante do ensino médio que estava chorando enquanto lia um de seus livros favoritos.",
   "cover": "https://images2.imgbox.com/4e/52/p4pTbnYJ_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
