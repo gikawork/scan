@@ -4,8 +4,9 @@
   "artist": "Yatosaki Haru",
   "description": "Se comer, vai morrer… Mas é a comida feita à mão por Mari, sua falecida e amada namorada. Ela não pode comer, mas o estômago de Nagi, a protagonista, não para de roncar…!",
   "cover": "https://images2.imgbox.com/6b/1c/5UXMC4G6_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
