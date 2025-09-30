@@ -4,8 +4,9 @@
   "artist": "Sumiko Arai",
   "description": "Uma história de amor entre duas mulheres adultas e frustradas.",
   "cover": "https://images2.imgbox.com/3b/50/LCM1kQ1V_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
