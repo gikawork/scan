@@ -4,6 +4,7 @@
   "artist": "Derppycat.Amaya",
   "description": "Um acordo inusitado que junta o útil ao agradável: Uma delas está pensando em pagar alguém para ser sua parceira e a outra está precisando de dinheiro. Um romance de escritório entre duas mulheres que decidiram namorar por um mês.",
   "cover": "https://images2.imgbox.com/10/93/fjCpP6Ac_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "38": {
       "title": "Capítulo 38 - Ainda gosta dele?",
@@ -501,7 +502,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Problema Resolvido",
       "groups": {
         "Valkyriescan": [
@@ -514,7 +515,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Está trancado",
       "groups": {
         "Valkyriescan": [
@@ -533,7 +534,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Abraço ou beijo",
       "groups": {
         "Valkyriescan": [
@@ -552,7 +553,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Vamos continuar amanhã",
       "groups": {
         "Valkyriescan": [
@@ -571,7 +572,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Vamos a um encontro",
       "groups": {
         "Valkyriescan": [
@@ -590,7 +591,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Você parece ingênua",
       "groups": {
         "Valkyriescan": [
@@ -609,7 +610,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Sou uma garota",
       "groups": {
         "Valkyriescan": [
@@ -628,7 +629,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Brava",
       "groups": {
         "Valkyriescan": [
@@ -647,7 +648,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Rejeição",
       "groups": {
         "Valkyriescan": [
