@@ -4,8 +4,9 @@
   "artist": "Shino Hirofumi",
   "description": "“Quero que este amor de verão dure para sempre”.",
   "cover": "https://images2.imgbox.com/db/2a/bzejIDAE_o.png",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
