@@ -4,8 +4,9 @@
   "artist": "Hato (하토)",
   "description": "Cozinhar no verão é realmente um trabalho árduo. Seja para comprar ingredientes, trabalhar em frente ao fogo ou até mesmo mergulhar as mãos em água fria para lavar louças, você acaba suando. É difícil comer e até mesmo pode ter febre no corpo. No entanto, a chef do restaurante, que foi apresentada à protagonista por uma amiga, chegou durante o auge do calor do dia, e disse: “Você não pode passar fome”.\nPor que parece que agora você está em um relacionamento? Será que posso começar um novo relacionamento?",
   "cover": "https://images2.imgbox.com/7b/11/KlxY4bmQ_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Fim",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
