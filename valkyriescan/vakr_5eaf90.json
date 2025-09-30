@@ -4,8 +4,9 @@
   "artist": "Hui",
   "description": "",
   "cover": "https://images2.imgbox.com/e6/f4/J9sNl3e0_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Fim",
       "groups": {
         "Valkyriescan": [
@@ -33,7 +34,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -61,7 +62,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -89,7 +90,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -117,7 +118,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
