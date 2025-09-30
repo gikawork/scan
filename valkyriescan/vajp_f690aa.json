@@ -4,8 +4,9 @@
   "artist": "Kuwabara Tamotsu",
   "description": "Kurumi Yoshizawa, a presidente do conselho estudantil, tem excelentes notas e uma personalidade convidativa e amigável… pelo menos na aparência. Na realidade, ela passa os dias lutando contra a mãe dominadora e se angustiando com as expectativas dos professores. Um dia, Kurumi relutantemente vai ao encontro de Naoi, sua colega de classe que faltou às aulas, a pedido do professor da sala de aula, para cuidar dela. A situação se deteriora rapidamente quando Naoi percebe a fachada de Kurumi e deixa clara sua animosidade. À beira de um colapso, Kurumi mal consegue se impedir de roubar uma loja, sem saber que está sendo gravada por Naoi…",
   "cover": "https://images2.imgbox.com/2c/5d/qEHhMVKv_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Mangue Estagnado",
       "groups": {
         "Valkyriescan": [
@@ -55,7 +56,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Apenas aquele vermelho, é vivido",
       "groups": {
         "Valkyriescan": [
@@ -93,7 +94,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Esqueça tudo",
       "groups": {
         "Valkyriescan": [
@@ -121,7 +122,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Palavras Esculpidas",
       "groups": {
         "Valkyriescan": [
@@ -168,7 +169,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Não há onde se esconder",
       "groups": {
         "Valkyriescan": [
@@ -216,7 +217,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Você é uma garota má, né",
       "groups": {
         "Valkyriescan": [
