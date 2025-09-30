@@ -4,8 +4,9 @@
   "artist": "Kanbayashi Makoto",
   "description": "Uma doce história sobre duas pessoas que realmente querem uma à outra. A continuação do que ocorreu nos bastidores após o mergulho da Torre da Porta.",
   "cover": "https://images2.imgbox.com/05/71/zUX3yJVp_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
