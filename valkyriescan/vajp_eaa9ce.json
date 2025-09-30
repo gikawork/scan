@@ -4,6 +4,7 @@
   "artist": "Kuro Itsuki",
   "description": "A doce, mas desajeitada estudante universitária, Asumi, nunca superou a paixão por sua amiga de infância, Mai. O primeiro e único beijo delas não poderia ter sido pior. Então quando ela descobre que Mai pode estar trabalhando em um bordel próximo, ela vai em busca de sua redenção! Mas há um problema: nenhuma das mulheres no site do bordel usam fotos completas ou nomes reais. Assim começa uma jornada de autodescoberta e conhecimento sexual enquanto a ansiosa Asumi sai para encontrar aquela que escapou.",
   "cover": "https://images2.imgbox.com/dc/59/39ZhL1BG_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "28": {
       "title": "Capítulo 28 - Vigésima Oitava Noite",
@@ -725,6 +726,51 @@
         ]
       }
     },
+    "12": {
+      "title": "Capitulo 12 - Décima Segunda Noite",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/83/79/yMl9rBaN_o.jpg",
+          "https://images2.imgbox.com/3d/ee/BTHTMyPz_o.jpg",
+          "https://images2.imgbox.com/cd/a3/ifs3si6F_o.jpg",
+          "https://images2.imgbox.com/01/3a/RiEBetRu_o.jpg",
+          "https://images2.imgbox.com/71/ff/k6uwXzM5_o.jpg",
+          "https://images2.imgbox.com/10/4a/qYT4gLn1_o.jpg",
+          "https://images2.imgbox.com/bc/b5/McGjpTWl_o.jpg",
+          "https://images2.imgbox.com/55/69/EKvEMbCa_o.jpg",
+          "https://images2.imgbox.com/e6/07/9cmv5as9_o.jpg",
+          "https://images2.imgbox.com/af/4b/vsSGCEq3_o.jpg",
+          "https://images2.imgbox.com/56/95/5UNgtKXM_o.jpg",
+          "https://images2.imgbox.com/f1/06/jcPlrff0_o.jpg",
+          "https://images2.imgbox.com/51/16/HY6kLIVz_o.jpg",
+          "https://images2.imgbox.com/34/0a/AvAs2DvS_o.jpg",
+          "https://images2.imgbox.com/a8/36/hek0Q8GK_o.jpg",
+          "https://images2.imgbox.com/42/ea/4jc5jSH6_o.jpg",
+          "https://images2.imgbox.com/02/1a/PUspGyA3_o.jpg",
+          "https://images2.imgbox.com/89/a1/IW8DBjoq_o.jpg",
+          "https://images2.imgbox.com/5d/51/82wZiXHQ_o.jpg",
+          "https://images2.imgbox.com/ee/5c/A5WMSAcj_o.jpg",
+          "https://images2.imgbox.com/97/58/mfbADkBm_o.jpg",
+          "https://images2.imgbox.com/2b/c2/2EDMYW1E_o.jpg",
+          "https://images2.imgbox.com/1f/ae/1AjHytGv_o.jpg",
+          "https://images2.imgbox.com/1b/d0/97HjsVAB_o.jpg",
+          "https://images2.imgbox.com/2d/12/eAFStcrz_o.jpg",
+          "https://images2.imgbox.com/8e/93/t3fm1znY_o.jpg",
+          "https://images2.imgbox.com/7e/cc/rC7dH80y_o.jpg",
+          "https://images2.imgbox.com/01/cc/x3UUR7VS_o.jpg",
+          "https://images2.imgbox.com/b9/c8/45y6bSmR_o.jpg",
+          "https://images2.imgbox.com/c4/33/bKx6psfk_o.jpg",
+          "https://images2.imgbox.com/2c/3e/kC7UdzWo_o.jpg",
+          "https://images2.imgbox.com/29/4c/0353dkql_o.jpg",
+          "https://images2.imgbox.com/8f/6d/6zhttxpO_o.jpg",
+          "https://images2.imgbox.com/92/28/9bgeQLNK_o.jpg",
+          "https://images2.imgbox.com/35/28/WS3BMY71_o.jpg",
+          "https://images2.imgbox.com/5d/be/Ww04V519_o.jpg",
+          "https://images2.imgbox.com/ac/36/1EVkz0Bk_o.jpg",
+          "https://images2.imgbox.com/95/83/tW2Nrr3s_o.jpg"
+        ]
+      }
+    },
     "11": {
       "title": "Capítulo 11 - Décima Primeira Noite",
       "groups": {
@@ -846,7 +892,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Nona Noite",
       "groups": {
         "Valkyriescan": [
@@ -891,7 +937,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Oitava Noite",
       "groups": {
         "Valkyriescan": [
@@ -936,7 +982,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Sétima Noite",
       "groups": {
         "Valkyriescan": [
@@ -981,7 +1027,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Sexta Noite",
       "groups": {
         "Valkyriescan": [
@@ -1036,7 +1082,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Quinta Noite",
       "groups": {
         "Valkyriescan": [
@@ -1069,7 +1115,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Quarta Noite",
       "groups": {
         "Valkyriescan": [
@@ -1106,7 +1152,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Terceira noite",
       "groups": {
         "Valkyriescan": [
@@ -1143,7 +1189,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Segunda noite",
       "groups": {
         "Valkyriescan": [
@@ -1180,7 +1226,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Primeira noite",
       "groups": {
         "Valkyriescan": [
@@ -1221,51 +1267,6 @@
           "https://images2.imgbox.com/3b/b7/bfCySMGk_o.jpg",
           "https://images2.imgbox.com/ee/4e/prweMHWF_o.jpg",
           "https://images2.imgbox.com/f7/b0/Ra6hdzDf_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 12": {
-      "title": "Capitulo 12 - Décima Segunda Noite",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/83/79/yMl9rBaN_o.jpg",
-          "https://images2.imgbox.com/3d/ee/BTHTMyPz_o.jpg",
-          "https://images2.imgbox.com/cd/a3/ifs3si6F_o.jpg",
-          "https://images2.imgbox.com/01/3a/RiEBetRu_o.jpg",
-          "https://images2.imgbox.com/71/ff/k6uwXzM5_o.jpg",
-          "https://images2.imgbox.com/10/4a/qYT4gLn1_o.jpg",
-          "https://images2.imgbox.com/bc/b5/McGjpTWl_o.jpg",
-          "https://images2.imgbox.com/55/69/EKvEMbCa_o.jpg",
-          "https://images2.imgbox.com/e6/07/9cmv5as9_o.jpg",
-          "https://images2.imgbox.com/af/4b/vsSGCEq3_o.jpg",
-          "https://images2.imgbox.com/56/95/5UNgtKXM_o.jpg",
-          "https://images2.imgbox.com/f1/06/jcPlrff0_o.jpg",
-          "https://images2.imgbox.com/51/16/HY6kLIVz_o.jpg",
-          "https://images2.imgbox.com/34/0a/AvAs2DvS_o.jpg",
-          "https://images2.imgbox.com/a8/36/hek0Q8GK_o.jpg",
-          "https://images2.imgbox.com/42/ea/4jc5jSH6_o.jpg",
-          "https://images2.imgbox.com/02/1a/PUspGyA3_o.jpg",
-          "https://images2.imgbox.com/89/a1/IW8DBjoq_o.jpg",
-          "https://images2.imgbox.com/5d/51/82wZiXHQ_o.jpg",
-          "https://images2.imgbox.com/ee/5c/A5WMSAcj_o.jpg",
-          "https://images2.imgbox.com/97/58/mfbADkBm_o.jpg",
-          "https://images2.imgbox.com/2b/c2/2EDMYW1E_o.jpg",
-          "https://images2.imgbox.com/1f/ae/1AjHytGv_o.jpg",
-          "https://images2.imgbox.com/1b/d0/97HjsVAB_o.jpg",
-          "https://images2.imgbox.com/2d/12/eAFStcrz_o.jpg",
-          "https://images2.imgbox.com/8e/93/t3fm1znY_o.jpg",
-          "https://images2.imgbox.com/7e/cc/rC7dH80y_o.jpg",
-          "https://images2.imgbox.com/01/cc/x3UUR7VS_o.jpg",
-          "https://images2.imgbox.com/b9/c8/45y6bSmR_o.jpg",
-          "https://images2.imgbox.com/c4/33/bKx6psfk_o.jpg",
-          "https://images2.imgbox.com/2c/3e/kC7UdzWo_o.jpg",
-          "https://images2.imgbox.com/29/4c/0353dkql_o.jpg",
-          "https://images2.imgbox.com/8f/6d/6zhttxpO_o.jpg",
-          "https://images2.imgbox.com/92/28/9bgeQLNK_o.jpg",
-          "https://images2.imgbox.com/35/28/WS3BMY71_o.jpg",
-          "https://images2.imgbox.com/5d/be/Ww04V519_o.jpg",
-          "https://images2.imgbox.com/ac/36/1EVkz0Bk_o.jpg",
-          "https://images2.imgbox.com/95/83/tW2Nrr3s_o.jpg"
         ]
       }
     }
