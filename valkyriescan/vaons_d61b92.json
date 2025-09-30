@@ -4,8 +4,9 @@
   "artist": "HIRUNO Tsukiko",
   "description": "Lily, uma garota que se esconde sob um penhasco e Selene, uma androide que a serve vivem em um mundo onde a humanidade foi quase destruída pela guerra nuclear. Selene era o único apoio e amor para Lily, que vive com a tênue esperança de “viver na terra novamente algum dia”.",
   "cover": "https://images2.imgbox.com/e2/35/43w5do1w_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
