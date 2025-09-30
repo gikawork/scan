@@ -4,8 +4,9 @@
   "artist": "Karuha",
   "description": "Um casal se deixando levar por fantasias…",
   "cover": "https://images2.imgbox.com/15/40/KLXP93I1_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
