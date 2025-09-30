@@ -4,6 +4,7 @@
   "artist": "Yeongol",
   "description": "Embora ela seja apenas uma caloura da faculdade, Kim Danjo, assim como seu nome, vive uma vida monótona. Um dia, Danjo vai a uma dispensa fazer um favor para seu sunbae quando ela testemunha uma vassoura se transformar em uma garota humana. A partir desse dia, a vassoura pede insistentemente a ajuda de Danjo, alegando que ela não tem para onde ir. No final, Danjo acidentalmente dá à vassoura que afirma ser na verdade um Dookkabei (criatura sobrenatural coreana) o nome de Eundohae e elas começam a viver juntas no dormitório minúsculo de Danjo.",
   "cover": "https://images2.imgbox.com/83/73/zzbqdUEk_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "14": {
       "title": "Capítulo 14",
@@ -144,7 +145,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -168,7 +169,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -190,7 +191,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -212,7 +213,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -236,7 +237,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -256,7 +257,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -278,7 +279,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -301,7 +302,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -324,7 +325,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -345,7 +346,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
