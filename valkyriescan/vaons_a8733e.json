@@ -4,8 +4,9 @@
   "artist": "Kuma",
   "description": "Doujinshi Maya x Claudine (Shoujo Kageki Revue Starlight)",
   "cover": "https://images2.imgbox.com/73/9a/3YnZt0Vz_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
