@@ -4,8 +4,9 @@
   "artist": "Gula Comic (古拉漫社)",
   "description": "Lu Nanzhi foi transportada para um romance de substituição e se tornou a vilã maldosa, com a tarefa de fazer a protagonista, Chen Xi, encontrar a felicidade. A bela da indústria pensou que conquistar a heroína também seria uma forma de “fazer a protagonista feliz”, então decidiu tomar a iniciativa de cortejá-la. Mas ela começou a perceber que a atitude dos personagens ao seu redor parecia diferente da que estava descrita no livro…",
   "cover": "https://images2.imgbox.com/0c/2e/RDcAFwQ2_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Três é demais",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Cega pelo desejo",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Quero te levar em um lugar especial",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Pessoa errada",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Nosso primeiro encontro",
       "groups": {
         "Valkyriescan": [
@@ -170,7 +171,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Todos acordados, menos ela",
       "groups": {
         "Valkyriescan": [
