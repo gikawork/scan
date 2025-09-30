@@ -4,8 +4,9 @@
   "artist": "Zhuotian",
   "description": "Doujinshi das VTubers Shirayuki Tomoe x Sukoya Kana",
   "cover": "https://images2.imgbox.com/38/71/VKX3pCok_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
