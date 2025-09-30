@@ -4,6 +4,7 @@
   "artist": "爬爬工作室",
   "description": "Nanzhi é a presidente de uma empresa de entretenimento, sempre competente e perfeita, mas poucos conhecem os segredos que ela esconde à noite. Mas tal indulgência nunca foi o prazer de Nanzhi, até que ela aparece… Pensando que ela era apenas uma estranha, Nanzhi descobre que na verdade ela é irmã da sua melhor amiga, ainda por cima, uma nova artista em sua empresa?\nSerá que ela ficará viciada nos constantes avanços dessa nova garota?",
   "cover": "https://images2.imgbox.com/2b/8f/PUwfR0yg_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "50": {
       "title": "Capítulo 50 - Juntas pelo resto de nossas vidas",
@@ -1188,7 +1189,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Consideração",
       "groups": {
         "Valkyriescan": [
@@ -1217,7 +1218,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Aumento de popularidade",
       "groups": {
         "Valkyriescan": [
@@ -1237,7 +1238,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Confissão do coração",
       "groups": {
         "Valkyriescan": [
@@ -1266,7 +1267,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Estranha",
       "groups": {
         "Valkyriescan": [
@@ -1295,7 +1296,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Confronto",
       "groups": {
         "Valkyriescan": [
@@ -1324,7 +1325,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Entrelaçadas",
       "groups": {
         "Valkyriescan": [
@@ -1353,7 +1354,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Viciada",
       "groups": {
         "Valkyriescan": [
@@ -1381,7 +1382,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Irmã da melhor amiga",
       "groups": {
         "Valkyriescan": [
@@ -1409,7 +1410,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Perdida em afeição",
       "groups": {
         "Valkyriescan": [
@@ -1437,7 +1438,7 @@
         ]
       }
     },
-    "00.5": {
+    "0.5": {
       "title": "Capítulo 00.5 - Prólogo",
       "groups": {
         "Valkyriescan": [
@@ -1455,7 +1456,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Personagens",
       "groups": {
         "Valkyriescan": [
