@@ -4,8 +4,9 @@
   "artist": "Plankton",
   "description": "Uma coleção doujinshi de oneshots apresentando o casal yuri Maya Tendou e Claudine Saijou, do anime Shoujo Kageki Revue Starlight.",
   "cover": "https://images2.imgbox.com/67/11/tX81sD3h_o.png",
+  "status": "Completo",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -34,7 +35,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -65,7 +66,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
