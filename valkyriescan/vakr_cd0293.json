@@ -4,6 +4,7 @@
   "artist": "Carbonara",
   "description": "Seula nutre uma paixão secreta de longa data, pensando que ser amiga seria o suficiente. Mas quando ela descobre que Areum aceitou a proposta de casamento do namorado, ela desmorona. Para acalmar seu coração partido, ela se embriaga e liga para Areum, confessando seus sentimentos. No dia seguinte, ela acorda nua ao lado da irmã de Areum, Daun! Quando Seula começa a juntar as peças do que aconteceu, ela implora para Daun manter isso em segredo de Areum, ao que Daun concorda com uma condição… “Quer continuar se divertindo junto comigo?”",
   "cover": "https://images2.imgbox.com/40/94/2xXobOLW_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "12": {
       "title": "Capítulo 12",
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -170,7 +171,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Se fizermos de novo",
       "groups": {
         "Valkyriescan": [
@@ -198,7 +199,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - É tudo por sua causa",
       "groups": {
         "Valkyriescan": [
@@ -231,7 +232,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Porque não gosto disso",
       "groups": {
         "Valkyriescan": [
@@ -264,7 +265,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Promessas",
       "groups": {
         "Valkyriescan": [
@@ -297,7 +298,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Coisas que os amigos fazem",
       "groups": {
         "Valkyriescan": [
@@ -330,7 +331,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Nós nem estamos namorando",
       "groups": {
         "Valkyriescan": [
@@ -358,7 +359,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Não se case!",
       "groups": {
         "Valkyriescan": [
