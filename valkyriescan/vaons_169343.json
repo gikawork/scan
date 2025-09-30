@@ -4,8 +4,9 @@
   "artist": "Yui Asube",
   "description": "Sentimentos imutáveis conectados ao longo do tempo através de fogos de artifícios.",
   "cover": "https://images2.imgbox.com/74/24/Ihs09kDU_o.png",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
