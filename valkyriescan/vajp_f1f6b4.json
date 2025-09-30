@@ -4,8 +4,9 @@
   "artist": "sometime",
   "description": "Minha família está endividada e não temos dinheiro suficiente para o tratamento da minha irmã doente…\nA nobre preocupada, Clarice, se vê envolvida em um casamento político com o Cavaleiro Negro mais temido do reino, Frost, conhecido por “matar feras com as próprias mãos”.\nNa tentativa de garantir a fortuna, Clarice tenta seduzir o “Cavaleiro Negro”, mas, quando o faz, descobre o segredo “dele”…",
   "cover": "https://images2.imgbox.com/33/c4/XJQXifrA_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -42,7 +43,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -75,7 +76,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
