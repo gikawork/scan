@@ -4,6 +4,7 @@
   "artist": "鲸元社",
   "description": "Obra em hiato aqui nas Scan. Foi dropada pela scan gringa que fazia. Ainda estamos vendo como vamos continuar.",
   "cover": "https://images2.imgbox.com/59/f6/ou2xjAUH_o.jpg",
+  "status": "Hiato",
   "chapters": {
     "13": {
       "title": "Capítulo 13 - O ship do casal secundário decola",
@@ -111,7 +112,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - De repente com ciúmes",
       "groups": {
         "Valkyriescan": [
@@ -139,7 +140,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Seja minha dama",
       "groups": {
         "Valkyriescan": [
@@ -167,7 +168,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Compartilhando sentimentos",
       "groups": {
         "Valkyriescan": [
@@ -195,7 +196,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Missão concluída",
       "groups": {
         "Valkyriescan": [
@@ -214,7 +215,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Escapar da morte por um triz",
       "groups": {
         "Valkyriescan": [
@@ -231,7 +232,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Possuída pela expressão teatral",
       "groups": {
         "Valkyriescan": [
@@ -248,7 +249,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - A imperatriz escolheu uma concubina",
       "groups": {
         "Valkyriescan": [
@@ -265,7 +266,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A jiejie é tão bonita",
       "groups": {
         "Valkyriescan": [
@@ -282,7 +283,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Entrada da dama no palácio",
       "groups": {
         "Valkyriescan": [
