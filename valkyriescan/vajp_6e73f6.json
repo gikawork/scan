@@ -4,6 +4,7 @@
   "artist": "Chigusa Minori",
   "description": "Um mangá sobre uma nobre vampira recrutando garotas como servas.",
   "cover": "https://images2.imgbox.com/e2/87/L5kevIWf_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "17": {
       "title": "Capítulo 17 - Luluna-sama Não Aguenta Mais... Vou Sair Daqui",
@@ -168,7 +169,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Luluna-sama e a Segunda Familiar",
       "groups": {
         "Valkyriescan": [
@@ -187,7 +188,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Luluna-sama comete o mesmo erro",
       "groups": {
         "Valkyriescan": [
@@ -206,7 +207,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Luluna-sama é Perseguida",
       "groups": {
         "Valkyriescan": [
@@ -226,7 +227,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Wakana Aihara aprende sobre o amor",
       "groups": {
         "Valkyriescan": [
@@ -250,7 +251,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Luluna-sama rejeita sua familiar",
       "groups": {
         "Valkyriescan": [
@@ -275,7 +276,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Luluna-sama cometeu um erro?",
       "groups": {
         "Valkyriescan": [
@@ -294,7 +295,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Luluna-sama abusa da sorte",
       "groups": {
         "Valkyriescan": [
@@ -312,7 +313,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Luluna-sama Suga",
       "groups": {
         "Valkyriescan": [
@@ -331,7 +332,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Regras da Luluna-sama",
       "groups": {
         "Valkyriescan": [
