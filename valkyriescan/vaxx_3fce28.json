@@ -1,0 +1,44 @@
+{
+  "title": "Título não encontrado",
+  "author": "Autor não encontrado",
+  "artist": "Artista não encontrado",
+  "description": "Sinopse não encontrada",
+  "cover": "",
+  "status": "Desconhecido",
+  "chapters": {
+    "0": {
+      "title": "Capítulo único",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/a5/f2/5qWCboSL_o.jpg",
+          "https://images2.imgbox.com/2d/ad/5WaBYMYB_o.jpg",
+          "https://images2.imgbox.com/6c/af/c2Ffa5lq_o.jpg",
+          "https://images2.imgbox.com/3b/c8/ll4qLALx_o.jpg",
+          "https://images2.imgbox.com/6f/c7/OwobKQwS_o.jpg",
+          "https://images2.imgbox.com/10/62/Tv8jiCKy_o.jpg",
+          "https://images2.imgbox.com/7b/28/HJVl8Gy2_o.jpg",
+          "https://images2.imgbox.com/86/3d/YrqGRDO3_o.jpg",
+          "https://images2.imgbox.com/48/48/B5Vcsxx7_o.jpg",
+          "https://images2.imgbox.com/83/0e/S3tMoENJ_o.jpg",
+          "https://images2.imgbox.com/ae/5b/0HyGjpGX_o.jpg",
+          "https://images2.imgbox.com/eb/7d/SppdcEGF_o.jpg",
+          "https://images2.imgbox.com/18/78/ksDjVjXm_o.jpg",
+          "https://images2.imgbox.com/ae/8d/jfxYTK1f_o.jpg",
+          "https://images2.imgbox.com/f3/0c/ooQvM5TL_o.jpg",
+          "https://images2.imgbox.com/27/45/my35ekuB_o.jpg",
+          "https://images2.imgbox.com/97/99/aTEdc65O_o.jpg",
+          "https://images2.imgbox.com/8a/c2/Z8Frj1nx_o.jpg",
+          "https://images2.imgbox.com/d2/3d/NzwYBRCS_o.jpg",
+          "https://images2.imgbox.com/c0/5a/lA1uWal8_o.jpg",
+          "https://images2.imgbox.com/0a/6b/W8csYPI7_o.jpg",
+          "https://images2.imgbox.com/53/35/eRvSUNz9_o.jpg",
+          "https://images2.imgbox.com/1c/b4/WX95icyM_o.jpg",
+          "https://images2.imgbox.com/11/3f/D1V965e8_o.jpg",
+          "https://images2.imgbox.com/d8/fa/9oH4PwDW_o.jpg",
+          "https://images2.imgbox.com/20/f9/RNcH3I7m_o.jpg",
+          "https://images2.imgbox.com/b4/8e/4NerdJuw_o.jpg"
+        ]
+      }
+    }
+  }
+}
