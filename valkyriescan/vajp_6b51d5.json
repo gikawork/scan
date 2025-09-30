@@ -4,6 +4,7 @@
   "artist": "Dokuta Pepako",
   "description": "Inglaterra, início dos anos 1900. Alice, uma jovem nobre, tem uma empregada japonesa chamada Hanako trabalhando em sua casa. As duas têm um relacionamento bastante típico… até o dia em que Alice implora a Hanako para matá-la. Enquanto Hanako tenta descobrir por que sua patroa faria um pedido tão terrível, ela e Alice se aproximam até que um sentimento totalmente novo começa a florescer entre elas.\nUma história comovente sobre mulheres que se apaixonam na Grã-Bretanha histórica.",
   "cover": "https://images2.imgbox.com/56/c3/qKwyfhpR_o.jpg",
+  "status": "Completo",
   "chapters": {
     "17": {
       "title": "Capítulo 17 - Adeus, meu jardim de rosas",
@@ -333,7 +334,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Caligrafias que cruzam oceanos",
       "groups": {
         "Valkyriescan": [
@@ -371,7 +372,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - As chamas da covardia incineram seu coração",
       "groups": {
         "Valkyriescan": [
@@ -411,7 +412,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - A sombra que eclipsa o sol",
       "groups": {
         "Valkyriescan": [
@@ -451,7 +452,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A rosa que queima em frente ao túmulo",
       "groups": {
         "Valkyriescan": [
@@ -490,7 +491,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Nuvens negras à vista, o som de uma tempestade distante",
       "groups": {
         "Valkyriescan": [
@@ -537,7 +538,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - A fera sem nome, o colega sem nome",
       "groups": {
         "Valkyriescan": [
@@ -576,7 +577,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - A mancha negra que me devora",
       "groups": {
         "Valkyriescan": [
@@ -612,7 +613,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - O sol, os espinhos e as cúmplices",
       "groups": {
         "Valkyriescan": [
@@ -656,7 +657,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O início do adeus",
       "groups": {
         "Valkyriescan": [
@@ -703,6 +704,47 @@
           "https://images2.imgbox.com/5d/b8/3wKmnxbX_o.jpg",
           "https://images2.imgbox.com/1d/84/pC7YSrAn_o.jpg",
           "https://images2.imgbox.com/97/e1/QM1ENRan_o.jpg"
+        ]
+      }
+    },
+    "0": {
+      "title": "Capítulo 16 - Meu primeiro e único desejo",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/96/01/NbBqsHbf_o.jpg",
+          "https://images2.imgbox.com/b0/36/kyaXSbXi_o.jpg",
+          "https://images2.imgbox.com/42/13/5QWPwjj7_o.jpg",
+          "https://images2.imgbox.com/5a/6a/PgVGMUs8_o.jpg",
+          "https://images2.imgbox.com/08/d3/0VeP8zdx_o.jpg",
+          "https://images2.imgbox.com/65/cb/eD1w5x8p_o.jpg",
+          "https://images2.imgbox.com/0a/af/7BOPnO2A_o.jpg",
+          "https://images2.imgbox.com/75/f5/n76c4QW1_o.jpg",
+          "https://images2.imgbox.com/b2/21/hcdVl3V4_o.jpg",
+          "https://images2.imgbox.com/8a/fd/Sbq2XARw_o.jpg",
+          "https://images2.imgbox.com/33/0f/QLQYnpAS_o.jpg",
+          "https://images2.imgbox.com/eb/e2/uUeExMuo_o.jpg",
+          "https://images2.imgbox.com/7f/4f/DKnyOGAH_o.jpg",
+          "https://images2.imgbox.com/18/fa/eWn3F1Yv_o.jpg",
+          "https://images2.imgbox.com/9c/d9/Rf3DZxle_o.jpg",
+          "https://images2.imgbox.com/6a/fc/nCd3av3I_o.jpg",
+          "https://images2.imgbox.com/8a/53/yczxLqwV_o.jpg",
+          "https://images2.imgbox.com/d6/c1/W9CAT7re_o.jpg",
+          "https://images2.imgbox.com/8f/33/qu1mruJn_o.jpg",
+          "https://images2.imgbox.com/9e/cd/6JX1VRsj_o.jpg",
+          "https://images2.imgbox.com/b3/17/6zPffMYW_o.jpg",
+          "https://images2.imgbox.com/ec/63/8NRj4hSd_o.jpg",
+          "https://images2.imgbox.com/e0/ff/P6Ykrtpn_o.jpg",
+          "https://images2.imgbox.com/b1/95/zOlTzfMu_o.jpg",
+          "https://images2.imgbox.com/f5/55/IW7bKyD5_o.jpg",
+          "https://images2.imgbox.com/9b/7c/VFMRSjlG_o.jpg",
+          "https://images2.imgbox.com/8c/0d/R4b2N4ut_o.jpg",
+          "https://images2.imgbox.com/d4/29/dc7cqeO4_o.jpg",
+          "https://images2.imgbox.com/98/c5/W3gpH85C_o.jpg",
+          "https://images2.imgbox.com/53/6c/SWC9JaoU_o.jpg",
+          "https://images2.imgbox.com/2a/84/qfPSbMwJ_o.jpg",
+          "https://images2.imgbox.com/c5/46/f6ovJgkG_o.jpg",
+          "https://images2.imgbox.com/1b/4d/FcmzMGUC_o.jpg",
+          "https://images2.imgbox.com/ba/f4/kc0pvvwI_o.jpg"
         ]
       }
     }
