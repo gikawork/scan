@@ -4,8 +4,9 @@
   "artist": "Torii Shiduku",
   "description": "“Eu gosto de você. Agora, por favor, me rejeite!”",
   "cover": "https://images2.imgbox.com/e5/b5/moF0FrNb_o.jpeg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Por favor me esqueça",
       "groups": {
         "Valkyriescan": [
@@ -51,7 +52,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Pensei em 156 opções",
       "groups": {
         "Valkyriescan": [
@@ -68,7 +69,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Eu te amo, por favor me rejeite!",
       "groups": {
         "Valkyriescan": [
