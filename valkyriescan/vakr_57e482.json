@@ -4,8 +4,9 @@
   "artist": "Zephylith",
   "description": "Uma equipe de três bruxas está em uma missão para proteger sua dimensão, e as dimensões humanas, de misteriosos ataques demoníacos. Mas é sempre mais difícil salvar o mundo quando você tem que continuar ensinando como professora no Colégio de Magia SpellCastle ao mesmo tempo. Acompanhe as aventuras do mais caótico trio de exorcistas queer do Reino de SpellAstra!",
   "cover": "https://images2.imgbox.com/88/c6/wGDxBV3g_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "Grimório 11": {
+    "11": {
       "title": "Grimório 11 - Fim da 1ª Temporada",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "Grimório 10": {
+    "10": {
       "title": "Grimório 10 - A Alma",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "Grimório 09": {
+    "9": {
       "title": "Grimório 09 - Memórias Distantes",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "Grimório 08": {
+    "8": {
       "title": "Grimório 08 - Busca Pela Verdade",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "Grimório 07": {
+    "7": {
       "title": "Grimório 07 - Problemas Familiares",
       "groups": {
         "Valkyriescan": [
@@ -170,7 +171,7 @@
         ]
       }
     },
-    "Grimório 06": {
+    "6": {
       "title": "Grimório 06 - Amigo ou Inimigo",
       "groups": {
         "Valkyriescan": [
@@ -203,7 +204,7 @@
         ]
       }
     },
-    "Grimório 05": {
+    "5": {
       "title": "Grimório 05 - O Amor Está no Ar",
       "groups": {
         "Valkyriescan": [
@@ -236,7 +237,7 @@
         ]
       }
     },
-    "Grimório 04": {
+    "4": {
       "title": "Grimório 04 - Temperamento Ruim",
       "groups": {
         "Valkyriescan": [
@@ -269,7 +270,7 @@
         ]
       }
     },
-    "Grimório 03": {
+    "3": {
       "title": "Grimório 03 - Os Mesmos Erros",
       "groups": {
         "Valkyriescan": [
@@ -302,7 +303,7 @@
         ]
       }
     },
-    "Grimório 02": {
+    "2": {
       "title": "Grimório 02  - Passado e Presente",
       "groups": {
         "Valkyriescan": [
@@ -335,7 +336,7 @@
         ]
       }
     },
-    "Grimório 01": {
+    "1": {
       "title": "Grimório 01 - Prólogo",
       "groups": {
         "Valkyriescan": [
