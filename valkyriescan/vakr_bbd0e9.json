@@ -4,6 +4,7 @@
   "artist": "cyre_art",
   "description": "Na-rae, uma entregadora de comida, sonha em se tornar uma comissária de bordo. Ao perseguir seu sonho, ela se vê envolvida em sentimentos turbulentos – é o medo de cair… ou a emoção de voar? Será que esse caminho desconhecido do “amor” irá remodelar o curso de sua jornada?",
   "cover": "https://images2.imgbox.com/01/31/Vlt0NYVa_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "7.4": {
       "title": "Capítulo 7.4 - Conexões (4)",
@@ -441,7 +442,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Um Encontro (1)",
       "groups": {
         "Valkyriescan": [
