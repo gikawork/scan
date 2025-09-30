@@ -4,8 +4,9 @@
   "artist": "เจ้าปลาน้อย",
   "description": "Obra Cancelada",
   "cover": "https://images2.imgbox.com/cc/a9/4QcIh8GG_o.jpg",
+  "status": "Cancelado",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Boa noite",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Tigre",
       "groups": {
         "Valkyriescan": [
@@ -66,7 +67,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Chefe",
       "groups": {
         "Valkyriescan": [
