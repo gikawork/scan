@@ -4,6 +4,7 @@
   "artist": "昭广传媒",
   "description": "Selina é uma badalada diretora de cinema, enquanto Phoebe é a mulher mais rica da cidade. Selina desenvolveu sentimentos por Phoebe, enquanto Phoebe se interessou por Selina assim que a viu. Mas com os amigos e familiares de Phoebe se opondo ao seu relacionamento com Selina, o vínculo delas durará?",
   "cover": "https://images2.imgbox.com/c2/46/FJviedJt_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "35": {
       "title": "Capítulo 35",
@@ -838,7 +839,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Voei para vir te ver",
       "groups": {
         "Valkyriescan": [
@@ -866,7 +867,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - O infortúnio sai da boca",
       "groups": {
         "Valkyriescan": [
@@ -894,7 +895,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Todos os dias",
       "groups": {
         "Valkyriescan": [
@@ -922,7 +923,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Não é fácil ser rica",
       "groups": {
         "Valkyriescan": [
@@ -950,7 +951,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Quem é ela",
       "groups": {
         "Valkyriescan": [
@@ -978,7 +979,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Tão perto (I)",
       "groups": {
         "Valkyriescan": [
@@ -1006,7 +1007,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Tão perto",
       "groups": {
         "Valkyriescan": [
@@ -1034,7 +1035,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Você e eu temos um relacionamento",
       "groups": {
         "Valkyriescan": [
@@ -1052,7 +1053,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Protagonista do filme",
       "groups": {
         "Valkyriescan": [
@@ -1080,7 +1081,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Eu tenho uma história, você trouxe o vinho",
       "groups": {
         "Valkyriescan": [
