@@ -4,6 +4,7 @@
   "artist": "Ikuta Hana",
   "description": "Meu “fio vermelho do destino” está conectado a você?",
   "cover": "https://images2.imgbox.com/ff/a1/lrh4DNL5_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "20": {
       "title": "Capítulo 20 - O que eu estava tentando proteger",
@@ -183,7 +184,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - O que é o meu amor",
       "groups": {
         "Valkyriescan": [
@@ -199,7 +200,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - A mais abençoada do mundo",
       "groups": {
         "Valkyriescan": [
@@ -215,7 +216,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Eu me lembro dessa garota",
       "groups": {
         "Valkyriescan": [
@@ -231,7 +232,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Você não entende",
       "groups": {
         "Valkyriescan": [
@@ -245,7 +246,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Uma garota extraordinária",
       "groups": {
         "Valkyriescan": [
@@ -256,7 +257,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Tópico casual",
       "groups": {
         "Valkyriescan": [
@@ -274,7 +275,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Uma tênue certeza",
       "groups": {
         "Valkyriescan": [
@@ -290,7 +291,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Meu primeiro amor foi amor à primeira vista",
       "groups": {
         "Valkyriescan": [
@@ -305,7 +306,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Tenho vivido uma vida normal",
       "groups": {
         "Valkyriescan": [
