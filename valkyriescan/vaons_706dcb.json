@@ -4,8 +4,9 @@
   "artist": "penguin",
   "description": "Doujinshi das VTubers Shirayuki Tomoe x Sukoya Kana",
   "cover": "https://images2.imgbox.com/f8/fc/ahaazuxc_o.png",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
