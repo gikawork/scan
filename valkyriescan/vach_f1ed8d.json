@@ -4,8 +4,9 @@
   "artist": "你好好好菌",
   "description": "Uma história fofa, mas sedutora, sobre Bo He, uma senhoria e sua inquilina, Huang Qi.",
   "cover": "https://files.catbox.moe/b8nssz.webp",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Um relacionamento",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Um esboço",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Uma Inquilina",
       "groups": {
         "Valkyriescan": [
