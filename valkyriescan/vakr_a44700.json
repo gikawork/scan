@@ -4,8 +4,9 @@
   "artist": "Austen Marie",
   "description": "Ryder é uma cantora e compositora com dificuldades que mal o suficiente para pagar o aluguel em Los Angeles, até que uma mulher sedutora e misteriosa a leva a um mundo secreto de criaturas sobrenaturais – incluindo a paixão adolescente de Ryder, Landon Moon?! Os sonhos mais loucos de Ryder sobre fama e fortuna na indústria da música estão de volta ao seu alcance, se ela puder cantar com seu coração e sobreviver a este reino místico!",
   "cover": "https://images2.imgbox.com/e7/02/pJbrVEpv_o.png",
+  "status": "Em lançamento",
   "chapters": {
-    "Faixa 31": {
+    "31": {
       "title": "Faixa 31 - Parceira de apoio",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "Faixa 30": {
+    "30": {
       "title": "Faixa 30 - Cardio",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "Faixa 29": {
+    "29": {
       "title": "Faixa 29 - Bebês esfomeados",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "Faixa 28": {
+    "28": {
       "title": "Faixa 28 - Café com leite de aveia",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "Faixa 27": {
+    "27": {
       "title": "Faixa 27 - Você venceu",
       "groups": {
         "Valkyriescan": [
@@ -170,7 +171,7 @@
         ]
       }
     },
-    "Faixa 26": {
+    "26": {
       "title": "Faixa 26 - Não é nada",
       "groups": {
         "Valkyriescan": [
@@ -203,7 +204,7 @@
         ]
       }
     },
-    "Faixa 25": {
+    "25": {
       "title": "Faixa 25 - Não podemos",
       "groups": {
         "Valkyriescan": [
@@ -236,7 +237,7 @@
         ]
       }
     },
-    "Faixa 24": {
+    "24": {
       "title": "Faixa 24 - Luar",
       "groups": {
         "Valkyriescan": [
@@ -269,7 +270,7 @@
         ]
       }
     },
-    "Faixa 23": {
+    "23": {
       "title": "Faixa 23 - Boas intenções",
       "groups": {
         "Valkyriescan": [
@@ -302,7 +303,7 @@
         ]
       }
     },
-    "Faixa 22": {
+    "22": {
       "title": "Faixa 22 - Ótima premiação",
       "groups": {
         "Valkyriescan": [
@@ -335,7 +336,7 @@
         ]
       }
     },
-    "Faixa 21": {
+    "21": {
       "title": "Faixa 21 - É complicado",
       "groups": {
         "Valkyriescan": [
@@ -368,7 +369,7 @@
         ]
       }
     },
-    "Faixa 20": {
+    "20": {
       "title": "Faixa 20 - California nos sonhos",
       "groups": {
         "Valkyriescan": [
@@ -401,7 +402,7 @@
         ]
       }
     },
-    "Faixa 19": {
+    "19": {
       "title": "Faixa 19 - Há quanto tempo você tem 28",
       "groups": {
         "Valkyriescan": [
@@ -434,7 +435,7 @@
         ]
       }
     },
-    "Faixa 18": {
+    "18": {
       "title": "Faixa 18 - Ela é uma herdeira",
       "groups": {
         "Valkyriescan": [
@@ -467,7 +468,7 @@
         ]
       }
     },
-    "Faixa 17": {
+    "17": {
       "title": "Faixa 17 - Só uma Turista",
       "groups": {
         "Valkyriescan": [
@@ -500,7 +501,7 @@
         ]
       }
     },
-    "Faixa 16": {
+    "16": {
       "title": "Faixa 16 - Deveríamos Recomeçar",
       "groups": {
         "Valkyriescan": [
@@ -533,7 +534,7 @@
         ]
       }
     },
-    "Faixa 15": {
+    "15": {
       "title": "Faixa 15 - Aproveite Enquanto Dura",
       "groups": {
         "Valkyriescan": [
@@ -566,7 +567,7 @@
         ]
       }
     },
-    "Faixa 14": {
+    "14": {
       "title": "Faixa 14 - Arranjem um Quarto",
       "groups": {
         "Valkyriescan": [
@@ -599,7 +600,7 @@
         ]
       }
     },
-    "Faixa 13": {
+    "13": {
       "title": "Faixa 13 - Somos uma coisa?",
       "groups": {
         "Valkyriescan": [
@@ -632,7 +633,7 @@
         ]
       }
     },
-    "Faixa 12": {
+    "12": {
       "title": "Faixa 12 - Xô humano",
       "groups": {
         "Valkyriescan": [
@@ -665,7 +666,7 @@
         ]
       }
     },
-    "Faixa 11": {
+    "11": {
       "title": "Faixa 11 - Vamos te levar para casa",
       "groups": {
         "Valkyriescan": [
@@ -698,7 +699,7 @@
         ]
       }
     },
-    "Faixa 10": {
+    "10": {
       "title": "Faixa 10 - Festa do pijama sobrenatural",
       "groups": {
         "Valkyriescan": [
@@ -726,7 +727,7 @@
         ]
       }
     },
-    "Faixa 09": {
+    "9": {
       "title": "Faixa 09 - Um ícone lésbico",
       "groups": {
         "Valkyriescan": [
@@ -754,7 +755,7 @@
         ]
       }
     },
-    "Faixa 08": {
+    "8": {
       "title": "Faixa 08 - Apagar minha memória",
       "groups": {
         "Valkyriescan": [
@@ -782,7 +783,7 @@
         ]
       }
     },
-    "Faixa 07": {
+    "7": {
       "title": "Faixa 07 - Você tentou me comer",
       "groups": {
         "Valkyriescan": [
@@ -810,7 +811,7 @@
         ]
       }
     },
-    "Faixa 06": {
+    "6": {
       "title": "Faixa 06 - Tiete",
       "groups": {
         "Valkyriescan": [
@@ -828,7 +829,7 @@
         ]
       }
     },
-    "Faixa 05": {
+    "5": {
       "title": "Faixa 05 - Quem é o bom garoto?",
       "groups": {
         "Valkyriescan": [
@@ -846,7 +847,7 @@
         ]
       }
     },
-    "Faixa 04": {
+    "4": {
       "title": "Faixa 04 - Arte é esquisita",
       "groups": {
         "Valkyriescan": [
@@ -864,7 +865,7 @@
         ]
       }
     },
-    "Faixa 03": {
+    "3": {
       "title": "Faixa 03 - Em outra vida",
       "groups": {
         "Valkyriescan": [
@@ -896,7 +897,7 @@
         ]
       }
     },
-    "Faixa 02": {
+    "2": {
       "title": "Faixa 02 - Quatro doses de expresso no gelo",
       "groups": {
         "Valkyriescan": [
@@ -929,7 +930,7 @@
         ]
       }
     },
-    "Faixa 01": {
+    "1": {
       "title": "Faixa 01 - Partiu cedo demais",
       "groups": {
         "Valkyriescan": [
