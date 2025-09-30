@@ -4,6 +4,7 @@
   "artist": "Pito",
   "description": "A estrela mais rápida da escola, Namsu. Uma velha amiga do passado, Hye-Yeon. Todas são adoráveis e amáveis com, Joy. Romance colegial é o melhor!\nO quadrinho que fez de Pito um dos melhores do gênero GL. (?)",
   "cover": "https://images2.imgbox.com/18/68/5ugMlCKe_o.jpg",
+  "status": "Completo",
   "chapters": {
     "26": {
       "title": "Capítulo 26",
@@ -395,7 +396,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -415,7 +416,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -441,7 +442,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -463,7 +464,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -484,7 +485,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -504,7 +505,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -520,7 +521,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -537,7 +538,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -553,7 +554,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -575,7 +576,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
