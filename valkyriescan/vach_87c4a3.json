@@ -4,8 +4,9 @@
   "artist": "Bai San Culture (白三文化)",
   "description": "No mundo moderno dos teriantropos, todos respeitam a lei da selva, onde os fortes dominam os fracos. Yu Wenxi, uma teriantropa de lobo cinzento de vinte anos, está no topo da cadeia alimentar e ganhou fama com os punhos. Violenta e imprevisível, ela sempre despreza os mais fracos. Até que um dia, sua meia-irmã deixou uma filhote de raposa sob seus cuidados. A partir de então, a loba selvagem se transformou em uma boa cadela. Ela jurou criar a filhote chorona, treiná-la para ser uma aluna exemplar e oferecer-lhe o melhor da vida. No entanto, a pequena raposa esconde um coração astuto sob a fachada de boa menina…",
   "cover": "https://images2.imgbox.com/70/10/MLgqEzuj_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Cheiro de raposa",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Jiejie",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Lobo Cinzento e Coelho",
       "groups": {
         "Valkyriescan": [
@@ -99,7 +100,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Sangue da besta fervendo",
       "groups": {
         "Valkyriescan": [
@@ -127,7 +128,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Adoção",
       "groups": {
         "Valkyriescan": [
@@ -155,7 +156,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - O primeiro encontro",
       "groups": {
         "Valkyriescan": [
@@ -183,7 +184,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Reunião com MinJun",
       "groups": {
         "Valkyriescan": [
