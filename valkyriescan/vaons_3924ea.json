@@ -4,8 +4,9 @@
   "artist": "Tsuke",
   "description": "Uma garota encontra sua colega de classe em um dia chuvoso.",
   "cover": "https://images2.imgbox.com/84/8b/KKJTFGz3_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
