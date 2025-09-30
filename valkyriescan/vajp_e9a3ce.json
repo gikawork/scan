@@ -4,6 +4,7 @@
   "artist": "Chiruha Chinmi",
   "description": "Tachada de “bruxa” por todos, Evris, a filha mais nova da Casa Bradley, está noiva de Mark, o quinto príncipe do Reino de Klengel. Quando ele repentinamente anuncia o rompimento do noivado, Evris mergulha no desespero. No entanto, quem surge para lhe estender a mão é… O príncipe herdeiro (♀) de um país vizinho!?",
   "cover": "https://images2.imgbox.com/63/3b/ZtF6dJPn_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "11.5": {
       "title": "Capítulo 11.5 - Extras",
@@ -118,7 +119,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Convicções Verdes",
       "groups": {
         "Valkyriescan": [
@@ -169,7 +170,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Juramento deslumbrante",
       "groups": {
         "Valkyriescan": [
@@ -204,7 +205,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - A inquisição",
       "groups": {
         "Valkyriescan": [
@@ -234,7 +235,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A Oração da Estrela",
       "groups": {
         "Valkyriescan": [
@@ -277,7 +278,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Luz e Sombra",
       "groups": {
         "Valkyriescan": [
@@ -318,7 +319,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - O erro de uma donzela",
       "groups": {
         "Valkyriescan": [
@@ -346,7 +347,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Um príncipe de conto de fadas",
       "groups": {
         "Valkyriescan": [
@@ -384,7 +385,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - O segredo da princesa disfarçada",
       "groups": {
         "Valkyriescan": [
@@ -420,7 +421,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - A Luz do Amanhecer",
       "groups": {
         "Valkyriescan": [
