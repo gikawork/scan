@@ -4,8 +4,9 @@
   "artist": "Ana C. Sánchez",
   "description": "Depois de aceitarem seus sentimentos uma pelo outra, Noel e June estão vivendo um dia de cada vez. Seu primeiro encontro real leva a outro, a familiaridade se transformando em intimidade à medida que passam mais e mais tempo juntas, passando a noite, compartilhando seus segredos e saindo em encontros duplos com sua amiga Elena e o namorado dela. Mas nem tudo são rosas e sol entre elas – a personalidade rígida e irritadiça de Noel e a atitude desinteressada de June significam que estão fadadas a entrar em conflito em coisas grandes e pequenas.",
   "cover": "https://images2.imgbox.com/3f/35/7GDW9ntO_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Nosso Amor Egoísta",
       "groups": {
         "Valkyriescan": [
@@ -56,7 +57,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Caminhos Cruzados",
       "groups": {
         "Valkyriescan": [
@@ -99,7 +100,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Um Coração Bondoso",
       "groups": {
         "Valkyriescan": [
@@ -142,7 +143,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O Olhar do Abismo",
       "groups": {
         "Valkyriescan": [
@@ -156,7 +157,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Encontro predestinado",
       "groups": {
         "Valkyriescan": [
@@ -166,7 +167,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Aliança Imperfeita",
       "groups": {
         "Valkyriescan": [
