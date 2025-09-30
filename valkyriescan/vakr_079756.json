@@ -4,8 +4,9 @@
   "artist": "1172",
   "description": "Verão, cinco histórias GL’s curtas se desenrolando em ambientes escolares e universitários (campus).\nEssa antologia conta com a participação das autoras de:",
   "cover": "https://images2.imgbox.com/69/68/4qfKbdUM_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Olhar quente (Park MiNam)",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Cadência (1172)",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - A área da EX (Epum)",
       "groups": {
         "Valkyriescan": [
@@ -129,7 +130,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A REFEIÇÃO mais perfeita (DoRan)",
       "groups": {
         "Valkyriescan": [
@@ -187,7 +188,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Adicionar+Segredo (TeunTeun)",
       "groups": {
         "Valkyriescan": [
