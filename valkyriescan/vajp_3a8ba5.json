@@ -4,6 +4,7 @@
   "artist": "Yasaka Shuu",
   "description": "As estudantes do ensino médio Minami Ikoma e Yuzu Makita são amigas desde o primário. Como seus pais são amigos, elas sempre estiveram juntas. No entanto, quando Minami vê sua amiga receber uma confissão, sentimentos em seu próprio coração começam a brotar. Começa uma comédia romântica com duas amigas de infância.",
   "cover": "https://images2.imgbox.com/32/f0/el3BSDtq_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "17.2": {
       "title": "Capítulo 17.2",
@@ -317,7 +318,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -348,7 +349,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -378,7 +379,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -410,7 +411,7 @@
         ]
       }
     },
-    "06.1": {
+    "6.1": {
       "title": "Capítulo 06.1",
       "groups": {
         "Valkyriescan": [
@@ -422,7 +423,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -452,7 +453,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -486,7 +487,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -516,7 +517,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -550,7 +551,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -584,7 +585,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
