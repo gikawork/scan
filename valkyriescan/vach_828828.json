@@ -4,6 +4,7 @@
   "artist": "橘姬社",
   "description": "Por alguma obra destino, a exorcista Xiao Yu é forçada a “coabitar” com a súcubo chamada Obsidian, que matou seu pai adotivo. No entanto, ela descobre que a súcubo parece ter perdido suas memórias! Não aceitando este fato, Xiao Yu decide espionar cada movimento de Obsidian, mas esta última não parece incomodada nem um pouco. Em vez disso, ela começa a desejar Xiao Yu abertamente e muitas vezes provoca seu corpo para saciar sua própria fome… Embora pareçam ter uma relação de amor e ódio, ambas sabem que algo está se mexendo nas profundezas.\nPor que seu pai adotivo foi morto? Por que a memória de Obsidian foi selada? E…”",
   "cover": "https://images2.imgbox.com/9c/8b/nJkSWgVo_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "22": {
       "title": "Capítulo 22 - Meu eu antigo",
@@ -367,7 +368,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Aperitivo",
       "groups": {
         "Valkyriescan": [
@@ -396,7 +397,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Quer dar uns pegas, gata?",
       "groups": {
         "Valkyriescan": [
@@ -425,7 +426,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Um Mundo Totalmente Novo De Orientações",
       "groups": {
         "Valkyriescan": [
@@ -444,7 +445,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Estou Tããão Faminta",
       "groups": {
         "Valkyriescan": [
@@ -478,7 +479,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Compartilhando segredos",
       "groups": {
         "Valkyriescan": [
@@ -512,7 +513,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Alimentação",
       "groups": {
         "Valkyriescan": [
@@ -545,7 +546,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Convivência",
       "groups": {
         "Valkyriescan": [
@@ -563,7 +564,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Por que você está aqui?!",
       "groups": {
         "Valkyriescan": [
@@ -581,7 +582,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - A Exorcista Humana",
       "groups": {
         "Valkyriescan": [
