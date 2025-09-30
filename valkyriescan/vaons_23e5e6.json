@@ -4,8 +4,9 @@
   "artist": "Amane (あまね)",
   "description": "A jovem senhorita Seira e a criada Hinazu.",
   "cover": "https://images2.imgbox.com/7e/7d/fw3Yqsf0_o.png",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
