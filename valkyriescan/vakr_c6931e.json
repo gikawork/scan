@@ -4,8 +4,9 @@
   "artist": "applesoda",
   "description": "Embora o Capitão seja bonito, gentil e bom em esportes, ele também é um jogador ávido. É por isso que Kiss decidiu começar a aprender a jogar na esperança de conquistar o veterano por quem ela tem uma queda. No entanto, isso acabou sendo o início de um relacionamento online inesperado entre Kiss e Miguel, que secretamente é o jogador profissional número um do mundo!",
   "cover": "https://images2.imgbox.com/74/77/HX82NLEX_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
