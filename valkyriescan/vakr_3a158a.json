@@ -4,6 +4,7 @@
   "artist": "laundromat",
   "description": "Alguns nascem gays, alguns alcançam a gayzice e alguns têm a gayzice imposta sobre eles.",
   "cover": "https://images2.imgbox.com/98/f0/9qOzilZf_o.jpg",
+  "status": "Completo",
   "chapters": {
     "37": {
       "title": "Capítulo 37 - Anúncio Oficial",
@@ -140,6 +141,24 @@
           "https://images2.imgbox.com/77/77/jlLtTOF0_o.jpg",
           "https://images2.imgbox.com/c7/e7/hfeUvkgY_o.jpg",
           "https://images2.imgbox.com/59/8b/SqYEgjWA_o.jpg"
+        ]
+      }
+    },
+    "29": {
+      "title": "Capitulo 29",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/08/87/Ss0Y2v3Q_o.png",
+          "https://images2.imgbox.com/16/ac/jWcFKQ7D_o.jpg",
+          "https://images2.imgbox.com/49/db/GNHUDTd0_o.jpg",
+          "https://images2.imgbox.com/23/f8/6qVIs5Vr_o.jpg",
+          "https://images2.imgbox.com/ca/7d/qvdXuIqf_o.jpg",
+          "https://images2.imgbox.com/56/03/reMbMajY_o.jpg",
+          "https://images2.imgbox.com/da/73/7P1u7vxn_o.jpg",
+          "https://images2.imgbox.com/be/eb/q1TAjFAd_o.jpg",
+          "https://images2.imgbox.com/93/67/2NLGM84f_o.jpg",
+          "https://images2.imgbox.com/c0/7e/rZvtUw9S_o.jpg",
+          "https://images2.imgbox.com/78/a8/9QFlYR5Q_o.jpg"
         ]
       }
     },
@@ -502,7 +521,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -520,7 +539,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -538,7 +557,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -556,7 +575,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -574,7 +593,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -592,7 +611,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -610,7 +629,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -628,7 +647,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -646,7 +665,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -661,24 +680,6 @@
           "https://images2.imgbox.com/c0/f1/JSa6w4iW_o.jpg",
           "https://images2.imgbox.com/05/27/KhiWL4li_o.jpg",
           "https://images2.imgbox.com/a6/e4/kJNRILHl_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 29": {
-      "title": "Capitulo 29",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/08/87/Ss0Y2v3Q_o.png",
-          "https://images2.imgbox.com/16/ac/jWcFKQ7D_o.jpg",
-          "https://images2.imgbox.com/49/db/GNHUDTd0_o.jpg",
-          "https://images2.imgbox.com/23/f8/6qVIs5Vr_o.jpg",
-          "https://images2.imgbox.com/ca/7d/qvdXuIqf_o.jpg",
-          "https://images2.imgbox.com/56/03/reMbMajY_o.jpg",
-          "https://images2.imgbox.com/da/73/7P1u7vxn_o.jpg",
-          "https://images2.imgbox.com/be/eb/q1TAjFAd_o.jpg",
-          "https://images2.imgbox.com/93/67/2NLGM84f_o.jpg",
-          "https://images2.imgbox.com/c0/7e/rZvtUw9S_o.jpg",
-          "https://images2.imgbox.com/78/a8/9QFlYR5Q_o.jpg"
         ]
       }
     }
