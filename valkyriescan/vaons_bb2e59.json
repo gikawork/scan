@@ -4,8 +4,9 @@
   "artist": "Mochi Au Lait",
   "description": "Uma mangaká está com dificuldades de desenhar cenas de beijo, então sua editora resolve ajudá-la.",
   "cover": "https://images2.imgbox.com/3f/d5/DljtdTMs_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
