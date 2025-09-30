@@ -4,8 +4,9 @@
   "artist": "Mira",
   "description": "Uma história sobre uma situação descontraída entre Lady Alce, que desafia para a batalha, e a Srta. Jaguar, que foge.",
   "cover": "https://images2.imgbox.com/42/e0/hhHkOZ21_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
