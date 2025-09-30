@@ -4,8 +4,9 @@
   "artist": "42℃ Latte",
   "description": "Tang Ran é uma raposinha, alegre e encantadora. Para se formar na faculdade de monstros, ela se transformou em uma estudante universitária humana e queria seduzir um humano para se apaixonar por ela. No entanto, o que ela não sabia é que a professora humana de coração frio, Su Qingci, por quem ela se apaixonou, era na verdade…? Uma mentira requer inúmeras outras mentiras para encobri-la. Para fazer a outra pessoa se apaixonar primeiro, a raposa sempre contará “mentiras”.",
   "cover": "https://images2.imgbox.com/d0/4f/l0DDlh74_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Conquistei a linda Su Qingci!",
       "groups": {
         "Valkyriescan": [
@@ -22,7 +23,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Lago congelado",
       "groups": {
         "Valkyriescan": [
@@ -42,7 +43,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Não planejo me apaixonar por ninguém",
       "groups": {
         "Valkyriescan": [
@@ -59,7 +60,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - É porque eu gosto de você",
       "groups": {
         "Valkyriescan": [
@@ -76,7 +77,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Raposa",
       "groups": {
         "Valkyriescan": [
@@ -93,7 +94,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo: Um crossover inesperado",
       "groups": {
         "Valkyriescan": [
