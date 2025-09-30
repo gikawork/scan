@@ -4,8 +4,9 @@
   "artist": "Sumiko Arai",
   "description": "A história de uma garota que está em um relacionamento duvidoso e complicado com a namorada do seu irmão.",
   "cover": "https://images2.imgbox.com/56/e0/I6xDvhB8_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
