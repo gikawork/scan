@@ -4,8 +4,9 @@
   "artist": "Milly Monteiro",
   "description": "Baseado na obra “Mobile Suit Gundam: The Witch from Mercury”, Suletta vem enfrentando certos desafios ao ficar perto de sua noiva. Para contornar a situação, ela prefere evitar Miorine o máximo que pode. Mas até quando isso vai funcionar?",
   "cover": "https://images2.imgbox.com/28/22/wgnVb7MK_o.png",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
