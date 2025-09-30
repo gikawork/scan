@@ -3,8 +3,8 @@
     "name": "ValkyriesScan",
     "icon_url": "",
     "description": "Mangás, manhwas e manhuas da ValkyriesScan",
-    "lastUpdated": 1759253015,
-    "total_works": 538,
+    "lastUpdated": 1759253935,
+    "total_works": 536,
     "version": "1.0.0"
   },
   "works": {
@@ -773,18 +773,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL3NjYW4vcmVmcy9oZWFkcy9tYWluL3ZhbGt5cmllc2Nhbi92YWNoXzk0YWE2YS5qc29u/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/ed/a8/gC97QSa2_o.jpg"
-        }
-      ]
-    },
-    "vaxx_a6b0a5": {
-      "title": "Título não encontrado",
-      "chapters": [
-        {
-          "id": "a6b0a5",
-          "title": "Título não encontrado",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL3NjYW4vcmVmcy9oZWFkcy9tYWluL3ZhbGt5cmllc2Nhbi92YXh4X2E2YjBhNS5qc29u/",
-          "type": "manga",
-          "cover_url": ""
         }
       ]
     },
@@ -5273,18 +5261,6 @@
           "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL3NjYW4vcmVmcy9oZWFkcy9tYWluL3ZhbGt5cmllc2Nhbi92YWNoXzZlZTg3NS5qc29u/",
           "type": "manhua",
           "cover_url": "https://images2.imgbox.com/d0/4f/l0DDlh74_o.jpg"
-        }
-      ]
-    },
-    "vaxx_3fce28": {
-      "title": "Título não encontrado",
-      "chapters": [
-        {
-          "id": "3fce28",
-          "title": "Título não encontrado",
-          "url": "https://cubari.moe/read/gist/cmF3L2dpa2F3b3JrL3NjYW4vcmVmcy9oZWFkcy9tYWluL3ZhbGt5cmllc2Nhbi92YXh4XzNmY2UyOC5qc29u/",
-          "type": "manga",
-          "cover_url": ""
         }
       ]
     },
