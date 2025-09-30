@@ -4,6 +4,7 @@
   "artist": "Team Aemae",
   "description": "Ao entrar no set de filmagens, Cha Hong, uma escritora freelancer escuta, “ela agora é sua responsabilidade”. Quando se torna assistente de produção, Hong acaba tendo que cuidar 24 horas por dia de Noh Seung-ah, uma atriz com atitudes difíceis, mas isto só até acabar as gravações, no entanto… “eu nunca disse que você poderia morar na minha casa?”",
   "cover": "https://images2.imgbox.com/b6/ad/1DKwSXWn_o.jpg",
+  "status": "Cancelado",
   "chapters": {
     "54": {
       "title": "Capítulo 54 - A caixa de pandora (Fim da 2ª Temporada)",
@@ -1321,7 +1322,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Rachadura",
       "groups": {
         "Valkyriescan": [
@@ -1354,7 +1355,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Aquela Mulher",
       "groups": {
         "Valkyriescan": [
@@ -1370,7 +1371,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Tia louca 2",
       "groups": {
         "Valkyriescan": [
@@ -1390,7 +1391,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Tia louca 1",
       "groups": {
         "Valkyriescan": [
@@ -1410,7 +1411,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Se fosse assim tão fácil",
       "groups": {
         "Valkyriescan": [
@@ -1432,7 +1433,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Contrato",
       "groups": {
         "Valkyriescan": [
@@ -1470,7 +1471,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - É assim que você sai",
       "groups": {
         "Valkyriescan": [
@@ -1515,7 +1516,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - E foi assim que aconteceu",
       "groups": {
         "Valkyriescan": [
@@ -1534,7 +1535,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Dia D",
       "groups": {
         "Valkyriescan": [
@@ -1560,6 +1561,14 @@
       "groups": {
         "Valkyriescan": [
           "https://images2.imgbox.com/91/64/saEHfUfE_o.jpg"
+        ]
+      }
+    },
+    "Capítulo Extra": {
+      "title": "Capítulo Extra",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/e8/76/r9rxpiH9_o.jpg"
         ]
       }
     }
