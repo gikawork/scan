@@ -4,6 +4,7 @@
   "artist": "letINK",
   "description": "Bem-vindo a Greywoods, uma bela mansão isolada no meio do campo. Seus principais habitantes? O Visconde Rose, sua filha Lady Eileen, a governanta, o mordomo e… uma nova empregada, Marie. Quando a Senhorita Eileen e sua mais nova (e única) companheira começam a se abrir uma para a outra, seus corações vão se aproximar?\nMas não se importe com os fantasmas remanescentes ainda assombrando o terreno, eles não são reais! Nem existem segredos duradouros, traições profundamente enraizadas ou um ar de mistério… confie em mim.",
   "cover": "https://images2.imgbox.com/8e/69/TZnV3ERG_o.jpg",
+  "status": "Completo",
   "chapters": {
     "39": {
       "title": "Capítulo 39 - Epílogo A fonte do sol (2)",
@@ -936,7 +937,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Ato 1, Projeção (2)",
       "groups": {
         "Valkyriescan": [
@@ -957,7 +958,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Ato 1, Projeção (1)",
       "groups": {
         "Valkyriescan": [
@@ -969,7 +970,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Ato 1, Mudança (3)",
       "groups": {
         "Valkyriescan": [
@@ -995,7 +996,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Ato 1, Mudança (2)",
       "groups": {
         "Valkyriescan": [
@@ -1023,7 +1024,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Ato 1, Mudança (1)",
       "groups": {
         "Valkyriescan": [
@@ -1054,7 +1055,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Ato 1, uma ondulação",
       "groups": {
         "Valkyriescan": [
@@ -1076,7 +1077,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Prólogo, O Encontro (3)",
       "groups": {
         "Valkyriescan": [
@@ -1101,7 +1102,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Prólogo, O Encontro (2)",
       "groups": {
         "Valkyriescan": [
@@ -1123,7 +1124,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Prólogo, O Encontro (1)",
       "groups": {
         "Valkyriescan": [
