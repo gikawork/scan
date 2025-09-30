@@ -4,8 +4,9 @@
   "artist": "Takeshisu",
   "description": "Um motorista de táxi e sua cliente tarde da noite.",
   "cover": "https://images2.imgbox.com/be/3d/GEDblsck_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
