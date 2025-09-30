@@ -4,8 +4,9 @@
   "artist": "juuhnjin",
   "description": "Após um evento traumático no ensino médio, Irene é forçada a fugir para o exterior, deixando para trás tudo o que conhecia e amava. Anos mais tarde, ela retorna determinada a buscar vingança contra aquela que tornou sua vida insuportável. No entanto, ao confrontar sua antiga agressora, Irene se surpreende ao descobrir que ela mudou completamente. Agora, Irene se vê diante de um dilema moral: será que ela ainda deseja vingança, ou encontrará em si mesma a capacidade de perdoar e seguir em frente? Essa é uma história sobre perdão, redenção e a capacidade de mudança das pessoas ao longo do tempo.",
   "cover": "https://images2.imgbox.com/d3/44/lMe04duP_o.jpg",
+  "status": "Hiato",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -32,7 +33,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -59,7 +60,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -86,7 +87,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -102,7 +103,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
