@@ -4,8 +4,9 @@
   "artist": "Chisako",
   "description": "Uma história sobre duas garotas que se conhecem em um mixer.",
   "cover": "https://images2.imgbox.com/f5/87/DPuykeIE_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -46,7 +47,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
