@@ -4,8 +4,9 @@
   "artist": "Kashikaze",
   "description": "Uma coleção de one-shots escritos por Kashikaze, incluindo conteúdo original de Can’t Defy the Lonely Girl.",
   "cover": "https://images2.imgbox.com/ff/7e/0ADAC5Xc_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Idiotas apaixonadas",
       "groups": {
         "Valkyriescan": [
@@ -25,7 +26,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Não posso mais desafiar a garota solitária, mais!",
       "groups": {
         "Valkyriescan": [
@@ -41,7 +42,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Afinal, eu amo você",
       "groups": {
         "Valkyriescan": [
@@ -83,7 +84,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Marcação",
       "groups": {
         "Valkyriescan": [
