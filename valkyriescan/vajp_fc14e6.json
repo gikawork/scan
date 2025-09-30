@@ -4,8 +4,9 @@
   "artist": "Yanai Nobuhiko",
   "description": "Marie, uma princesa autoritária e egoísta, encontrou seu fim sob a lâmina da guilhotina após seus súditos se cansarem dela. Mas, em vez de permanecer morta, Marie se vê de volta no passado, um ano antes de sua execução, embora, não importa o que faça, ela nunca consegue escapar do destino que a aguarda.",
   "cover": "https://images2.imgbox.com/fc/0d/X8excc5F_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -55,7 +56,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -105,7 +106,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -154,7 +155,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
