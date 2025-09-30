@@ -4,8 +4,9 @@
   "artist": "laundromat",
   "description": "Alguns nascem gays, outros alcançam a homossexualidade e outros têm a homossexualidade imposta a eles. Sebastian já foi reprovado duas vezes em sua aula de Introdução à Ciência da Computação e agora só tem mais uma chance de passar. O que ele pode fazer a não ser pedir a Bianca, uma golpista da faculdade local, para ficar em seu lugar durante todo o semestre? Será que ela conseguirá enganar uma professora que já conheceu Sebastian antes? Sem mencionar o que acontecerá quando uma garota chamada Chandler, começar a se interessar por “Sebastian”, também conhecido como Bianca? A vida de Bianca logo se encherá de drama, mas ela não tem tempo para isso. Não, Bianca só tem um objetivo: não ser pega.",
   "cover": "https://images2.imgbox.com/44/74/yPw1Vnfr_o.png",
+  "status": "Em lançamento",
   "chapters": {
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
