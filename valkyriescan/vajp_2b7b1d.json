@@ -4,6 +4,7 @@
   "artist": "Sakuragi Ren",
   "description": "Nagisa Ootsuki se livrou de seu antigo eu por vergonha de ser reprovada nos exames de admissão do colégio.\nEm seu primeiro dia em seu novo colégio, quem ela conheceu senão a garota que a fez ser reprovada no exame!\nComo Nagisa lida com essas emoções complicadas?",
   "cover": "https://images2.imgbox.com/67/94/yjGwpBGH_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "38": {
       "title": "Capítulo 38 - Parabéns",
@@ -1077,7 +1078,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Dormir Fora",
       "groups": {
         "Valkyriescan": [
@@ -1111,7 +1112,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Estudando",
       "groups": {
         "Valkyriescan": [
@@ -1144,7 +1145,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - O que significa gostar",
       "groups": {
         "Valkyriescan": [
@@ -1182,7 +1183,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Especial",
       "groups": {
         "Valkyriescan": [
@@ -1217,7 +1218,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Abraço",
       "groups": {
         "Valkyriescan": [
@@ -1245,7 +1246,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Encontro",
       "groups": {
         "Valkyriescan": [
@@ -1278,7 +1279,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Ponto de vista",
       "groups": {
         "Valkyriescan": [
@@ -1308,7 +1309,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Um segredo entre nós",
       "groups": {
         "Valkyriescan": [
@@ -1342,7 +1343,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Reunião",
       "groups": {
         "Valkyriescan": [
