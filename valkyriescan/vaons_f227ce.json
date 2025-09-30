@@ -4,8 +4,9 @@
   "artist": "Ayanakitori",
   "description": "Duas amigas fazendo descobertas no telhado da escola.",
   "cover": "https://images2.imgbox.com/53/1d/EmOXE8Nr_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
