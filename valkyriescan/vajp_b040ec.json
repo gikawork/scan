@@ -4,8 +4,9 @@
   "artist": "Fujii Niko",
   "description": "Uma adaptação completa em mangá do anime original para TV! Um drama coletivo sobre a juventude criativa de garotas, começando na vibrante e cheia de identidade cidade de Shibuya!",
   "cover": "https://images2.imgbox.com/80/ff/HldyWFKk_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Eu também quero mudar",
       "groups": {
         "Valkyriescan": [
