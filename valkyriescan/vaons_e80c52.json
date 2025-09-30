@@ -4,8 +4,9 @@
   "artist": "Miura Kozumi",
   "description": "Kamijou Kaoru é um exemplo de funcionária perfeita (uma dama no escritório).\nMas na realidade, em casa ela é um total desastre. E por coincidência sua kouhai a viu naquele estado! Que azar! Será que é realmente azar?",
   "cover": "https://images2.imgbox.com/84/1a/JITh0gTh_o.png",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
