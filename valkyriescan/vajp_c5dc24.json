@@ -2,8 +2,9 @@
   "title": "Hana ni Arashi",
   "author": "Ruka Kovachi",
   "artist": "Ruka Kovachi",
-  "description": "Nanoha e Chidori são melhores amigas. Elas também estão namorando, mas é um segredo, então não conte a ninguém!",
+  "description": "Nanoha e Chidori são melhores amigas.\nElas também estão namorando, mas é um segredo, então não conte a ninguém!",
   "cover": "https://files.catbox.moe/8vgcu0.jpg",
+  "status": "Completo",
   "chapters": {
     "172": {
       "title": "Capítulo 172 - Minha Namorada",
@@ -3205,7 +3206,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Relacionamento futuro",
       "groups": {
         "Valkyriescan": [
@@ -3224,7 +3225,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Sentimento e intenção",
       "groups": {
         "Valkyriescan": [
@@ -3243,7 +3244,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Travessura furtiva",
       "groups": {
         "Valkyriescan": [
@@ -3262,7 +3263,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Por trás das cortinas",
       "groups": {
         "Valkyriescan": [
@@ -3281,7 +3282,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Os cantos e o centro",
       "groups": {
         "Valkyriescan": [
@@ -3300,7 +3301,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Juntas na sala do clube",
       "groups": {
         "Valkyriescan": [
@@ -3319,7 +3320,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O relacionamento delas",
       "groups": {
         "Valkyriescan": [
@@ -3338,7 +3339,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Almoço com todas",
       "groups": {
         "Valkyriescan": [
@@ -3356,7 +3357,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Eu e Nanoha",
       "groups": {
         "Valkyriescan": [
