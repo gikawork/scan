@@ -4,8 +4,9 @@
   "artist": "Makimoto Umemi",
   "description": "Yugure Yuhi e Utatane Yasumi, duas dubladoras colegiais que por acaso frequentam a mesma escola e coincidentemente foram colocadas na mesma classe, são as apresentadoras de um programa semanal de rádio. Como colegas de classe e dubladoras, elas mostram a todos os ouvintes uma grande amizade! Pelo menos, na superfície.",
   "cover": "https://images2.imgbox.com/15/68/b6US8s1X_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -36,7 +37,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -65,7 +66,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
