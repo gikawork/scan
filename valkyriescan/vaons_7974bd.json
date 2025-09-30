@@ -4,8 +4,9 @@
   "artist": "Tan Jiu",
   "description": "Duas meninas da escola se encontram em uma noite de verão. Nota: Este foi um projeto da Daily Yuri.",
   "cover": "https://images2.imgbox.com/f4/07/cN1BhtmF_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
