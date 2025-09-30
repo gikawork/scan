@@ -4,8 +4,9 @@
   "artist": "Fujichika",
   "description": "Uma história sobre uma atendente de uma loja de conservas e sua apresentadora de televisão favorita.",
   "cover": "https://images2.imgbox.com/3b/68/ydpxNmcm_o.png",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
