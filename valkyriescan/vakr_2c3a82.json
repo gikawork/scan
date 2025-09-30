@@ -4,8 +4,9 @@
   "artist": "JIN",
   "description": "Em um reino marcado por uma rebelião histórica, Penny, uma assassina disfarçada de serva, busca se libertar do controle da Rainha Nyla ao aceitar uma missão perigosa: roubar o anel do rei da Princesa Cher, conhecida como a cruel Princesa da Morte. No entanto, seus objetivos começam a mudar à medida que ela se sente gradualmente cativada pela princesa. Com seus destinos entrelaçados, Penny enfrenta um dilema, dividida entre a busca pela liberdade e os laços inesperados que cria com Cher.",
   "cover": "https://images2.imgbox.com/05/5e/sbcmMZRC_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -170,7 +171,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -203,7 +204,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -231,7 +232,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
