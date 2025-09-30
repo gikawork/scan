@@ -4,6 +4,7 @@
   "artist": "桔仔k",
   "description": "Uma situação imprevisível levou Yuan Qiuyu, uma adolescente, a se apaixonar pela atriz Chu Yan. Quando ela transformou sua aparência por amor e se tornou uma grande idol, a pessoa que ela gostava já havia desaparecido da vista das pessoas.",
   "cover": "https://images2.imgbox.com/ed/a8/gC97QSa2_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "40": {
       "title": "Capítulo 40 - Confusão",
@@ -1044,7 +1045,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - O início das filmagens",
       "groups": {
         "Valkyriescan": [
@@ -1072,7 +1073,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Promessa",
       "groups": {
         "Valkyriescan": [
@@ -1100,7 +1101,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Sou sua fã",
       "groups": {
         "Valkyriescan": [
@@ -1128,7 +1129,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Ela do passado",
       "groups": {
         "Valkyriescan": [
@@ -1156,7 +1157,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Vigiada",
       "groups": {
         "Valkyriescan": [
@@ -1174,7 +1175,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Encontro",
       "groups": {
         "Valkyriescan": [
@@ -1192,7 +1193,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Retorno",
       "groups": {
         "Valkyriescan": [
@@ -1210,7 +1211,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Prólogo (II)",
       "groups": {
         "Valkyriescan": [
@@ -1223,7 +1224,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Prólogo (I)",
       "groups": {
         "Valkyriescan": [
