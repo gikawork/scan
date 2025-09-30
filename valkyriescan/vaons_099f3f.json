@@ -4,8 +4,9 @@
   "artist": "Keruto (Hareta)",
   "description": "Doujinshi de Aoi x Ran do anime Aikatsu!",
   "cover": "https://images2.imgbox.com/f3/91/5XCgEy7y_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
