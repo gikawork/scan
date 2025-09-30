@@ -4,6 +4,7 @@
   "artist": "Shihho",
   "description": "Popular, talentosa, carismática, mas muito comum. Amanda prometeu a si mesma não ser mais uma entre as muitas que se apaixonaram pelos encantos de Rayen, a estrela da escola, mas talvez haja uma razão pela qual ninguém consegue tirar os olhos dela?",
   "cover": "https://images2.imgbox.com/5a/c1/9reOxjkv_o.jpg",
+  "status": "Hiato",
   "chapters": {
     "17": {
       "title": "Capítulo 17 - Anúncio e nossa história",
@@ -140,7 +141,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - O Par",
       "groups": {
         "Valkyriescan": [
@@ -158,7 +159,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - O Interrogatório",
       "groups": {
         "Valkyriescan": [
@@ -176,7 +177,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - A Seguidora",
       "groups": {
         "Valkyriescan": [
@@ -194,7 +195,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A Investigação - Conclusão",
       "groups": {
         "Valkyriescan": [
@@ -212,7 +213,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - A Investigação - Achados",
       "groups": {
         "Valkyriescan": [
@@ -230,7 +231,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - A Investigação - Introdução",
       "groups": {
         "Valkyriescan": [
@@ -248,7 +249,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Crush",
       "groups": {
         "Valkyriescan": [
@@ -266,7 +267,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A Estrela",
       "groups": {
         "Valkyriescan": [
@@ -294,7 +295,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - A Festa",
       "groups": {
         "Valkyriescan": [
