@@ -4,6 +4,7 @@
   "artist": "米粒",
   "description": "Um misterioso caso de assassinato despedaça a vida serena e feliz de Lan Zhiqing. O passado que ela esqueceu há muito tempo retorna na forma de um pesadelo, aproximando-se cada vez mais… Chocada, Lan Zhiqing descobre que a existência mais perigosa pode ser a pessoa com quem ela divide a cama.",
   "cover": "https://images2.imgbox.com/8a/f1/LkvCxojS_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "18": {
       "title": "Capítulo 18 - A primeira vez que nos encontramos",
@@ -196,7 +197,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Memórias",
       "groups": {
         "Valkyriescan": [
@@ -212,7 +213,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Crença Inabalável",
       "groups": {
         "Valkyriescan": [
@@ -229,7 +230,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Dúvida",
       "groups": {
         "Valkyriescan": [
@@ -248,7 +249,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Não precisamos nos distinguir",
       "groups": {
         "Valkyriescan": [
@@ -264,7 +265,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Hipóteses e a mídia",
       "groups": {
         "Valkyriescan": [
@@ -283,7 +284,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - O amor é cego",
       "groups": {
         "Valkyriescan": [
@@ -301,7 +302,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Eu quero descobrir a verdade",
       "groups": {
         "Valkyriescan": [
@@ -326,7 +327,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Gatilho",
       "groups": {
         "Valkyriescan": [
@@ -346,7 +347,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Pesadelo",
       "groups": {
         "Valkyriescan": [
@@ -365,7 +366,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Me ame ou me mate",
       "groups": {
         "Valkyriescan": [
