@@ -4,6 +4,7 @@
   "artist": "Xian Jun",
   "description": "Elas são conhecidas na empresa como cão e gato, mas durante a festa de fim de ano, elas conseguiram romper as barreiras graças à embriaguez! As duas, que costumavam ser rivais ferozes, desenvolveram uma relação estranha devido a um mal-entendido…",
   "cover": "https://images2.imgbox.com/ae/5c/6ULYLg8t_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "24": {
       "title": "Capítulo 24 - Uma transferência?",
@@ -482,7 +483,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Uma toda-poderosa",
       "groups": {
         "Valkyriescan": [
@@ -515,7 +516,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Esquisitona",
       "groups": {
         "Valkyriescan": [
@@ -548,7 +549,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Mhm",
       "groups": {
         "Valkyriescan": [
@@ -581,7 +582,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Será que isso significa...",
       "groups": {
         "Valkyriescan": [
@@ -614,7 +615,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Você não vai me beijar desta vez?",
       "groups": {
         "Valkyriescan": [
@@ -647,7 +648,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Não é como se ela tivesse dito…",
       "groups": {
         "Valkyriescan": [
@@ -675,7 +676,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Uma Mulher Interessante",
       "groups": {
         "Valkyriescan": [
@@ -708,7 +709,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Por que ela está tão brava?",
       "groups": {
         "Valkyriescan": [
@@ -741,7 +742,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Diretora Shen e Diretora Jiang",
       "groups": {
         "Valkyriescan": [
