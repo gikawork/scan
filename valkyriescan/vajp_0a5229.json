@@ -4,6 +4,7 @@
   "artist": "KAWANAMI Izumi",
   "description": "Um colégio interno onde garotas com beleza e inteligência excepcionais estão reunidas. Um lugar especial com check-ups de saúde incomuns e currículos nunca visto em outros lugares. Perseguida em uma casa onde não é bem-vinda, Chizuru se transfere para a escola e descobre os caminhos difíceis da vida que as meninas que moram lá enfrentarão…",
   "cover": "https://images2.imgbox.com/b0/a4/J2RZP4Kd_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "11.5": {
       "title": "Capítulo 11.5 - Prólogo",
@@ -103,7 +104,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - O fio de Ariadne",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Abraço",
       "groups": {
         "Valkyriescan": [
@@ -173,7 +174,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Imitação",
       "groups": {
         "Valkyriescan": [
@@ -206,7 +207,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Reflexão",
       "groups": {
         "Valkyriescan": [
@@ -244,7 +245,7 @@
         ]
       }
     },
-    "05.5": {
+    "5.5": {
       "title": "Capítulo 05.5 - Prólogo",
       "groups": {
         "Valkyriescan": [
@@ -268,7 +269,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Para você, que eu conheci naquele dia",
       "groups": {
         "Valkyriescan": [
@@ -303,7 +304,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Casal",
       "groups": {
         "Valkyriescan": [
@@ -339,7 +340,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Aves migratórias podem passar",
       "groups": {
         "Valkyriescan": [
@@ -380,7 +381,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A inveja da plebe",
       "groups": {
         "Valkyriescan": [
@@ -422,7 +423,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O jardim em miniatura das meninas",
       "groups": {
         "Valkyriescan": [
