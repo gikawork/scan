@@ -4,6 +4,7 @@
   "artist": "Iwami Kiyoko",
   "description": "Asahina se sente infeliz com seu atual relacionamento e posta tudo em uma segunda conta do Twitter, porém sua colega de classe, Fuuko, descobre e faz uma proposta diferenciada para Asahina… Irá ela aceitar?",
   "cover": "https://images2.imgbox.com/cc/e0/02iRWSKs_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "33": {
       "title": "Capítulo 33 - Proteção e diversão",
@@ -352,6 +353,32 @@
           "https://images2.imgbox.com/73/64/AwqWxMvw_o.png",
           "https://images2.imgbox.com/aa/b2/1pUtyu6m_o.jpg",
           "https://images2.imgbox.com/49/85/BSYSOQBp_o.jpg"
+        ]
+      }
+    },
+    "24": {
+      "title": "Capitulo 24 - Um coração anelante",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/00/8c/2qKV9Da0_o.jpg",
+          "https://images2.imgbox.com/46/b9/X9PKBxs3_o.jpg",
+          "https://images2.imgbox.com/ce/cb/LKp8dwnN_o.jpg",
+          "https://images2.imgbox.com/b0/32/PW2bYbjq_o.jpg",
+          "https://images2.imgbox.com/94/70/WraAnWt1_o.jpg",
+          "https://images2.imgbox.com/62/d3/qqBVdyn6_o.jpg",
+          "https://images2.imgbox.com/30/76/GefXVHaL_o.jpg",
+          "https://images2.imgbox.com/d3/f8/9r0Q38lY_o.jpg",
+          "https://images2.imgbox.com/d2/ba/VWydPFaz_o.jpg",
+          "https://images2.imgbox.com/80/e9/mh6sWHkK_o.jpg",
+          "https://images2.imgbox.com/c1/64/h6EiNk6j_o.jpg",
+          "https://images2.imgbox.com/97/d6/PLMPuzSZ_o.jpg",
+          "https://images2.imgbox.com/15/75/goZ7mHZZ_o.jpg",
+          "https://images2.imgbox.com/97/b3/NIGf2wDR_o.jpg",
+          "https://images2.imgbox.com/fe/7e/Ly1fXNAU_o.jpg",
+          "https://images2.imgbox.com/97/d5/iUmEOB0i_o.jpg",
+          "https://images2.imgbox.com/01/5b/xWpaX9XQ_o.jpg",
+          "https://images2.imgbox.com/a0/f3/yZfO7kw1_o.jpg",
+          "https://images2.imgbox.com/de/6d/0E9YUDYa_o.jpg"
         ]
       }
     },
@@ -941,7 +968,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Falsa Felicidade",
       "groups": {
         "Valkyriescan": [
@@ -981,7 +1008,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Deliquência",
       "groups": {
         "Valkyriescan": [
@@ -1013,7 +1040,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Relativo",
       "groups": {
         "Valkyriescan": [
@@ -1053,7 +1080,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Tremor",
       "groups": {
         "Valkyriescan": [
@@ -1093,7 +1120,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Culpa",
       "groups": {
         "Valkyriescan": [
@@ -1132,7 +1159,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Segredo",
       "groups": {
         "Valkyriescan": [
@@ -1156,7 +1183,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Descuidada",
       "groups": {
         "Valkyriescan": [
@@ -1197,7 +1224,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Carinho",
       "groups": {
         "Valkyriescan": [
@@ -1240,7 +1267,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Contato",
       "groups": {
         "Valkyriescan": [
@@ -1285,32 +1312,6 @@
           "https://images2.imgbox.com/97/45/Fz6bm15A_o.png",
           "https://images2.imgbox.com/de/87/uRwB101s_o.png",
           "https://images2.imgbox.com/8d/3f/v5gkrP5c_o.png"
-        ]
-      }
-    },
-    "Capitulo 24": {
-      "title": "Capitulo 24 - Um coração anelante",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/00/8c/2qKV9Da0_o.jpg",
-          "https://images2.imgbox.com/46/b9/X9PKBxs3_o.jpg",
-          "https://images2.imgbox.com/ce/cb/LKp8dwnN_o.jpg",
-          "https://images2.imgbox.com/b0/32/PW2bYbjq_o.jpg",
-          "https://images2.imgbox.com/94/70/WraAnWt1_o.jpg",
-          "https://images2.imgbox.com/62/d3/qqBVdyn6_o.jpg",
-          "https://images2.imgbox.com/30/76/GefXVHaL_o.jpg",
-          "https://images2.imgbox.com/d3/f8/9r0Q38lY_o.jpg",
-          "https://images2.imgbox.com/d2/ba/VWydPFaz_o.jpg",
-          "https://images2.imgbox.com/80/e9/mh6sWHkK_o.jpg",
-          "https://images2.imgbox.com/c1/64/h6EiNk6j_o.jpg",
-          "https://images2.imgbox.com/97/d6/PLMPuzSZ_o.jpg",
-          "https://images2.imgbox.com/15/75/goZ7mHZZ_o.jpg",
-          "https://images2.imgbox.com/97/b3/NIGf2wDR_o.jpg",
-          "https://images2.imgbox.com/fe/7e/Ly1fXNAU_o.jpg",
-          "https://images2.imgbox.com/97/d5/iUmEOB0i_o.jpg",
-          "https://images2.imgbox.com/01/5b/xWpaX9XQ_o.jpg",
-          "https://images2.imgbox.com/a0/f3/yZfO7kw1_o.jpg",
-          "https://images2.imgbox.com/de/6d/0E9YUDYa_o.jpg"
         ]
       }
     }
