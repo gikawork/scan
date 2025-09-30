@@ -4,6 +4,7 @@
   "artist": "Keyyan",
   "description": "Universidade, procura de emprego, depois perspectivas futuras. Tentar acompanhar o que tomamos como certo, “ter que fazer como todo mundo faz”, pode te desgastar. Que caminho você deve seguir quando começar a perder de vista o que é realmente importante para você? uma nova vida em uma ilha!",
   "cover": "https://images2.imgbox.com/23/20/9ruWy7Vy_o.jpg",
+  "status": "Completo",
   "chapters": {
     "16.5": {
       "title": "Capítulo 16.5 - Extras",
@@ -312,7 +313,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Intervalo ao amanhecer",
       "groups": {
         "Valkyriescan": [
@@ -348,7 +349,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - O caminho para casa numa noite silenciosa",
       "groups": {
         "Valkyriescan": [
@@ -380,7 +381,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Derretida na chuva de verão",
       "groups": {
         "Valkyriescan": [
@@ -416,7 +417,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Comaçendo um novo sonho",
       "groups": {
         "Valkyriescan": [
@@ -502,7 +503,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Nosso caminho iluminado pelo brilho do amanhecer",
       "groups": {
         "Valkyriescan": [
@@ -530,7 +531,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - A Doçura da brisa da noite",
       "groups": {
         "Valkyriescan": [
@@ -558,7 +559,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - De quem é a casa à beira-mar",
       "groups": {
         "Valkyriescan": [
@@ -595,7 +596,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Começando do Zero",
       "groups": {
         "Valkyriescan": [
@@ -634,7 +635,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Diga adeus à minha vida chata",
       "groups": {
         "Valkyriescan": [
