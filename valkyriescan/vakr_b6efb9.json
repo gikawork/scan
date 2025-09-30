@@ -4,8 +4,9 @@
   "artist": "Color_LES",
   "description": "Vulnerabilidade. Fortalecimento. Desejo. Essas histórias de amor não conhecem limites. Antalogia para celebrar o mês do orgulho em grande estilo com seus artistas favoritos: Color_Les com Hayley Kiyoko, Hannah Patten com Ava Max e Mai Hirschfeld com MAY-A. Apresentando histórias de amor LGBTQIAP+ originais inspiradas em suas canções “Forever”, “Sleepwalker” e “Something Familiar”.",
   "cover": "https://images2.imgbox.com/fe/44/xAZz62n4_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Sleepwalker",
       "groups": {
         "Valkyriescan": [
@@ -34,7 +35,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Forever",
       "groups": {
         "Valkyriescan": [
