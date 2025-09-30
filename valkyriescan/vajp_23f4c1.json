@@ -4,8 +4,9 @@
   "artist": "Amazaki Suika",
   "description": "Uma comédia romântica yuri que retrata o relacionamento temporário entre uma garota gyaru e uma aluna exemplar. A história começa quando Manatsu, uma garota gyaru que quase repetiu de ano, começa a receber aulas de Sumie, uma aluna exemplar. Embora Manatsu adore mangás shoujo e histórias de amor, ela sempre sentiu que “ter um namorado, de alguma forma, não era para ela”. Quando Manatsu menciona esse assunto, Sumie sugere: “Que tal namorar comigo por apenas 7 dias?”",
   "cover": "https://images2.imgbox.com/91/b3/qtabwODJ_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Chuva de Cigarras",
       "groups": {
         "Valkyriescan": [
@@ -40,7 +41,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - A Noite Anterior",
       "groups": {
         "Valkyriescan": [
@@ -78,7 +79,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Reflexo",
       "groups": {
         "Valkyriescan": [
@@ -113,7 +114,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Verdadeiras cores",
       "groups": {
         "Valkyriescan": [
@@ -149,7 +150,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Uma pequena paixão",
       "groups": {
         "Valkyriescan": [
@@ -182,7 +183,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
