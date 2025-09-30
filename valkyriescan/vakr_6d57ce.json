@@ -4,6 +4,7 @@
   "artist": "applesoda",
   "description": "Millie é uma garota perfeita que tem tudo na vida, mas, devido à sua mãe que não tem tempo para ela, acaba levando a vida sem se importar com nada neste mundo em particular. Até que ela conhece Zen, uma garota comum cuja vida se concentra apenas nos estudos. O que Zen não sabe é que está prestes a mexer com o coração de Millie, fazendo-o bater mais forte novamente!",
   "cover": "https://images2.imgbox.com/d7/24/AZI2AO4u_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "33": {
       "title": "Capítulo 33 - Novo Semestre",
@@ -809,7 +810,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Voz Não Alcançada",
       "groups": {
         "Valkyriescan": [
@@ -839,7 +840,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Confronto",
       "groups": {
         "Valkyriescan": [
@@ -864,7 +865,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Grande Amiga",
       "groups": {
         "Valkyriescan": [
@@ -888,7 +889,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Sequestro",
       "groups": {
         "Valkyriescan": [
@@ -904,7 +905,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Garota Má",
       "groups": {
         "Valkyriescan": [
@@ -937,7 +938,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Fim da Noite",
       "groups": {
         "Valkyriescan": [
@@ -970,7 +971,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Jogando até resolver",
       "groups": {
         "Valkyriescan": [
@@ -1003,7 +1004,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Reencontro",
       "groups": {
         "Valkyriescan": [
@@ -1036,7 +1037,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Coincidência",
       "groups": {
         "Valkyriescan": [
