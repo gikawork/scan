@@ -4,8 +4,9 @@
   "artist": "Murasakino",
   "description": "A história explora a mudança de relacionamento entre uma colega universitária que troca frequentemente de parceiros e uma discreta caloura que, apaixonada por ela, enfrenta a angústia de não ser vista como uma opção romântica.",
   "cover": "https://images2.imgbox.com/8b/f4/bCofvwGu_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -47,7 +48,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
