@@ -4,8 +4,9 @@
   "artist": "Kumoko",
   "description": "Midori é um pouco tímida e Sanae é curiosa e popular entre homens e mulheres.",
   "cover": "https://images2.imgbox.com/1a/c1/Vm1WkThf_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
