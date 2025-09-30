@@ -4,6 +4,7 @@
   "artist": "Shi Yi Er",
   "description": "Uma história sobre Lin Xiao, a jovem general da família Lin e Yue Yao, a médica que ela salvou do Lótus de Sangue. Enquanto isso, algo parece estar se mexendo sob a superfície do palácio enganosamente calmo…",
   "cover": "https://images2.imgbox.com/8d/36/ca2vwbpC_o.jpg",
+  "status": "Hiato",
   "chapters": {
     "10": {
       "title": "Capítulo 10 - Primeira neve",
@@ -33,7 +34,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - O retorno ao palácio",
       "groups": {
         "Valkyriescan": [
@@ -51,7 +52,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Um presente",
       "groups": {
         "Valkyriescan": [
@@ -69,7 +70,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Arte de Dia dos Namorados",
       "groups": {
         "Valkyriescan": [
@@ -80,7 +81,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Esculturas cristalizadas",
       "groups": {
         "Valkyriescan": [
@@ -93,7 +94,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Interrogação na noite",
       "groups": {
         "Valkyriescan": [
@@ -111,7 +112,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Primeiro Encontro (2)",
       "groups": {
         "Valkyriescan": [
@@ -130,7 +131,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Primeiro Encontro (1)",
       "groups": {
         "Valkyriescan": [
@@ -148,7 +149,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Banquete comemorativo",
       "groups": {
         "Valkyriescan": [
@@ -166,7 +167,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - A convidada da jovem general",
       "groups": {
         "Valkyriescan": [
