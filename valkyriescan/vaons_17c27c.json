@@ -4,8 +4,9 @@
   "artist": "Umehara Ume",
   "description": "Uma história sobre o encontro de Hibiya Saki, que se mudou de Tóquio para o interior devido a certas circunstâncias, e Miyako Ayako, uma garota cheia de energia e apaixonada por Tóquio.",
   "cover": "https://images2.imgbox.com/b1/a9/i2LAojbJ_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
