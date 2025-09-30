@@ -4,6 +4,7 @@
   "artist": "Sina",
   "description": "Amor e sobrevivência sob a areia.\nBaekgi acorda em um mundo envolto em areia após ser congelada criogenicamente. Ela se junta a Lança e Escudo, uma unidade encarregada de proteger o bunker, e começa a treinar com sua oficial sênior, Ibaek. Elas devem lutar para sobreviver neste novo mundo em meio a epidemias repentinas e ataques de monstros…",
   "cover": "https://images2.imgbox.com/55/16/Hhn9Mlrx_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "28": {
       "title": "Capítulo 28",
@@ -604,7 +605,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -620,7 +621,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -653,7 +654,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -686,7 +687,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -719,7 +720,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -752,7 +753,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -785,7 +786,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -818,7 +819,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -851,7 +852,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -884,7 +885,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
