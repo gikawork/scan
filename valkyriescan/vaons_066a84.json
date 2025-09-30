@@ -4,8 +4,9 @@
   "artist": "AKIYAMA Haru",
   "description": "Em uma certa tarde, duas amigas chegam a uma descoberta irritante, mas há muito esperada.",
   "cover": "https://images2.imgbox.com/4d/f5/0fa6qAux_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
