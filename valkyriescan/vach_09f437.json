@@ -4,8 +4,9 @@
   "artist": "Lily Club (橘姬社)",
   "description": "O novo imperador, Qi Nian, subiu ao trono há muitos anos. Ele continuava recusando os pedidos de seus oficiais para escolher uma consorte, sempre dizendo que “os assuntos do estado são importantes e estou ocupado com meu trabalho”. Mas Qi Nian finalmente cedeu quando os rumores de que “o imperador é impotente” começaram a se espalhar cada vez mais.",
   "cover": "https://images2.imgbox.com/44/64/hYKi9Gy4_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Reclinada sobre uma balaustrada pintada, ela permanece silenciosamente coquete",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Quem envia um pensamento na primavera?",
       "groups": {
         "Valkyriescan": [
@@ -66,7 +67,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - O sorriso deslumbrante dela brilha como uma lotús",
       "groups": {
         "Valkyriescan": [
@@ -99,7 +100,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Apoiada solitariamente em uma grade, seu humor em desordem",
       "groups": {
         "Valkyriescan": [
@@ -132,7 +133,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Eles lamentaram que as noites de primavera fossem muito curtas",
       "groups": {
         "Valkyriescan": [
@@ -161,7 +162,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Os pensamentos da primavera ficam instáveis à medida que o vinho se torna mais forte, o brocado e a elegância fazem a paixão e o amor augurar",
       "groups": {
         "Valkyriescan": [
@@ -190,7 +191,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Sinopses das personagens",
       "groups": {
         "Valkyriescan": [
