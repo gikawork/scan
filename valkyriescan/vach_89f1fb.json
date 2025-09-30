@@ -4,6 +4,7 @@
   "artist": "Qi Sansan",
   "description": "A história emocionante de duas meninas diferentes reunidas por um gato, enquanto aprendem uma sobre a outra, passam um tempo juntas e se curam.",
   "cover": "https://images2.imgbox.com/62/49/O1Pt5ZzD_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "62": {
       "title": "Capítulo 62 - Autolimitações (2)",
@@ -1432,7 +1433,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Cuidando",
       "groups": {
         "Valkyriescan": [
@@ -1446,7 +1447,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Primeiro dia (2)",
       "groups": {
         "Valkyriescan": [
@@ -1459,7 +1460,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Primeiro dia",
       "groups": {
         "Valkyriescan": [
@@ -1472,7 +1473,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Trio",
       "groups": {
         "Valkyriescan": [
@@ -1487,7 +1488,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Café da manhã (2)",
       "groups": {
         "Valkyriescan": [
@@ -1503,7 +1504,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Café da manhã (1)",
       "groups": {
         "Valkyriescan": [
@@ -1521,7 +1522,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Gato errante (3)",
       "groups": {
         "Valkyriescan": [
@@ -1534,7 +1535,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Gato errante (2)",
       "groups": {
         "Valkyriescan": [
@@ -1546,7 +1547,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Gato errante (1)",
       "groups": {
         "Valkyriescan": [
@@ -1558,7 +1559,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo",
       "groups": {
         "Valkyriescan": [
