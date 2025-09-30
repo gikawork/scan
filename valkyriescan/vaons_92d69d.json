@@ -4,8 +4,9 @@
   "artist": "Acchi Ai",
   "description": "Uma aluna transferida acaba de chegar na história para ser a quarta heroína desta comédia romântica, mas… será que é isso mesmo?",
   "cover": "https://images2.imgbox.com/ba/48/eG8gaYwN_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
