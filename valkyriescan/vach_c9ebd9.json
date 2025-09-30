@@ -4,8 +4,9 @@
   "artist": "Jinshu",
   "description": "Na Inquisição religiosa da caça às bruxas na Idade Média, a líder de uma divisão, conhecida por massacrar monstros, foi encarregada de cuidar de uma vampira — um objeto de experimento e que também, por acaso, era a assassina de seu pai.",
   "cover": "https://images2.imgbox.com/91/d5/X3Z8VYTj_o.png",
+  "status": "Em lançamento",
   "chapters": {
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Os primeiros fogos",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - A resposta é você",
       "groups": {
         "Valkyriescan": [
@@ -66,7 +67,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Venha comigo",
       "groups": {
         "Valkyriescan": [
@@ -101,7 +102,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Monstro",
       "groups": {
         "Valkyriescan": [
@@ -139,7 +140,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Fé abalada",
       "groups": {
         "Valkyriescan": [
@@ -177,7 +178,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Atitudes necessárias",
       "groups": {
         "Valkyriescan": [
@@ -205,7 +206,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Divergências",
       "groups": {
         "Valkyriescan": [
@@ -231,7 +232,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Mate a Bruxa",
       "groups": {
         "Valkyriescan": [
@@ -260,7 +261,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prévia",
       "groups": {
         "Valkyriescan": [
