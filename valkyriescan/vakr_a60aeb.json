@@ -4,8 +4,9 @@
   "artist": "axdevila",
   "description": "“Nunca navegue pelo mar quando seu coração carrega o peso da tristeza.”Jaena, sobrecarregada pela dor de um término recente, se depara com um encontro místico que muda sua vida para sempre. Quando o mar profundo ameaça engoli-la por completo, uma figura encantadora emerge das profundezas — seguida por um beijo que acende um laço entre dois mundos: o de uma humana e o de uma sereia irritantemente sedutora e provocadora.",
   "cover": "https://images2.imgbox.com/d4/58/eoVQGWPE_o.png",
+  "status": "Em lançamento",
   "chapters": {
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -137,7 +138,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
