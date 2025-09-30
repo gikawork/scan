@@ -4,8 +4,9 @@
   "artist": "Orikuchi Hirata",
   "description": "Uma tutora geek e uma aluna adolescente que vão em um encontro… Esta é a história de uma professora que promete um encontro a sua aluna, caso ela consiga nota máxima nos exames.",
   "cover": "https://images2.imgbox.com/eb/98/RwP9JPkE_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
