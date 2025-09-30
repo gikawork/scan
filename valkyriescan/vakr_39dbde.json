@@ -4,8 +4,9 @@
   "artist": "Treasure",
   "description": "Eeden achava que tinha perdido a sua chance na vida: sua carreira artística era um desastre, sua senhoria a despejou e, pior de tudo, ela nunca teve uma namorada! Mas a vida dá uma reviravolta quando um encontro casual com um antigo amor a envia de volta no tempo. Agora com 18 anos novamente, começando a faculdade, ela tem a chance de fazer tudo certo. Armada com um plano e uma paixão, Eeden sabe exatamente como criar a vida cheia de alegria que merece: ousada, bonita e, acima de tudo, gay!",
   "cover": "https://images2.imgbox.com/e3/30/Q7scKWqa_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -132,7 +133,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -160,7 +161,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -188,7 +189,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -216,7 +217,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -249,7 +250,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
