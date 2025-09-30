@@ -4,8 +4,9 @@
   "artist": "Mikan",
   "description": "Doujinshi de Riko x Chika (Love Live! Sunshine)",
   "cover": "https://images2.imgbox.com/e3/54/8ySmAanr_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
