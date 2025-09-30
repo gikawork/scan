@@ -4,8 +4,9 @@
   "artist": "Shihho",
   "description": "É possível recuperar o que você deixou para trás? Ou você está destinado a seguir em frente sozinho? Josefa retorna à sua cidade natal depois de muitos anos e, assim que chega, é recebida pelo fantasma de um amor que ela pensava já ter esquecido.\nApoie os autores. Inscreva-se e avalie o projeto.",
   "cover": "https://images2.imgbox.com/a8/79/l636ZPlF_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Não Posso",
       "groups": {
         "Valkyriescan": [
@@ -33,7 +34,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Venha Comigo",
       "groups": {
         "Valkyriescan": [
@@ -61,7 +62,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - O Plano",
       "groups": {
         "Valkyriescan": [
@@ -89,7 +90,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Comigo",
       "groups": {
         "Valkyriescan": [
@@ -117,7 +118,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Bem-vinda de volta",
       "groups": {
         "Valkyriescan": [
