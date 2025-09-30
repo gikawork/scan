@@ -4,8 +4,9 @@
   "artist": "Yudepan",
   "description": "Uma história sobre o cotidiano de duas mulheres que trabalham juntas no escritório, uma funcionária novata muito enérgica e sua senpai legal, e toda a dinâmica entre elas.",
   "cover": "https://images2.imgbox.com/83/51/ODolZ22G_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
