@@ -4,8 +4,9 @@
   "artist": "Kumo Suzume",
   "description": "Roupas, escola, amigos… tudo era arranjado pelos pais dela, como se ela fosse uma boneca de manequim.\nFoi uma costureira que a ajudou a encontrar sua verdadeira identidade.\nOs vestidos na loja, que fica em silêncio em um beco escondido em algum lugar da cidade, brilhavam como um farol para ela.",
   "cover": "https://images2.imgbox.com/ad/f4/rdvmal1l_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -41,7 +42,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -67,7 +68,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -95,7 +96,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -129,7 +130,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -165,7 +166,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
