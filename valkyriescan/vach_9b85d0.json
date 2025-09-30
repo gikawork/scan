@@ -4,6 +4,7 @@
   "artist": "Viva",
   "description": "Desistindo de seu emprego de primeira para viver sozinha na ilha, a escritora Elly encontra a sua colega de escola mais nova, Rhea, e assim sua história começa…\nAcompanhe como a jovem intrigante corteja sua amada dos sonhos!",
   "cover": "https://images2.imgbox.com/c3/9c/gbmM9uHx_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "226": {
       "title": "Capítulo 226",
@@ -3404,7 +3405,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -3421,7 +3422,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -3438,7 +3439,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -3454,7 +3455,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -3471,7 +3472,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -3487,7 +3488,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -3505,7 +3506,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -3521,7 +3522,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -3537,7 +3538,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -3554,7 +3555,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
