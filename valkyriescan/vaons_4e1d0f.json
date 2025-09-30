@@ -4,8 +4,9 @@
   "artist": "Hakomaru",
   "description": "Doujinshi de Fate/Grand Order (Jeanne Darc x Jeanne Alter)",
   "cover": "https://images2.imgbox.com/da/8f/m7MHZJOZ_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
