@@ -4,8 +4,9 @@
   "artist": "Ke Ran Bing (可燃冰)",
   "description": "Esta é a história de duas garotas completamente diferentes desde o momento em que se conheceram até se apaixonarem. Uma para a outra são como o vento quente do verão, trazendo o pulsar da juventude e a coragem de enfrentar tudo no final. Talvez depois de muitos anos, quando estiverem de mãos dadas e o vento soprar, eles se olharão e lembrarão que naquele ano e aquele verão é para sempre.",
   "cover": "https://images2.imgbox.com/6b/da/jviS7Fws_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
