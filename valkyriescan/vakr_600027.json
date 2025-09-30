@@ -4,8 +4,9 @@
   "artist": "BBTan",
   "description": "Mas a sua meia-irmã, Goo Yi-Seo, acha que sua irmã mais nova é somente uma idiota e alguém irritante…",
   "cover": "https://images2.imgbox.com/38/61/C7za1oUK_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -44,7 +45,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -82,7 +83,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -123,7 +124,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -162,7 +163,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
