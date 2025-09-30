@@ -4,8 +4,9 @@
   "artist": "betock",
   "description": "Rika confessa para Yukine na formatura.",
   "cover": "https://images2.imgbox.com/8d/12/ErYqlLBb_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
