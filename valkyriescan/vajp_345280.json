@@ -4,8 +4,9 @@
   "artist": "TAMASAKI Tama",
   "description": "Um dia, a funcionária de meio-período Tamura Nana foi invocada de seu quarto para outro mundo, onde, de repente, as pessoas daquele lugar pediram que ela se tornasse uma santa e salvasse o reino. No entanto, embora tivesse sido chamada para ser a santa, Nana logo descobriu que não tinha nenhum poder mágico. E, para piorar, acabou sendo escolhida como parceira de uma princesa que não consegue usar magia…",
   "cover": "https://images2.imgbox.com/69/c4/FY1xl9U4_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Início da purificação",
       "groups": {
         "Valkyriescan": [
@@ -47,7 +48,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Rumo a Kologne",
       "groups": {
         "Valkyriescan": [
@@ -91,7 +92,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Voto",
       "groups": {
         "Valkyriescan": [
@@ -133,7 +134,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - A crise da Miko",
       "groups": {
         "Valkyriescan": [
@@ -170,7 +171,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Uma grave deficiência",
       "groups": {
         "Valkyriescan": [
@@ -205,7 +206,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Tamura Nana",
       "groups": {
         "Valkyriescan": [
