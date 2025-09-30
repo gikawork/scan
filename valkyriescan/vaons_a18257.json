@@ -4,8 +4,9 @@
   "artist": "Nimu",
   "description": "O mundo acabou, então que seja para estar com você para sempre.",
   "cover": "https://images2.imgbox.com/26/57/6DFOGJya_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
