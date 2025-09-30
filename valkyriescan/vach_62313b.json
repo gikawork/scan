@@ -4,6 +4,7 @@
   "artist": "CleverCool",
   "description": "Nuo En é uma jovem que sonha em entrar no mundo da moda. Com a ajuda de um amigo, ela invade um grande evento, mas no caminho, ela se encontra com uma das grandes personalidades do ramo. Deste encontro, além de uma “parceria”, algo mais entre elas pode surgir.",
   "cover": "https://images2.imgbox.com/a8/f7/UXfWHbM1_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "72": {
       "title": "Capítulo 72 - Encontro Inesperado",
@@ -1634,7 +1635,7 @@
         ]
       }
     },
-    "09.5": {
+    "9.5": {
       "title": "Capítulo 09.5 - A luz na escuridão",
       "groups": {
         "Valkyriescan": [
@@ -1667,7 +1668,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Aquela que me ajudou",
       "groups": {
         "Valkyriescan": [
@@ -1698,7 +1699,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Coabitação com apoio mútuo",
       "groups": {
         "Valkyriescan": [
@@ -1732,7 +1733,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Especial",
       "groups": {
         "Valkyriescan": [
@@ -1745,7 +1746,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A casa dela",
       "groups": {
         "Valkyriescan": [
@@ -1771,7 +1772,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Uma série de boa e má sorte, caindo em um lugar como uma montanha-russa",
       "groups": {
         "Valkyriescan": [
@@ -1800,7 +1801,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - A arma secreta para a competição",
       "groups": {
         "Valkyriescan": [
@@ -1809,7 +1810,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Olho por olho",
       "groups": {
         "Valkyriescan": [
@@ -1835,7 +1836,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A existência de uma pessoa perfeita como ela",
       "groups": {
         "Valkyriescan": [
@@ -1860,7 +1861,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -1882,7 +1883,7 @@
         ]
       }
     },
-    "00.1": {
+    "0.1": {
       "title": "Capítulo 00.1 - Prólogo (2)",
       "groups": {
         "Valkyriescan": [
@@ -1900,7 +1901,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo (1)",
       "groups": {
         "Valkyriescan": [
