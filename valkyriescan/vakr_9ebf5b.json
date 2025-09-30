@@ -4,6 +4,7 @@
   "artist": "Mashersan",
   "description": "A história se passa em um mundo futurístico. A detetive Celia Mine está trabalhando em um estranho caso de assassinatos, e no processo esbarra acidentalmente em uma nova amiga…",
   "cover": "https://images2.imgbox.com/1d/cb/4DswvJIm_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "191": {
       "title": "Capítulo 191 - Sim, chefe",
@@ -3332,7 +3333,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - O que acontece no trem, fica no trem (3)",
       "groups": {
         "Valkyriescan": [
@@ -3348,7 +3349,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - O que acontece no trem, fica no trem (3)",
       "groups": {
         "Valkyriescan": [
@@ -3367,7 +3368,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - O que acontece no trem, fica no trem (2)",
       "groups": {
         "Valkyriescan": [
@@ -3388,7 +3389,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - O que acontece no trem, fica no trem (1)",
       "groups": {
         "Valkyriescan": [
@@ -3407,7 +3408,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Tarde",
       "groups": {
         "Valkyriescan": [
@@ -3432,7 +3433,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Hora da Selfie!",
       "groups": {
         "Valkyriescan": [
@@ -3443,7 +3444,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Quer mudar de canal!",
       "groups": {
         "Valkyriescan": [
@@ -3454,7 +3455,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Manhã",
       "groups": {
         "Valkyriescan": [
@@ -3482,7 +3483,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Jogo de cartas",
       "groups": {
         "Valkyriescan": [
