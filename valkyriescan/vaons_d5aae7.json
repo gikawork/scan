@@ -4,8 +4,9 @@
   "artist": "Mochi Au Lait",
   "description": "Uma história sobre uma garota que, devido a uma série de eventos infelizes, tem que ficar “ao natural”… e o que acontece quando a garota que ela intimida descobre.",
   "cover": "https://images2.imgbox.com/61/24/nKbmZoEK_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
