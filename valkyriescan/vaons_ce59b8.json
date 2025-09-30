@@ -4,8 +4,9 @@
   "artist": "Hino Arashi",
   "description": "Em seu primeiro fim de semana juntas como casal, elas resolvem assistir um filme. Surge um conflito sobre qual filme escolher.",
   "cover": "https://images2.imgbox.com/08/37/lbGIcnk7_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
