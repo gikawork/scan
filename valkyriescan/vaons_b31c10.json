@@ -4,8 +4,9 @@
   "artist": "Senyuu",
   "description": "Doujinshi de Sayo x Lisa (Bandori! / Bang Dream!)",
   "cover": "https://images2.imgbox.com/dc/69/UPHv77HS_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
