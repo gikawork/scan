@@ -4,6 +4,7 @@
   "artist": "Sugawara Koyubi",
   "description": "Manaka Sakiko é uma grande fã de Chihiro, uma idol do grupo Haruiro Sunshine e em seu primeiro dia de colégio ela descobre que a nova garota sentada ao seu lado é ninguém menos que a própria Chihiro. Ninguém mais reconhece Chihiro, então Sakiko resolve manter seu conhecimento em segredo. Mas quando ela acidentalmente escorrega e revela que é uma fã, ela involuntariamente se torna inimiga de outra devota de Chihiro, alguém que não gosta de compartilhar.",
   "cover": "https://images2.imgbox.com/70/ac/OHrzxgPZ_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "23": {
       "title": "Capítulo 23 - Bem-vinda ao clube",
@@ -374,7 +375,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Repercursões",
       "groups": {
         "Valkyriescan": [
@@ -396,7 +397,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Extras Volume 1",
       "groups": {
         "Valkyriescan": [
@@ -410,7 +411,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Você Será Minha Companheira de Show",
       "groups": {
         "Valkyriescan": [
@@ -419,7 +420,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Pistas Enigmáticas da Conta Oficial",
       "groups": {
         "Valkyriescan": [
@@ -445,7 +446,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Estréia do Clube Escolar",
       "groups": {
         "Valkyriescan": [
@@ -473,7 +474,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - A fã possessiva obsessiva",
       "groups": {
         "Valkyriescan": [
@@ -503,7 +504,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Contato inevitável",
       "groups": {
         "Valkyriescan": [
@@ -531,7 +532,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Eu não quero ser um fardo para ela",
       "groups": {
         "Valkyriescan": [
@@ -563,7 +564,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O melhor assento da primeira fila",
       "groups": {
         "Valkyriescan": [
