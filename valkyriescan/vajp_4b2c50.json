@@ -4,6 +4,7 @@
   "artist": "Sumiko Arai",
   "description": "Aya, uma estudante do ensino médio, não consegue evitar ficar curiosa sobre um misterioso “rapaz” que trabalha em uma loja de CDs. No entanto, a verdadeira identidade de “Onii-san” é Mitsuki, uma garota discreta de sua classe com quem ela nunca falou.\nA tão esperada versão serializada da história que chamou a atenção no Twitter.",
   "cover": "https://images2.imgbox.com/f3/4a/8FCIdDsV_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "75": {
       "title": "Capítulo 75 - Koga-san e Onii-san",
@@ -938,7 +939,7 @@
         ]
       }
     },
-    "09.1": {
+    "9.1": {
       "title": "Capítulo 09.1 - Bios das personagens",
       "groups": {
         "Valkyriescan": [
@@ -948,7 +949,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Ela não tem amigos, mas se sentia feliz mesmo assim",
       "groups": {
         "Valkyriescan": [
@@ -960,7 +961,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - O tipo de garota que foge quando está em pânico",
       "groups": {
         "Valkyriescan": [
@@ -972,7 +973,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - A ligação com sua crush (que é uma garota) não está indo bem",
       "groups": {
         "Valkyriescan": [
@@ -984,7 +985,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Uma garota preocupada porque está sendo flertada por outra garota",
       "groups": {
         "Valkyriescan": [
@@ -996,7 +997,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Sua sobrinha está sendo cantada por uma estudante",
       "groups": {
         "Valkyriescan": [
@@ -1008,7 +1009,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - A Gyaru que ainda não percebeu que a pessoa por quem está interessada é uma garota",
       "groups": {
         "Valkyriescan": [
@@ -1020,7 +1021,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Ela fez uma investida em uma garota de sua classe por impulso",
       "groups": {
         "Valkyriescan": [
@@ -1032,7 +1033,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - O cara em que ela estava interessada não era um cara - Parte 2",
       "groups": {
         "Valkyriescan": [
@@ -1044,7 +1045,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O cara em que ela estava interessada não era um cara - Parte 1",
       "groups": {
         "Valkyriescan": [
@@ -1056,7 +1057,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Ritmo A",
       "groups": {
         "Valkyriescan": [
