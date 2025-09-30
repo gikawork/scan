@@ -4,8 +4,9 @@
   "artist": "FLOWERCHILD",
   "description": "Misa é uma garota de cabaré que frequenta um bar lésbico usado para encontros de uma noite. Ela conhece uma garota tímida chamada “Ai” uma noite e se sente atraída por ela, descobrindo mais tarde que ela é, na verdade, uma famosa atriz…",
   "cover": "https://images2.imgbox.com/05/28/FdOGqUCT_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Você pensa que pode me dar ordens assim?",
       "groups": {
         "Valkyriescan": [
@@ -37,7 +38,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - M",
       "groups": {
         "Valkyriescan": [
@@ -73,7 +74,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Gostei muito",
       "groups": {
         "Valkyriescan": [
@@ -113,7 +114,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Incógnita",
       "groups": {
         "Valkyriescan": [
