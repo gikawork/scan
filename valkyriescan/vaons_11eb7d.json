@@ -4,8 +4,9 @@
   "artist": "Sumisaki Yuzuna",
   "description": "Misumi e Asuka são amigas de infância. Asuka é sempre amigável e sensível com todos que conhece. Misumi tem sentimentos confusos sobre isso…",
   "cover": "https://images2.imgbox.com/1d/ea/ybcaW47U_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
