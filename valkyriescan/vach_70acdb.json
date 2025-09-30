@@ -4,6 +4,7 @@
   "artist": "Yaua",
   "description": "Jiang Shishi, uma zumbi que vive silenciosamente no mundo humano, foi forçada a viver com a estranha examinadora, Christine, uma linda vampira. Pra completar, Shishi descobriu que Christine tinha uma filha humana, Lori. Que família estranha…",
   "cover": "https://images2.imgbox.com/c2/f5/cjOCJu1u_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "32": {
       "title": "Capítulo 32 - Posso te Acalmar Primeiro",
@@ -780,7 +781,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Mamãe já vai chegar",
       "groups": {
         "Valkyriescan": [
@@ -808,7 +809,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Bem, é uma ótima candidata",
       "groups": {
         "Valkyriescan": [
@@ -836,7 +837,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Sem culpa, mas que derrota!",
       "groups": {
         "Valkyriescan": [
@@ -864,7 +865,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Não!!",
       "groups": {
         "Valkyriescan": [
@@ -892,7 +893,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Esta é a avaliação",
       "groups": {
         "Valkyriescan": [
@@ -910,7 +911,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Deve ter sido doloroso",
       "groups": {
         "Valkyriescan": [
@@ -928,7 +929,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Uma vampira",
       "groups": {
         "Valkyriescan": [
@@ -946,7 +947,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Cadê o Inspetor",
       "groups": {
         "Valkyriescan": [
@@ -974,7 +975,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Tão tolerante quanto a natureza",
       "groups": {
         "Valkyriescan": [
