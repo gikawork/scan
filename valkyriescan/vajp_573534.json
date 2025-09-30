@@ -4,6 +4,7 @@
   "artist": "Rey",
   "description": "Na Academia Feminina Saint Ruri, existem duas facções opostas: a “Classe Ruri”, composta por jovens refinadas e bem-educadas, e a “Classe Ai”, formada por delinquentes de comportamento problemático. Nanase Mitsuki, entre as alunas da Classe Ai, é a mais temida pela Classe Ruri devido à sua aparência intimidadora, embora Mitsuki tenha um complexo com relação à sua aparência. Uma noite, ela encontra Hosho Yuka, uma jovem dama vagando sozinha…",
   "cover": "https://files.catbox.moe/bgcia5.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "18": {
       "title": "Capítulo 18",
@@ -272,7 +273,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -297,7 +298,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -322,7 +323,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -348,7 +349,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -379,7 +380,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -406,7 +407,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -435,7 +436,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -466,7 +467,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -507,7 +508,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
