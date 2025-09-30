@@ -4,8 +4,9 @@
   "artist": "Negom",
   "description": "Keqing decidiu fazer hora extra no trabalho com Ganyu.",
   "cover": "https://images2.imgbox.com/a2/ee/S2cct15s_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
