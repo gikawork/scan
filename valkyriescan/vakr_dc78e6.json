@@ -4,6 +4,7 @@
   "artist": "GoRi",
   "description": "Há uma lenda que diz: Muito tempo atrás, existiu um reino marinho onde sereias viviam, chamado “Nalanda”.\nPara provar essa história, o “Instituto Histórico Nalanda” faz pesquisas e é onde “YeonJi” entra como estagiária.\nYeonJi, desde jovem, tem sonhos com uma sereia e ao entrar no instituto, conhece a líder de equipe “HaeRang”, que é extremamente parecida com a sereia dos seus sonhos.\nEla tenta o seu melhor para se dar bem com HaeRang, mas a líder de equipe só a trata friamente…\nO segredo de suas vidas passadas, que ficou nas profundezas do mar, é desvendado juntamente com o reino de Nalanda!",
   "cover": "https://images2.imgbox.com/ff/55/8CfyV4wF_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "48": {
       "title": "Capítulo 48 - Epílogo",
@@ -1034,7 +1035,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -1062,7 +1063,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -1090,7 +1091,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -1118,7 +1119,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -1146,7 +1147,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -1174,7 +1175,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -1202,7 +1203,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -1230,7 +1231,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -1258,63 +1259,7 @@
         ]
       }
     },
-    "Extra 03": {
-      "title": "Extra 03",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/54/7b/fYcPW9yd_o.jpg",
-          "https://images2.imgbox.com/14/ff/jozRoFpq_o.jpg",
-          "https://images2.imgbox.com/e5/b0/ZbQ3GLBe_o.jpg",
-          "https://images2.imgbox.com/86/a3/zfKKGmMe_o.jpg",
-          "https://images2.imgbox.com/37/55/l8QO4LAi_o.jpg",
-          "https://images2.imgbox.com/ae/96/dJk1MCgy_o.jpg",
-          "https://images2.imgbox.com/56/a9/6IabnzBU_o.jpg",
-          "https://images2.imgbox.com/8a/8d/dIo6AaNe_o.jpg",
-          "https://images2.imgbox.com/81/51/eZpyzpCa_o.jpg",
-          "https://images2.imgbox.com/37/f0/PGmygqTt_o.jpg",
-          "https://images2.imgbox.com/88/0d/UUQ8K7rS_o.jpg",
-          "https://images2.imgbox.com/89/28/XUT7SsFI_o.jpg",
-          "https://images2.imgbox.com/9d/7c/AkAlvwKV_o.jpg",
-          "https://images2.imgbox.com/02/2f/TSiFwZbv_o.jpg",
-          "https://images2.imgbox.com/44/b6/CKKJjOHe_o.jpg",
-          "https://images2.imgbox.com/0c/0e/6odJCclB_o.jpg",
-          "https://images2.imgbox.com/4a/27/noDGUMlC_o.jpg",
-          "https://images2.imgbox.com/60/9a/ayivf7xs_o.jpg",
-          "https://images2.imgbox.com/96/8b/HkaRRAmx_o.jpg",
-          "https://images2.imgbox.com/d8/71/MaxczQf8_o.jpg",
-          "https://images2.imgbox.com/8b/64/39Q28Vk6_o.jpg"
-        ]
-      }
-    },
-    "Extra 02": {
-      "title": "Extra 02",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/03/fb/oiHg0BBC_o.jpg",
-          "https://images2.imgbox.com/61/33/8zX9QEiE_o.jpg",
-          "https://images2.imgbox.com/73/9d/WS6kXyOC_o.jpg",
-          "https://images2.imgbox.com/45/6f/ukb1dEAD_o.jpg",
-          "https://images2.imgbox.com/a4/a9/j07QpFw7_o.jpg",
-          "https://images2.imgbox.com/9b/67/ZPt40Xi7_o.jpg",
-          "https://images2.imgbox.com/70/1d/GQTPBGB6_o.jpg",
-          "https://images2.imgbox.com/56/92/Irx916yA_o.jpg",
-          "https://images2.imgbox.com/c5/fd/L79dwbgw_o.jpg",
-          "https://images2.imgbox.com/27/27/D0ZCDKBl_o.jpg",
-          "https://images2.imgbox.com/6e/86/E4RdpNxN_o.jpg",
-          "https://images2.imgbox.com/98/8c/3mJGlA28_o.jpg",
-          "https://images2.imgbox.com/25/55/gwrNLSGk_o.jpg",
-          "https://images2.imgbox.com/bf/27/NEnGjou8_o.jpg",
-          "https://images2.imgbox.com/ed/fb/JR1eeLj4_o.jpg",
-          "https://images2.imgbox.com/25/39/hC75l6U9_o.jpg",
-          "https://images2.imgbox.com/07/69/yigkXwCl_o.jpg",
-          "https://images2.imgbox.com/e6/31/sIV6xbgM_o.jpg",
-          "https://images2.imgbox.com/11/51/DSBLFlPf_o.jpg",
-          "https://images2.imgbox.com/3b/df/j8LIz3pN_o.jpg",
-          "https://images2.imgbox.com/3a/a7/nvExmC35_o.jpg"
-        ]
-      }
-    },
-    "Extra 01": {
+    "1": {
       "title": "Extra 01",
       "groups": {
         "Valkyriescan": [
@@ -1339,34 +1284,6 @@
           "https://images2.imgbox.com/55/2f/cCsPmWp3_o.jpg",
           "https://images2.imgbox.com/ee/1c/4q9LM8ag_o.jpg",
           "https://images2.imgbox.com/62/a4/ENcpiuxS_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 01": {
-      "title": "Capitulo 01",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/f7/c5/t9D573tQ_o.jpg",
-          "https://images2.imgbox.com/67/e9/BXvZtwpD_o.jpg",
-          "https://images2.imgbox.com/7e/9a/KSwPYpcq_o.jpg",
-          "https://images2.imgbox.com/7c/54/7HRTdQ03_o.jpg",
-          "https://images2.imgbox.com/b4/d6/SAoSfDrO_o.jpg",
-          "https://images2.imgbox.com/ed/96/Ix09q5oo_o.jpg",
-          "https://images2.imgbox.com/ae/81/NpYW2CGf_o.jpg",
-          "https://images2.imgbox.com/4b/65/A9jEmQWG_o.jpg",
-          "https://images2.imgbox.com/d0/6e/J3ecDPDt_o.jpg",
-          "https://images2.imgbox.com/de/7c/Yvv1UfO1_o.jpg",
-          "https://images2.imgbox.com/c2/a2/cpzPgTls_o.jpg",
-          "https://images2.imgbox.com/9c/64/oXKM6tEr_o.jpg",
-          "https://images2.imgbox.com/92/b6/7YG4Ubd4_o.jpg",
-          "https://images2.imgbox.com/14/1b/U5r6OcXr_o.jpg",
-          "https://images2.imgbox.com/72/20/BPT73NHj_o.jpg",
-          "https://images2.imgbox.com/b0/7b/rX2iCcIm_o.jpg",
-          "https://images2.imgbox.com/bd/e8/rmTILDVW_o.jpg",
-          "https://images2.imgbox.com/fd/62/zYin5kam_o.jpg",
-          "https://images2.imgbox.com/27/28/WCviHGWC_o.jpg",
-          "https://images2.imgbox.com/43/ad/CpmhYzFn_o.jpg",
-          "https://images2.imgbox.com/c5/76/7cSKjBYB_o.jpg"
         ]
       }
     }
