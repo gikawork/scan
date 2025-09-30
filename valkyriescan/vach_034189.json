@@ -4,6 +4,7 @@
   "artist": "占",
   "description": "Quando a tímida Wu You se transfere para uma nova escola, ela rapidamente se apega à sua nova colega de carteira, a extrovertida Ye Yin.",
   "cover": "https://images2.imgbox.com/3f/54/CSgN2m8q_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "14": {
       "title": "Capítulo 14",
@@ -91,7 +92,7 @@
         ]
       }
     },
-    "09.5": {
+    "9.5": {
       "title": "Capítulo 09.5",
       "groups": {
         "Valkyriescan": [
@@ -100,7 +101,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09",
       "groups": {
         "Valkyriescan": [
@@ -115,7 +116,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -127,7 +128,7 @@
         ]
       }
     },
-    "07.5": {
+    "7.5": {
       "title": "Capítulo 07.5",
       "groups": {
         "Valkyriescan": [
@@ -136,7 +137,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -148,7 +149,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -158,7 +159,7 @@
         ]
       }
     },
-    "05.5": {
+    "5.5": {
       "title": "Capítulo 05.5",
       "groups": {
         "Valkyriescan": [
@@ -167,7 +168,20 @@
         ]
       }
     },
-    "04": {
+    "5": {
+      "title": "Capitulo 05",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/3b/46/fki7MWTh_o.jpg",
+          "https://images2.imgbox.com/58/fd/HqITzEiN_o.jpg",
+          "https://images2.imgbox.com/dd/1e/dDr1bLkP_o.jpg",
+          "https://images2.imgbox.com/56/0f/opYuOOBq_o.jpg",
+          "https://images2.imgbox.com/47/aa/lwvkQDbv_o.jpg",
+          "https://images2.imgbox.com/0a/eb/GMw5qvZ1_o.jpg"
+        ]
+      }
+    },
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -180,7 +194,7 @@
         ]
       }
     },
-    "03.5": {
+    "3.5": {
       "title": "Capítulo 03.5",
       "groups": {
         "Valkyriescan": [
@@ -189,7 +203,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -204,7 +218,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -218,7 +232,7 @@
         ]
       }
     },
-    "01.5": {
+    "1.5": {
       "title": "Capítulo 01.5",
       "groups": {
         "Valkyriescan": [
@@ -228,7 +242,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -237,19 +251,6 @@
           "https://images2.imgbox.com/d9/bb/BsESx4Gr_o.jpg",
           "https://images2.imgbox.com/77/63/CpWw2bo1_o.jpg",
           "https://images2.imgbox.com/b0/3e/k5Bi8qoy_o.jpg"
-        ]
-      }
-    },
-    "Capitulo 05": {
-      "title": "Capitulo 05",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/3b/46/fki7MWTh_o.jpg",
-          "https://images2.imgbox.com/58/fd/HqITzEiN_o.jpg",
-          "https://images2.imgbox.com/dd/1e/dDr1bLkP_o.jpg",
-          "https://images2.imgbox.com/56/0f/opYuOOBq_o.jpg",
-          "https://images2.imgbox.com/47/aa/lwvkQDbv_o.jpg",
-          "https://images2.imgbox.com/0a/eb/GMw5qvZ1_o.jpg"
         ]
       }
     }
