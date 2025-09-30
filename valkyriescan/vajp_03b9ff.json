@@ -4,8 +4,9 @@
   "artist": "Ahiru",
   "description": "Esta é uma antologia cheia de histórias temáticas de yuri de recém-casadas.",
   "cover": "https://images2.imgbox.com/b7/b4/xswykEYe_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Casamento divórcio após experimentar vestidos (Hazuki Ruri)",
       "groups": {
         "Valkyriescan": [
@@ -30,7 +31,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Então, as duas a partir de agora (Kiriyama Haruka)",
       "groups": {
         "Valkyriescan": [
@@ -58,7 +59,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - O casamento da Raposa (Tsuzura Ryo)",
       "groups": {
         "Valkyriescan": [
@@ -94,7 +95,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Cinderella casamenteira (Ahiru)",
       "groups": {
         "Valkyriescan": [
@@ -119,7 +120,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Um Cristal Suavizante (Inui Ayu)",
       "groups": {
         "Valkyriescan": [
@@ -151,7 +152,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - A razão pela qual minha namorada é fofa (Miura Kozumi)",
       "groups": {
         "Valkyriescan": [
@@ -177,7 +178,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Minha esposa é muito preciosa (Hisakawa Haru)",
       "groups": {
         "Valkyriescan": [
