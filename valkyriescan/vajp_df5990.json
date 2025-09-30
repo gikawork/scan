@@ -4,8 +4,9 @@
   "artist": "Sal Jiang",
   "description": "Sada é uma bruxa dos tempos modernos que está cansada de viver quietamente nas profundezas das montanhas. Na verdade, ela quer mais atenção! Por que as bruxas não podem ser conhecidas pelos humanos?!",
   "cover": "https://images2.imgbox.com/18/bd/Upfy9dxt_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "08": {
+    "8": {
       "title": "Capítulo 08",
       "groups": {
         "Valkyriescan": [
@@ -39,7 +40,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07",
       "groups": {
         "Valkyriescan": [
@@ -64,7 +65,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06",
       "groups": {
         "Valkyriescan": [
@@ -91,7 +92,7 @@
         ]
       }
     },
-    "05.1": {
+    "5.1": {
       "title": "Capítulo 05.1",
       "groups": {
         "Valkyriescan": [
@@ -102,7 +103,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05",
       "groups": {
         "Valkyriescan": [
@@ -140,7 +141,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04",
       "groups": {
         "Valkyriescan": [
@@ -168,7 +169,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -200,7 +201,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -248,7 +249,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
