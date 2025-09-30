@@ -4,6 +4,7 @@
   "artist": "WallabyBlues",
   "description": "Atenção: Este projeto é o Demon to God. A autora está refazendo a comic.",
   "cover": "https://images2.imgbox.com/d7/fe/x665H49C_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "60": {
       "title": "Capítulo 60 - Você mudou",
@@ -1031,7 +1032,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - O plano",
       "groups": {
         "Valkyriescan": [
@@ -1048,7 +1049,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Portal",
       "groups": {
         "Valkyriescan": [
@@ -1071,7 +1072,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Missão",
       "groups": {
         "Valkyriescan": [
@@ -1096,7 +1097,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Cauda",
       "groups": {
         "Valkyriescan": [
@@ -1115,7 +1116,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Convocação",
       "groups": {
         "Valkyriescan": [
@@ -1135,7 +1136,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - O que aconteceu",
       "groups": {
         "Valkyriescan": [
@@ -1158,7 +1159,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Noite difícil",
       "groups": {
         "Valkyriescan": [
@@ -1183,7 +1184,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Enquanto isso",
       "groups": {
         "Valkyriescan": [
@@ -1200,7 +1201,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Lar doce lar",
       "groups": {
         "Valkyriescan": [
@@ -1220,7 +1221,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - Prólogo",
       "groups": {
         "Valkyriescan": [
