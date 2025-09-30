@@ -4,6 +4,7 @@
   "artist": "Riichu",
   "description": "“A luta caótica de Komari para não ser derrubada por seus próprios soldados começa!”",
   "cover": "https://images2.imgbox.com/5f/ed/Cew9FGHR_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "18": {
       "title": "Capítulo 18 - Depois da batalha",
@@ -315,7 +316,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Querida Você",
       "groups": {
         "Valkyriescan": [
@@ -352,7 +353,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Um Assassino do Passado",
       "groups": {
         "Valkyriescan": [
@@ -388,7 +389,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Feridas do Passado",
       "groups": {
         "Valkyriescan": [
@@ -426,7 +427,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A Festa Toma Um Rumo Inesperado",
       "groups": {
         "Valkyriescan": [
@@ -465,7 +466,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Primeiro Duelo!",
       "groups": {
         "Valkyriescan": [
@@ -507,7 +508,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Cavaleiro da Saudade",
       "groups": {
         "Valkyriescan": [
@@ -553,7 +554,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Encontro Turbulento",
       "groups": {
         "Valkyriescan": [
@@ -596,7 +597,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Tropa Desordeira! 7º Unidade",
       "groups": {
         "Valkyriescan": [
@@ -628,7 +629,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Princesa Vampira Reclusa, Vamos lá!",
       "groups": {
         "Valkyriescan": [
