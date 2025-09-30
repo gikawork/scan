@@ -4,8 +4,9 @@
   "artist": "asimplebengo",
   "description": "A história da conexão mesmo de longe. Duas mulheres se mantêm conectadas por meio de cartas, mantendo viva a paixão que sentem uma pela outra.",
   "cover": "https://images2.imgbox.com/13/73/wnsIfsz4_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Fim",
       "groups": {
         "Valkyriescan": [
@@ -23,7 +24,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -41,7 +42,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -59,7 +60,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
