@@ -4,8 +4,9 @@
   "artist": "School of Night",
   "description": "Uma bibliotecária nerd é atraída para o mundo secreto da valentona que rouba livros de sua escola.",
   "cover": "https://images2.imgbox.com/68/c5/ZC7QIh6n_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -23,7 +24,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -41,7 +42,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
