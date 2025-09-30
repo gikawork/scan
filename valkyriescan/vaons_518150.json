@@ -4,8 +4,9 @@
   "artist": "FUKAUMI Kon",
   "description": "Takamine não conseguiu encontrar nada para gostar. Sakura é uma apaixonada livros. Um dia, as duas se encontram por acaso depois da escola no mesmo trem.",
   "cover": "https://images2.imgbox.com/3a/f8/IHtQqWO9_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "único": {
+    "0": {
       "title": "Capítulo único",
       "groups": {
         "Valkyriescan": [
