@@ -4,6 +4,7 @@
   "artist": "Ke Ran Bing (可燃冰)",
   "description": "A autora de Soulmate é artista nesta obra.",
   "cover": "https://images2.imgbox.com/e5/4c/yacSXzLK_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "23": {
       "title": "Capítulo 23 - Muitos pensamentos",
@@ -405,7 +406,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - A arma da garota",
       "groups": {
         "Valkyriescan": [
@@ -434,7 +435,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Encontro com convidados",
       "groups": {
         "Valkyriescan": [
@@ -462,7 +463,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Encontro para uma nova música",
       "groups": {
         "Valkyriescan": [
@@ -490,7 +491,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Comendo wonton",
       "groups": {
         "Valkyriescan": [
@@ -519,7 +520,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Pequena mendiga",
       "groups": {
         "Valkyriescan": [
@@ -548,7 +549,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Lágrimas",
       "groups": {
         "Valkyriescan": [
@@ -577,7 +578,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Entre pai e filha",
       "groups": {
         "Valkyriescan": [
@@ -605,7 +606,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Primeiro encontro",
       "groups": {
         "Valkyriescan": [
@@ -634,7 +635,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Bosque da música celestial",
       "groups": {
         "Valkyriescan": [
