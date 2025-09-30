@@ -4,6 +4,7 @@
   "artist": "saefira",
   "description": "Athena está desesperada. Por que é tão difícil namorar garotas? Embora ela esteja fazendo de tudo para se tornar a “it girl” – os cuidados com a pele, os exercícios e até mesmo a universidade que frequenta – nada está funcionando. Onde está a história de amor de Athena? Cada paixão termina em desastre, cada encontro é um fracasso e sua confiança está em baixa. Mas então ela conhece Levi, uma barista bonita e misteriosa. Athena não consegue tirar os olhos dela! Ela sabe que não pode estragar tudo e seus amigos têm a solução perfeita. Athena precisa… do manual da namorada.",
   "cover": "https://images2.imgbox.com/ec/01/RnKSi5q2_o.png",
+  "status": "Em lançamento",
   "chapters": {
     "30": {
       "title": "Capítulo 30 - Tentação",
@@ -410,7 +411,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Pesquisa e conqueer",
       "groups": {
         "Valkyriescan": [
@@ -428,7 +429,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - MN",
       "groups": {
         "Valkyriescan": [
@@ -461,7 +462,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Encontro",
       "groups": {
         "Valkyriescan": [
@@ -494,7 +495,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Resolução",
       "groups": {
         "Valkyriescan": [
@@ -509,7 +510,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Pós-encontro",
       "groups": {
         "Valkyriescan": [
@@ -527,7 +528,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - O encontro",
       "groups": {
         "Valkyriescan": [
@@ -545,7 +546,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Esperança",
       "groups": {
         "Valkyriescan": [
@@ -563,7 +564,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Dificuldades",
       "groups": {
         "Valkyriescan": [
@@ -581,7 +582,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O problema",
       "groups": {
         "Valkyriescan": [
