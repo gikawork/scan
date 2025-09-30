@@ -4,6 +4,7 @@
   "artist": "RenSevan",
   "description": "Quando você ainda está no armário!",
   "cover": "https://images2.imgbox.com/b7/d4/RFdKQBrg_o.jpg",
+  "status": "Completo",
   "chapters": {
     "72": {
       "title": "Capítulo 72 - Fim",
@@ -1160,7 +1161,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Tudo está bem",
       "groups": {
         "Valkyriescan": [
@@ -1173,7 +1174,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Um encontro",
       "groups": {
         "Valkyriescan": [
@@ -1188,7 +1189,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Roda gigante",
       "groups": {
         "Valkyriescan": [
@@ -1202,7 +1203,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Café da manhã",
       "groups": {
         "Valkyriescan": [
@@ -1219,7 +1220,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Golpe mais forte",
       "groups": {
         "Valkyriescan": [
@@ -1235,7 +1236,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Gorro",
       "groups": {
         "Valkyriescan": [
@@ -1248,7 +1249,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - No outro dia",
       "groups": {
         "Valkyriescan": [
@@ -1263,7 +1264,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Mandar mensagem para ela",
       "groups": {
         "Valkyriescan": [
@@ -1277,7 +1278,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Férias de verão",
       "groups": {
         "Valkyriescan": [
