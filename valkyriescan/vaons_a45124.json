@@ -4,8 +4,9 @@
   "artist": "Mira",
   "description": "“Mulheres podem fazer esse tipo de coisa~”",
   "cover": "https://images2.imgbox.com/8a/76/ch1M3Yl9_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
