@@ -4,8 +4,9 @@
   "artist": "TAMASAKI Tama",
   "description": "“Hoje, eu quero assumir a liderança!” Uma funcionária de escritório, normalmente submissa, tenta virar o jogo contra sua autoconfiante namorada mais jovem.",
   "cover": "https://images2.imgbox.com/e2/22/rcbZnRaJ_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
