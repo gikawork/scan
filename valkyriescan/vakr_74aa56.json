@@ -4,6 +4,7 @@
   "artist": "saefira",
   "description": "Athena está desesperada – ou quase nesse estágio. Por que namorar é tão difícil?",
   "cover": "https://images2.imgbox.com/fa/37/xYrxElFq_o.jpg",
+  "status": "Cancelado",
   "chapters": {
     "16": {
       "title": "Capítulo 16 - Anúncio da autora",
@@ -119,7 +120,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Pesquisa e Conferências Queer",
       "groups": {
         "Valkyriescan": [
@@ -131,7 +132,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - MN",
       "groups": {
         "Valkyriescan": [
@@ -149,7 +150,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Encontro",
       "groups": {
         "Valkyriescan": [
@@ -161,7 +162,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Resolução",
       "groups": {
         "Valkyriescan": [
@@ -173,7 +174,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Pós-encontro",
       "groups": {
         "Valkyriescan": [
@@ -185,7 +186,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Encontro",
       "groups": {
         "Valkyriescan": [
@@ -197,7 +198,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Suporte",
       "groups": {
         "Valkyriescan": [
@@ -209,7 +210,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Lutas",
       "groups": {
         "Valkyriescan": [
@@ -221,7 +222,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - O problema",
       "groups": {
         "Valkyriescan": [
