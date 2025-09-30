@@ -4,51 +4,9 @@
   "artist": "Ana C. Sánchez",
   "description": "Noel sempre foi apaixonada por sua melhor amiga Elena, mas ela nunca teve coragem de confessar seus sentimentos. Então, quando sua amiga começa a namorar um garoto, o mundo de Noel desmorona ao ver sua chance de amar se esvair. Uma noite, em um momento de desespero, Noel acaba confessando seus sentimentos por Elena para uma completa estranha. Mas como o destino quis, essa estranha acaba sendo uma garota chamada June, a outra melhor amiga de Elena… e rival de Noel no amor! Pior de tudo, agora June sabe o segredo de Noel. Com tudo de repente dando errado, como Noel pode conquistar a garota dos seus sonhos?",
   "cover": "https://images2.imgbox.com/81/cc/0iXuKm0Z_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Estágio Final": {
-      "title": "Estágio Final - Nossa Melhor Amiga",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/74/94/hwj1GyDL_o.jpg",
-          "https://images2.imgbox.com/6d/cc/gR7Bywjo_o.jpg",
-          "https://images2.imgbox.com/72/db/CIhISu8k_o.jpg",
-          "https://images2.imgbox.com/60/f8/OBsH3N4v_o.jpg",
-          "https://images2.imgbox.com/24/5d/iWrKxsD6_o.jpg",
-          "https://images2.imgbox.com/db/c8/Gqv0qgAw_o.jpg",
-          "https://images2.imgbox.com/08/3b/dHcuwUV2_o.jpg",
-          "https://images2.imgbox.com/79/da/xvzGkxhL_o.jpg",
-          "https://images2.imgbox.com/d8/23/d9SoNGo1_o.jpg",
-          "https://images2.imgbox.com/7a/36/XvIIyxPO_o.jpg",
-          "https://images2.imgbox.com/25/af/G3vBpBBL_o.jpg",
-          "https://images2.imgbox.com/13/0c/CqyfUf7M_o.jpg",
-          "https://images2.imgbox.com/d1/a0/ynFT58Q1_o.jpg",
-          "https://images2.imgbox.com/35/07/9p09Yefg_o.jpg",
-          "https://images2.imgbox.com/8a/16/3W8jErhY_o.jpg",
-          "https://images2.imgbox.com/ec/2d/Z8e9AhTQ_o.jpg",
-          "https://images2.imgbox.com/87/0b/ftfgQl7o_o.jpg",
-          "https://images2.imgbox.com/6f/99/N41SABLo_o.jpg",
-          "https://images2.imgbox.com/40/ce/UaD3TY9G_o.jpg",
-          "https://images2.imgbox.com/bc/18/2t1cuyFC_o.jpg",
-          "https://images2.imgbox.com/48/6b/Scbtqn76_o.jpg",
-          "https://images2.imgbox.com/8b/34/vFGwd5lO_o.jpg",
-          "https://images2.imgbox.com/53/4f/oiX4eyIT_o.jpg",
-          "https://images2.imgbox.com/44/77/1icjABJ4_o.jpg",
-          "https://images2.imgbox.com/37/04/CsiUXMPP_o.jpg",
-          "https://images2.imgbox.com/fa/69/OFiajWam_o.jpg",
-          "https://images2.imgbox.com/86/62/OuLHxspU_o.jpg",
-          "https://images2.imgbox.com/d1/f5/gpjoe5sy_o.jpg",
-          "https://images2.imgbox.com/1a/a7/Ijk5y8fI_o.jpg",
-          "https://images2.imgbox.com/68/1e/uwNzFjTz_o.jpg",
-          "https://images2.imgbox.com/57/41/eWy8YAtZ_o.jpg",
-          "https://images2.imgbox.com/85/eb/BvB7ggqP_o.jpg",
-          "https://images2.imgbox.com/61/97/Wf6FSG1m_o.jpg",
-          "https://images2.imgbox.com/00/b9/QaCHWh5I_o.jpg",
-          "https://images2.imgbox.com/46/78/cWSoVhIQ_o.jpg",
-          "https://images2.imgbox.com/8e/de/GEQs5N1Q_o.jpg"
-        ]
-      }
-    },
-    "Estágio 05": {
+    "5": {
       "title": "Estágio 05 - Conexão",
       "groups": {
         "Valkyriescan": [
@@ -95,7 +53,7 @@
         ]
       }
     },
-    "Estágio 04": {
+    "4": {
       "title": "Estágio 04 - Descoberta",
       "groups": {
         "Valkyriescan": [
@@ -132,7 +90,7 @@
         ]
       }
     },
-    "Estágio 03": {
+    "3": {
       "title": "Estágio 03 - Dúvidas",
       "groups": {
         "Valkyriescan": [
@@ -163,7 +121,7 @@
         ]
       }
     },
-    "Estágio 02": {
+    "2": {
       "title": "Estágio 02 - Raiva",
       "groups": {
         "Valkyriescan": [
@@ -197,7 +155,7 @@
         ]
       }
     },
-    "Estágio 01": {
+    "1": {
       "title": "Estágio 01 - Negação",
       "groups": {
         "Valkyriescan": [
@@ -242,6 +200,92 @@
           "https://images2.imgbox.com/5a/c2/3c33KdEE_o.jpg",
           "https://images2.imgbox.com/08/df/jxEdlQna_o.jpg",
           "https://images2.imgbox.com/96/57/lqwfwGY2_o.jpg"
+        ]
+      }
+    },
+    "Estágio Final": {
+      "title": "Estágio Final - Nossa Melhor Amiga",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/74/94/hwj1GyDL_o.jpg",
+          "https://images2.imgbox.com/6d/cc/gR7Bywjo_o.jpg",
+          "https://images2.imgbox.com/72/db/CIhISu8k_o.jpg",
+          "https://images2.imgbox.com/60/f8/OBsH3N4v_o.jpg",
+          "https://images2.imgbox.com/24/5d/iWrKxsD6_o.jpg",
+          "https://images2.imgbox.com/db/c8/Gqv0qgAw_o.jpg",
+          "https://images2.imgbox.com/08/3b/dHcuwUV2_o.jpg",
+          "https://images2.imgbox.com/79/da/xvzGkxhL_o.jpg",
+          "https://images2.imgbox.com/d8/23/d9SoNGo1_o.jpg",
+          "https://images2.imgbox.com/7a/36/XvIIyxPO_o.jpg",
+          "https://images2.imgbox.com/25/af/G3vBpBBL_o.jpg",
+          "https://images2.imgbox.com/13/0c/CqyfUf7M_o.jpg",
+          "https://images2.imgbox.com/d1/a0/ynFT58Q1_o.jpg",
+          "https://images2.imgbox.com/35/07/9p09Yefg_o.jpg",
+          "https://images2.imgbox.com/8a/16/3W8jErhY_o.jpg",
+          "https://images2.imgbox.com/ec/2d/Z8e9AhTQ_o.jpg",
+          "https://images2.imgbox.com/87/0b/ftfgQl7o_o.jpg",
+          "https://images2.imgbox.com/6f/99/N41SABLo_o.jpg",
+          "https://images2.imgbox.com/40/ce/UaD3TY9G_o.jpg",
+          "https://images2.imgbox.com/bc/18/2t1cuyFC_o.jpg",
+          "https://images2.imgbox.com/48/6b/Scbtqn76_o.jpg",
+          "https://images2.imgbox.com/8b/34/vFGwd5lO_o.jpg",
+          "https://images2.imgbox.com/53/4f/oiX4eyIT_o.jpg",
+          "https://images2.imgbox.com/44/77/1icjABJ4_o.jpg",
+          "https://images2.imgbox.com/37/04/CsiUXMPP_o.jpg",
+          "https://images2.imgbox.com/fa/69/OFiajWam_o.jpg",
+          "https://images2.imgbox.com/86/62/OuLHxspU_o.jpg",
+          "https://images2.imgbox.com/d1/f5/gpjoe5sy_o.jpg",
+          "https://images2.imgbox.com/1a/a7/Ijk5y8fI_o.jpg",
+          "https://images2.imgbox.com/68/1e/uwNzFjTz_o.jpg",
+          "https://images2.imgbox.com/57/41/eWy8YAtZ_o.jpg",
+          "https://images2.imgbox.com/85/eb/BvB7ggqP_o.jpg",
+          "https://images2.imgbox.com/61/97/Wf6FSG1m_o.jpg",
+          "https://images2.imgbox.com/00/b9/QaCHWh5I_o.jpg",
+          "https://images2.imgbox.com/46/78/cWSoVhIQ_o.jpg",
+          "https://images2.imgbox.com/8e/de/GEQs5N1Q_o.jpg"
+        ]
+      }
+    },
+    "Estágio Final - Nossa Melhor Amiga": {
+      "title": "Estágio Final - Nossa Melhor Amiga",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/fc/93/zf1EfFrY_o.jpg",
+          "https://images2.imgbox.com/9c/5f/hV7dYIFH_o.jpg",
+          "https://images2.imgbox.com/3f/5c/OctGBPrh_o.jpg",
+          "https://images2.imgbox.com/10/cc/W5t4g70E_o.jpg",
+          "https://images2.imgbox.com/2c/d5/BFnF9mMT_o.jpg",
+          "https://images2.imgbox.com/24/ee/Y8aLEvmO_o.jpg",
+          "https://images2.imgbox.com/e4/a7/d1uK0gUD_o.jpg",
+          "https://images2.imgbox.com/3f/ed/HITBfqCq_o.jpg",
+          "https://images2.imgbox.com/88/8c/VWGikQap_o.jpg",
+          "https://images2.imgbox.com/b7/ee/Pj4j3zQZ_o.jpg",
+          "https://images2.imgbox.com/b1/92/kdhR7Xut_o.jpg",
+          "https://images2.imgbox.com/98/3d/9NqSdzr8_o.jpg",
+          "https://images2.imgbox.com/b3/29/7bgKDhvA_o.jpg",
+          "https://images2.imgbox.com/58/dd/p0WTEw07_o.jpg",
+          "https://images2.imgbox.com/55/5d/C3GmWx3L_o.jpg",
+          "https://images2.imgbox.com/4e/70/3QAWIiQA_o.jpg",
+          "https://images2.imgbox.com/e5/a3/BznEICif_o.jpg",
+          "https://images2.imgbox.com/b3/37/pHHxUSnH_o.jpg",
+          "https://images2.imgbox.com/3d/41/iDq6Cwml_o.jpg",
+          "https://images2.imgbox.com/88/00/52oIfFoP_o.jpg",
+          "https://images2.imgbox.com/ba/bc/SjC26Fmy_o.jpg",
+          "https://images2.imgbox.com/e7/40/cEisBYYM_o.jpg",
+          "https://images2.imgbox.com/b1/6c/DL6Mx1Vr_o.jpg",
+          "https://images2.imgbox.com/7b/ed/omkN3rO4_o.jpg",
+          "https://images2.imgbox.com/de/2b/WFtcbV0s_o.jpg",
+          "https://images2.imgbox.com/a5/9c/npamnM5C_o.jpg",
+          "https://images2.imgbox.com/0f/67/8EwJNdz4_o.jpg",
+          "https://images2.imgbox.com/be/1f/5C8CaFge_o.jpg",
+          "https://images2.imgbox.com/9b/26/n1SLX1TG_o.jpg",
+          "https://images2.imgbox.com/c0/aa/nox4JGvr_o.jpg",
+          "https://images2.imgbox.com/b8/44/r5DJFeXD_o.jpg",
+          "https://images2.imgbox.com/d6/f0/K26HfKED_o.jpg",
+          "https://images2.imgbox.com/ca/4c/MWENbtWa_o.jpg",
+          "https://images2.imgbox.com/63/d7/QpvQAjau_o.jpg",
+          "https://images2.imgbox.com/65/2c/LsctBzUD_o.jpg",
+          "https://images2.imgbox.com/1d/98/lpn3u0Yt_o.jpg"
         ]
       }
     }
