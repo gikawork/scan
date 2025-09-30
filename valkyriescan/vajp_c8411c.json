@@ -4,6 +4,7 @@
   "artist": "inee",
   "description": "Desde o início da humanidade, aqueles que nunca experimentaram o amor e têm um fim prematuro recebem uma segunda chance de vida como Cupidos, concedida pela Deusa do Amor.",
   "cover": "https://images2.imgbox.com/28/fa/6L0AWAmd_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "13.5": {
       "title": "Capítulo 13.5 - Covardia e Coragem (Parte Dois)",
@@ -131,7 +132,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Viagem Escolar",
       "groups": {
         "Valkyriescan": [
@@ -158,7 +159,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Disputa de tiros!",
       "groups": {
         "Valkyriescan": [
@@ -195,7 +196,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - A promessa da cupido",
       "groups": {
         "Valkyriescan": [
@@ -223,7 +224,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - Até logo",
       "groups": {
         "Valkyriescan": [
@@ -258,7 +259,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - Cupido vs Cupido (2)",
       "groups": {
         "Valkyriescan": [
@@ -285,7 +286,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Cupido vs Cupido (1)",
       "groups": {
         "Valkyriescan": [
@@ -310,7 +311,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Cupidos dos tempos modernos (2)",
       "groups": {
         "Valkyriescan": [
@@ -333,7 +334,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Cupidos dos tempos modernos (1)",
       "groups": {
         "Valkyriescan": [
@@ -359,7 +360,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Se apaixonar pelo amor",
       "groups": {
         "Valkyriescan": [
@@ -399,7 +400,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00 - A solução de uma cupido para um triângulo amoroso",
       "groups": {
         "Valkyriescan": [
