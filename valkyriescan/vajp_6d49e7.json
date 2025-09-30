@@ -4,6 +4,7 @@
   "artist": "Yodokawa",
   "description": "Asako Suga, que está de coração partido após ser abandonada pela sua parceira, decide se mudar para uma nova casa para tirar da sua mente a separação. Asako se apaixona por uma casa que está sendo oferecida para aluguel, com um belo jardim. Mas Asako está preocupada com a senhoria. Ela é jovem e bonita, mas tem um segredo!",
   "cover": "https://images2.imgbox.com/7b/1d/SfeNIyut_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "25": {
       "title": "Capítulo 25",
@@ -505,6 +506,29 @@
         ]
       }
     },
+    "12.5": {
+      "title": "Cápitulo 12.5",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/11/8a/6YOM7zVq_o.jpg",
+          "https://images2.imgbox.com/d8/2d/nNWKuDpV_o.jpg",
+          "https://images2.imgbox.com/51/f3/qCvIIKS4_o.jpg",
+          "https://images2.imgbox.com/ca/0c/fa4kwI1r_o.jpg",
+          "https://images2.imgbox.com/44/13/I129LiXp_o.jpg",
+          "https://images2.imgbox.com/c2/2a/QecfyDcY_o.jpg",
+          "https://images2.imgbox.com/7e/0d/V8p9PlSB_o.jpg",
+          "https://images2.imgbox.com/51/7e/6WJP222T_o.jpg",
+          "https://images2.imgbox.com/23/3a/xI4ViDNH_o.jpg",
+          "https://images2.imgbox.com/ba/8d/ZbRlFRqv_o.jpg",
+          "https://images2.imgbox.com/23/91/LGjnvbkv_o.jpg",
+          "https://images2.imgbox.com/da/42/uxzUzYnw_o.jpg",
+          "https://images2.imgbox.com/1c/2f/H5Vva7Oc_o.jpg",
+          "https://images2.imgbox.com/96/d2/Uk5NviQn_o.jpg",
+          "https://images2.imgbox.com/4a/aa/Sqj8rr4b_o.jpg",
+          "https://images2.imgbox.com/ec/b9/I9i8tGHE_o.jpg"
+        ]
+      }
+    },
     "12": {
       "title": "Capítulo 12",
       "groups": {
@@ -915,29 +939,6 @@
           "https://images2.imgbox.com/18/56/aC3W3t5g_o.png",
           "https://images2.imgbox.com/44/c3/9Tr0n5QP_o.png",
           "https://images2.imgbox.com/65/d8/Lh18HdIg_o.png"
-        ]
-      }
-    },
-    "Cápitulo 12.5": {
-      "title": "Cápitulo 12.5",
-      "groups": {
-        "Valkyriescan": [
-          "https://images2.imgbox.com/11/8a/6YOM7zVq_o.jpg",
-          "https://images2.imgbox.com/d8/2d/nNWKuDpV_o.jpg",
-          "https://images2.imgbox.com/51/f3/qCvIIKS4_o.jpg",
-          "https://images2.imgbox.com/ca/0c/fa4kwI1r_o.jpg",
-          "https://images2.imgbox.com/44/13/I129LiXp_o.jpg",
-          "https://images2.imgbox.com/c2/2a/QecfyDcY_o.jpg",
-          "https://images2.imgbox.com/7e/0d/V8p9PlSB_o.jpg",
-          "https://images2.imgbox.com/51/7e/6WJP222T_o.jpg",
-          "https://images2.imgbox.com/23/3a/xI4ViDNH_o.jpg",
-          "https://images2.imgbox.com/ba/8d/ZbRlFRqv_o.jpg",
-          "https://images2.imgbox.com/23/91/LGjnvbkv_o.jpg",
-          "https://images2.imgbox.com/da/42/uxzUzYnw_o.jpg",
-          "https://images2.imgbox.com/1c/2f/H5Vva7Oc_o.jpg",
-          "https://images2.imgbox.com/96/d2/Uk5NviQn_o.jpg",
-          "https://images2.imgbox.com/4a/aa/Sqj8rr4b_o.jpg",
-          "https://images2.imgbox.com/ec/b9/I9i8tGHE_o.jpg"
         ]
       }
     }
