@@ -4,8 +4,9 @@
   "artist": "Kisaragi Yuri",
   "description": "Apesar de ser a santa mais poderosa, Tia foi acusada de heresia e banida da capital real. Ela se tornou a professora de três garotas que haviam falhado como candidatas a santas.",
   "cover": "https://images2.imgbox.com/09/f6/4QuV1WbH_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -36,7 +37,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -74,7 +75,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
