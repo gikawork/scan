@@ -4,8 +4,9 @@
   "artist": "2396 Studio (二三玖陆工作室)",
   "description": "Em uma vida passada, a divindade da montanha acolheu uma criança quieta, apenas para descobrir que seu cuidado gerou uma reviravolta inesperada: a pequena não queria ser uma serva, mas aspirava a ser a companheira mais íntima da divindade! Porém, o destino interveio de forma cruel, transformando a dupla, antes inseparável, em inimigas ferrenhas.",
   "cover": "https://images2.imgbox.com/9f/94/47iHQyuA_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
-    "03": {
+    "3": {
       "title": "Capítulo 03",
       "groups": {
         "Valkyriescan": [
@@ -38,7 +39,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02",
       "groups": {
         "Valkyriescan": [
@@ -71,7 +72,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01",
       "groups": {
         "Valkyriescan": [
@@ -104,7 +105,7 @@
         ]
       }
     },
-    "00": {
+    "0": {
       "title": "Capítulo 00",
       "groups": {
         "Valkyriescan": [
