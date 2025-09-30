@@ -4,8 +4,9 @@
   "artist": "Color_LES",
   "description": "Aventureiros tentam conseguir a cabeça da rainha demônio, mas uma jovem maga apaixonada deseja ter a mão dela. Junte-se a nós, por este conto obscuro de amor e persistência ambientado em um RPG da vida real.",
   "cover": "https://images2.imgbox.com/0c/d6/U3guweZM_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Episódio 189": {
+    "189": {
       "title": "Episódio 189 - Fim",
       "groups": {
         "Valkyriescan": [
@@ -46,7 +47,7 @@
         ]
       }
     },
-    "Episódio 188": {
+    "188": {
       "title": "Episódio 188",
       "groups": {
         "Valkyriescan": [
@@ -89,7 +90,7 @@
         ]
       }
     },
-    "Episódio 187": {
+    "187": {
       "title": "Episódio 187",
       "groups": {
         "Valkyriescan": [
@@ -124,7 +125,7 @@
         ]
       }
     },
-    "Episódio 186": {
+    "186": {
       "title": "Episódio 186",
       "groups": {
         "Valkyriescan": [
@@ -150,7 +151,7 @@
         ]
       }
     },
-    "Episódio 185": {
+    "185": {
       "title": "Episódio 185",
       "groups": {
         "Valkyriescan": [
@@ -161,7 +162,7 @@
         ]
       }
     },
-    "Episódio 184": {
+    "184": {
       "title": "Episódio 184",
       "groups": {
         "Valkyriescan": [
@@ -176,7 +177,7 @@
         ]
       }
     },
-    "Episódio 183": {
+    "183": {
       "title": "Episódio 183",
       "groups": {
         "Valkyriescan": [
@@ -211,7 +212,7 @@
         ]
       }
     },
-    "Episódio 182": {
+    "182": {
       "title": "Episódio 182",
       "groups": {
         "Valkyriescan": [
@@ -241,7 +242,7 @@
         ]
       }
     },
-    "Episódio 181": {
+    "181": {
       "title": "Episódio 181",
       "groups": {
         "Valkyriescan": [
@@ -273,7 +274,7 @@
         ]
       }
     },
-    "Episódio 180": {
+    "180": {
       "title": "Episódio 180",
       "groups": {
         "Valkyriescan": [
@@ -303,7 +304,7 @@
         ]
       }
     },
-    "Episódio 179": {
+    "179": {
       "title": "Episódio 179",
       "groups": {
         "Valkyriescan": [
@@ -331,7 +332,7 @@
         ]
       }
     },
-    "Episódio 178": {
+    "178": {
       "title": "Episódio 178",
       "groups": {
         "Valkyriescan": [
@@ -348,7 +349,7 @@
         ]
       }
     },
-    "Episódio 177": {
+    "177": {
       "title": "Episódio 177",
       "groups": {
         "Valkyriescan": [
@@ -378,7 +379,7 @@
         ]
       }
     },
-    "Episódio 176": {
+    "176": {
       "title": "Episódio 176",
       "groups": {
         "Valkyriescan": [
@@ -404,7 +405,7 @@
         ]
       }
     },
-    "Episódio 175": {
+    "175": {
       "title": "Episódio 175",
       "groups": {
         "Valkyriescan": [
@@ -439,7 +440,7 @@
         ]
       }
     },
-    "Episódio 174": {
+    "174": {
       "title": "Episódio 174",
       "groups": {
         "Valkyriescan": [
@@ -473,7 +474,7 @@
         ]
       }
     },
-    "Episódio 173": {
+    "173": {
       "title": "Episódio 173",
       "groups": {
         "Valkyriescan": [
@@ -491,7 +492,7 @@
         ]
       }
     },
-    "Episódio 172": {
+    "172": {
       "title": "Episódio 172",
       "groups": {
         "Valkyriescan": [
@@ -519,7 +520,7 @@
         ]
       }
     },
-    "Episódio 171": {
+    "171": {
       "title": "Episódio 171",
       "groups": {
         "Valkyriescan": [
@@ -545,7 +546,7 @@
         ]
       }
     },
-    "Episódio 170": {
+    "170": {
       "title": "Episódio 170",
       "groups": {
         "Valkyriescan": [
@@ -573,7 +574,7 @@
         ]
       }
     },
-    "Episódio 169": {
+    "169": {
       "title": "Episódio 169",
       "groups": {
         "Valkyriescan": [
@@ -594,7 +595,7 @@
         ]
       }
     },
-    "Episódio 168": {
+    "168": {
       "title": "Episódio 168",
       "groups": {
         "Valkyriescan": [
@@ -620,7 +621,7 @@
         ]
       }
     },
-    "Episódio 167": {
+    "167": {
       "title": "Episódio 167",
       "groups": {
         "Valkyriescan": [
@@ -641,7 +642,7 @@
         ]
       }
     },
-    "Episódio 166": {
+    "166": {
       "title": "Episódio 166",
       "groups": {
         "Valkyriescan": [
@@ -662,7 +663,7 @@
         ]
       }
     },
-    "Episódio 165": {
+    "165": {
       "title": "Episódio 165",
       "groups": {
         "Valkyriescan": [
@@ -681,7 +682,7 @@
         ]
       }
     },
-    "Episódio 164": {
+    "164": {
       "title": "Episódio 164",
       "groups": {
         "Valkyriescan": [
@@ -704,7 +705,7 @@
         ]
       }
     },
-    "Episódio 163": {
+    "163": {
       "title": "Episódio 163",
       "groups": {
         "Valkyriescan": [
@@ -724,7 +725,7 @@
         ]
       }
     },
-    "Episódio 162": {
+    "162": {
       "title": "Episódio 162",
       "groups": {
         "Valkyriescan": [
@@ -743,7 +744,7 @@
         ]
       }
     },
-    "Episódio 161": {
+    "161": {
       "title": "Episódio 161",
       "groups": {
         "Valkyriescan": [
@@ -763,7 +764,7 @@
         ]
       }
     },
-    "Episódio 160": {
+    "160": {
       "title": "Episódio 160",
       "groups": {
         "Valkyriescan": [
@@ -782,7 +783,7 @@
         ]
       }
     },
-    "Episódio 159": {
+    "159": {
       "title": "Episódio 159",
       "groups": {
         "Valkyriescan": [
@@ -801,7 +802,7 @@
         ]
       }
     },
-    "Episódio 158": {
+    "158": {
       "title": "Episódio 158",
       "groups": {
         "Valkyriescan": [
@@ -822,7 +823,7 @@
         ]
       }
     },
-    "Episódio 157": {
+    "157": {
       "title": "Episódio 157",
       "groups": {
         "Valkyriescan": [
@@ -844,7 +845,7 @@
         ]
       }
     },
-    "Episódio 156": {
+    "156": {
       "title": "Episódio 156",
       "groups": {
         "Valkyriescan": [
@@ -865,7 +866,7 @@
         ]
       }
     },
-    "Episódio 155": {
+    "155": {
       "title": "Episódio 155",
       "groups": {
         "Valkyriescan": [
@@ -882,7 +883,7 @@
         ]
       }
     },
-    "Episódio 154": {
+    "154": {
       "title": "Episódio 154",
       "groups": {
         "Valkyriescan": [
@@ -891,7 +892,7 @@
         ]
       }
     },
-    "Episódio 153": {
+    "153": {
       "title": "Episódio 153",
       "groups": {
         "Valkyriescan": [
@@ -910,7 +911,7 @@
         ]
       }
     },
-    "Episódio 152": {
+    "152": {
       "title": "Episódio 152",
       "groups": {
         "Valkyriescan": [
@@ -929,7 +930,7 @@
         ]
       }
     },
-    "Episódio 151": {
+    "151": {
       "title": "Episódio 151",
       "groups": {
         "Valkyriescan": [
@@ -946,7 +947,7 @@
         ]
       }
     },
-    "Episódio 150": {
+    "150": {
       "title": "Episódio 150",
       "groups": {
         "Valkyriescan": [
@@ -964,7 +965,7 @@
         ]
       }
     },
-    "Episódio 149": {
+    "149": {
       "title": "Episódio 149",
       "groups": {
         "Valkyriescan": [
@@ -984,7 +985,7 @@
         ]
       }
     },
-    "Episódio 148": {
+    "148": {
       "title": "Episódio 148",
       "groups": {
         "Valkyriescan": [
@@ -1001,7 +1002,7 @@
         ]
       }
     },
-    "Episódio 147": {
+    "147": {
       "title": "Episódio 147",
       "groups": {
         "Valkyriescan": [
@@ -1018,7 +1019,7 @@
         ]
       }
     },
-    "Episódio 146": {
+    "146": {
       "title": "Episódio 146",
       "groups": {
         "Valkyriescan": [
@@ -1038,7 +1039,7 @@
         ]
       }
     },
-    "Episódio 145": {
+    "145": {
       "title": "Episódio 145",
       "groups": {
         "Valkyriescan": [
@@ -1055,7 +1056,7 @@
         ]
       }
     },
-    "Episódio 144": {
+    "144": {
       "title": "Episódio 144",
       "groups": {
         "Valkyriescan": [
@@ -1073,7 +1074,7 @@
         ]
       }
     },
-    "Episódio 143": {
+    "143": {
       "title": "Episódio 143",
       "groups": {
         "Valkyriescan": [
@@ -1091,7 +1092,7 @@
         ]
       }
     },
-    "Episódio 142": {
+    "142": {
       "title": "Episódio 142",
       "groups": {
         "Valkyriescan": [
@@ -1108,7 +1109,7 @@
         ]
       }
     },
-    "Episódio 141": {
+    "141": {
       "title": "Episódio 141",
       "groups": {
         "Valkyriescan": [
@@ -1127,7 +1128,7 @@
         ]
       }
     },
-    "Episódio 140": {
+    "140": {
       "title": "Episódio 140",
       "groups": {
         "Valkyriescan": [
@@ -1144,7 +1145,7 @@
         ]
       }
     },
-    "Episódio 139": {
+    "139": {
       "title": "Episódio 139",
       "groups": {
         "Valkyriescan": [
@@ -1166,7 +1167,7 @@
         ]
       }
     },
-    "Episódio 138": {
+    "138": {
       "title": "Episódio 138",
       "groups": {
         "Valkyriescan": [
@@ -1187,7 +1188,7 @@
         ]
       }
     },
-    "Episódio 137": {
+    "137": {
       "title": "Episódio 137",
       "groups": {
         "Valkyriescan": [
@@ -1208,7 +1209,7 @@
         ]
       }
     },
-    "Episódio 136": {
+    "136": {
       "title": "Episódio 136",
       "groups": {
         "Valkyriescan": [
@@ -1227,7 +1228,7 @@
         ]
       }
     },
-    "Episódio 135": {
+    "135": {
       "title": "Episódio 135",
       "groups": {
         "Valkyriescan": [
@@ -1247,7 +1248,7 @@
         ]
       }
     },
-    "Episódio 134": {
+    "134": {
       "title": "Episódio 134",
       "groups": {
         "Valkyriescan": [
@@ -1266,7 +1267,7 @@
         ]
       }
     },
-    "Episódio 133": {
+    "133": {
       "title": "Episódio 133",
       "groups": {
         "Valkyriescan": [
@@ -1288,7 +1289,7 @@
         ]
       }
     },
-    "Episódio 132": {
+    "132": {
       "title": "Episódio 132",
       "groups": {
         "Valkyriescan": [
@@ -1306,7 +1307,7 @@
         ]
       }
     },
-    "Episódio 131": {
+    "131": {
       "title": "Episódio 131",
       "groups": {
         "Valkyriescan": [
@@ -1326,7 +1327,7 @@
         ]
       }
     },
-    "Episódio 130": {
+    "130": {
       "title": "Episódio 130",
       "groups": {
         "Valkyriescan": [
@@ -1346,7 +1347,7 @@
         ]
       }
     },
-    "Episódio 129": {
+    "129": {
       "title": "Episódio 129",
       "groups": {
         "Valkyriescan": [
@@ -1367,7 +1368,7 @@
         ]
       }
     },
-    "Episódio 128": {
+    "128": {
       "title": "Episódio 128 - Prévia da Terceira Temporada",
       "groups": {
         "Valkyriescan": [
@@ -1391,7 +1392,7 @@
         ]
       }
     },
-    "Episódio 127": {
+    "127": {
       "title": "Episódio 127",
       "groups": {
         "Valkyriescan": [
@@ -1418,7 +1419,7 @@
         ]
       }
     },
-    "Episódio 126": {
+    "126": {
       "title": "Episódio 126",
       "groups": {
         "Valkyriescan": [
@@ -1435,7 +1436,7 @@
         ]
       }
     },
-    "Episódio 125": {
+    "125": {
       "title": "Episódio 125",
       "groups": {
         "Valkyriescan": [
@@ -1453,7 +1454,7 @@
         ]
       }
     },
-    "Episódio 124": {
+    "124": {
       "title": "Episódio 124",
       "groups": {
         "Valkyriescan": [
@@ -1478,7 +1479,7 @@
         ]
       }
     },
-    "Episódio 123": {
+    "123": {
       "title": "Episódio 123",
       "groups": {
         "Valkyriescan": [
@@ -1497,7 +1498,7 @@
         ]
       }
     },
-    "Episódio 122": {
+    "122": {
       "title": "Episódio 122",
       "groups": {
         "Valkyriescan": [
@@ -1515,7 +1516,7 @@
         ]
       }
     },
-    "Episódio 121": {
+    "121": {
       "title": "Episódio 121",
       "groups": {
         "Valkyriescan": [
@@ -1533,7 +1534,7 @@
         ]
       }
     },
-    "Episódio 120": {
+    "120": {
       "title": "Episódio 120",
       "groups": {
         "Valkyriescan": [
@@ -1552,7 +1553,7 @@
         ]
       }
     },
-    "Episódio 119": {
+    "119": {
       "title": "Episódio 119",
       "groups": {
         "Valkyriescan": [
@@ -1567,7 +1568,7 @@
         ]
       }
     },
-    "Episódio 118": {
+    "118": {
       "title": "Episódio 118",
       "groups": {
         "Valkyriescan": [
@@ -1580,7 +1581,7 @@
         ]
       }
     },
-    "Episódio 117": {
+    "117": {
       "title": "Episódio 117",
       "groups": {
         "Valkyriescan": [
@@ -1593,7 +1594,7 @@
         ]
       }
     },
-    "Episódio 116": {
+    "116": {
       "title": "Episódio 116",
       "groups": {
         "Valkyriescan": [
@@ -1607,7 +1608,7 @@
         ]
       }
     },
-    "Episódio 115": {
+    "115": {
       "title": "Episódio 115",
       "groups": {
         "Valkyriescan": [
@@ -1622,7 +1623,7 @@
         ]
       }
     },
-    "Episódio 114": {
+    "114": {
       "title": "Episódio 114",
       "groups": {
         "Valkyriescan": [
@@ -1636,7 +1637,7 @@
         ]
       }
     },
-    "Episódio 113": {
+    "113": {
       "title": "Episódio 113",
       "groups": {
         "Valkyriescan": [
@@ -1649,7 +1650,7 @@
         ]
       }
     },
-    "Episódio 112": {
+    "112": {
       "title": "Episódio 112",
       "groups": {
         "Valkyriescan": [
@@ -1662,7 +1663,7 @@
         ]
       }
     },
-    "Episódio 111": {
+    "111": {
       "title": "Episódio 111",
       "groups": {
         "Valkyriescan": [
@@ -1674,7 +1675,7 @@
         ]
       }
     },
-    "Episódio 110": {
+    "110": {
       "title": "Episódio 110",
       "groups": {
         "Valkyriescan": [
@@ -1688,7 +1689,7 @@
         ]
       }
     },
-    "Episódio 109": {
+    "109": {
       "title": "Episódio 109",
       "groups": {
         "Valkyriescan": [
@@ -1704,7 +1705,7 @@
         ]
       }
     },
-    "Episódio 108": {
+    "108": {
       "title": "Episódio 108",
       "groups": {
         "Valkyriescan": [
@@ -1719,7 +1720,7 @@
         ]
       }
     },
-    "Episódio 107": {
+    "107": {
       "title": "Episódio 107",
       "groups": {
         "Valkyriescan": [
@@ -1731,7 +1732,7 @@
         ]
       }
     },
-    "Episódio 106": {
+    "106": {
       "title": "Episódio 106",
       "groups": {
         "Valkyriescan": [
@@ -1745,7 +1746,7 @@
         ]
       }
     },
-    "Episódio 105": {
+    "105": {
       "title": "Episódio 105",
       "groups": {
         "Valkyriescan": [
@@ -1757,7 +1758,7 @@
         ]
       }
     },
-    "Episódio 104": {
+    "104": {
       "title": "Episódio 104",
       "groups": {
         "Valkyriescan": [
@@ -1769,7 +1770,7 @@
         ]
       }
     },
-    "Episódio 103": {
+    "103": {
       "title": "Episódio 103",
       "groups": {
         "Valkyriescan": [
@@ -1782,7 +1783,7 @@
         ]
       }
     },
-    "Episódio 102": {
+    "102": {
       "title": "Episódio 102",
       "groups": {
         "Valkyriescan": [
@@ -1794,7 +1795,7 @@
         ]
       }
     },
-    "Episódio 101": {
+    "101": {
       "title": "Episódio 101",
       "groups": {
         "Valkyriescan": [
@@ -1806,7 +1807,7 @@
         ]
       }
     },
-    "Episódio 100": {
+    "100": {
       "title": "Episódio 100",
       "groups": {
         "Valkyriescan": [
@@ -1818,7 +1819,7 @@
         ]
       }
     },
-    "Episódio 99": {
+    "99": {
       "title": "Episódio 99",
       "groups": {
         "Valkyriescan": [
@@ -1831,7 +1832,7 @@
         ]
       }
     },
-    "Episódio 98": {
+    "98": {
       "title": "Episódio 98",
       "groups": {
         "Valkyriescan": [
@@ -1844,7 +1845,7 @@
         ]
       }
     },
-    "Episódio 97": {
+    "97": {
       "title": "Episódio 97",
       "groups": {
         "Valkyriescan": [
@@ -1859,7 +1860,7 @@
         ]
       }
     },
-    "Episódio 96": {
+    "96": {
       "title": "Episódio 96",
       "groups": {
         "Valkyriescan": [
@@ -1872,7 +1873,7 @@
         ]
       }
     },
-    "Episódio 95": {
+    "95": {
       "title": "Episódio 95",
       "groups": {
         "Valkyriescan": [
@@ -1884,7 +1885,7 @@
         ]
       }
     },
-    "Episódio 94": {
+    "94": {
       "title": "Episódio 94",
       "groups": {
         "Valkyriescan": [
@@ -1897,7 +1898,7 @@
         ]
       }
     },
-    "Episódio 93": {
+    "93": {
       "title": "Episódio 93",
       "groups": {
         "Valkyriescan": [
@@ -1909,7 +1910,7 @@
         ]
       }
     },
-    "Episódio 92": {
+    "92": {
       "title": "Episódio 92",
       "groups": {
         "Valkyriescan": [
@@ -1920,7 +1921,7 @@
         ]
       }
     },
-    "Episódio 91": {
+    "91": {
       "title": "Episódio 91",
       "groups": {
         "Valkyriescan": [
@@ -1932,7 +1933,7 @@
         ]
       }
     },
-    "Episódio 90": {
+    "90": {
       "title": "Episódio 90",
       "groups": {
         "Valkyriescan": [
@@ -1944,7 +1945,7 @@
         ]
       }
     },
-    "Episódio 89": {
+    "89": {
       "title": "Episódio 89",
       "groups": {
         "Valkyriescan": [
@@ -1956,7 +1957,7 @@
         ]
       }
     },
-    "Episódio 88": {
+    "88": {
       "title": "Episódio 88",
       "groups": {
         "Valkyriescan": [
@@ -1968,7 +1969,7 @@
         ]
       }
     },
-    "Episódio 87": {
+    "87": {
       "title": "Episódio 87",
       "groups": {
         "Valkyriescan": [
@@ -1991,7 +1992,7 @@
         ]
       }
     },
-    "Episódio 86": {
+    "86": {
       "title": "Episódio 86",
       "groups": {
         "Valkyriescan": [
@@ -2017,7 +2018,7 @@
         ]
       }
     },
-    "Episódio 85": {
+    "85": {
       "title": "Episódio 85",
       "groups": {
         "Valkyriescan": [
@@ -2028,7 +2029,7 @@
         ]
       }
     },
-    "Episódio 84": {
+    "84": {
       "title": "Episódio 84",
       "groups": {
         "Valkyriescan": [
@@ -2051,7 +2052,7 @@
         ]
       }
     },
-    "Episódio 83": {
+    "83": {
       "title": "Episódio 83",
       "groups": {
         "Valkyriescan": [
@@ -2074,7 +2075,7 @@
         ]
       }
     },
-    "Episódio 82": {
+    "82": {
       "title": "Episódio 82",
       "groups": {
         "Valkyriescan": [
@@ -2087,7 +2088,7 @@
         ]
       }
     },
-    "Episódio 81": {
+    "81": {
       "title": "Episódio 81",
       "groups": {
         "Valkyriescan": [
@@ -2103,7 +2104,7 @@
         ]
       }
     },
-    "Episódio 80": {
+    "80": {
       "title": "Episódio 80",
       "groups": {
         "Valkyriescan": [
@@ -2119,7 +2120,7 @@
         ]
       }
     },
-    "Episódio 79": {
+    "79": {
       "title": "Episódio 79",
       "groups": {
         "Valkyriescan": [
@@ -2135,7 +2136,7 @@
         ]
       }
     },
-    "Episódio 78": {
+    "78": {
       "title": "Episódio 78",
       "groups": {
         "Valkyriescan": [
@@ -2158,7 +2159,7 @@
         ]
       }
     },
-    "Episódio 77": {
+    "77": {
       "title": "Episódio 77",
       "groups": {
         "Valkyriescan": [
@@ -2181,7 +2182,7 @@
         ]
       }
     },
-    "Episódio 76": {
+    "76": {
       "title": "Episódio 76",
       "groups": {
         "Valkyriescan": [
@@ -2207,7 +2208,7 @@
         ]
       }
     },
-    "Episódio 75": {
+    "75": {
       "title": "Episódio 75",
       "groups": {
         "Valkyriescan": [
@@ -2235,7 +2236,7 @@
         ]
       }
     },
-    "Episódio 74": {
+    "74": {
       "title": "Episódio 74",
       "groups": {
         "Valkyriescan": [
@@ -2263,7 +2264,7 @@
         ]
       }
     },
-    "Episódio 73": {
+    "73": {
       "title": "Episódio 73",
       "groups": {
         "Valkyriescan": [
@@ -2281,7 +2282,7 @@
         ]
       }
     },
-    "Episódio 72": {
+    "72": {
       "title": "Episódio 72",
       "groups": {
         "Valkyriescan": [
@@ -2309,7 +2310,7 @@
         ]
       }
     },
-    "Episódio 71": {
+    "71": {
       "title": "Episódio 71",
       "groups": {
         "Valkyriescan": [
@@ -2327,7 +2328,7 @@
         ]
       }
     },
-    "Episódio 70": {
+    "70": {
       "title": "Episódio 70",
       "groups": {
         "Valkyriescan": [
@@ -2345,7 +2346,7 @@
         ]
       }
     },
-    "Episódio 69": {
+    "69": {
       "title": "Episódio 69",
       "groups": {
         "Valkyriescan": [
@@ -2354,7 +2355,7 @@
         ]
       }
     },
-    "Episódio 68": {
+    "68": {
       "title": "Episódio 68",
       "groups": {
         "Valkyriescan": [
@@ -2367,7 +2368,7 @@
         ]
       }
     },
-    "Episódio 67": {
+    "67": {
       "title": "Episódio 67",
       "groups": {
         "Valkyriescan": [
@@ -2380,7 +2381,7 @@
         ]
       }
     },
-    "Episódio 66": {
+    "66": {
       "title": "Episódio 66",
       "groups": {
         "Valkyriescan": [
@@ -2393,7 +2394,7 @@
         ]
       }
     },
-    "Episódio 65": {
+    "65": {
       "title": "Episódio 65",
       "groups": {
         "Valkyriescan": [
@@ -2406,7 +2407,7 @@
         ]
       }
     },
-    "Episódio 64": {
+    "64": {
       "title": "Episódio 64",
       "groups": {
         "Valkyriescan": [
@@ -2419,7 +2420,7 @@
         ]
       }
     },
-    "Episódio 63": {
+    "63": {
       "title": "Episódio 63",
       "groups": {
         "Valkyriescan": [
@@ -2432,7 +2433,7 @@
         ]
       }
     },
-    "Episódio 62": {
+    "62": {
       "title": "Episódio 62",
       "groups": {
         "Valkyriescan": [
@@ -2445,7 +2446,7 @@
         ]
       }
     },
-    "Episódio 61": {
+    "61": {
       "title": "Episódio 61",
       "groups": {
         "Valkyriescan": [
@@ -2458,7 +2459,7 @@
         ]
       }
     },
-    "Episódio 60": {
+    "60": {
       "title": "Episódio 60",
       "groups": {
         "Valkyriescan": [
@@ -2471,7 +2472,7 @@
         ]
       }
     },
-    "Episódio 59": {
+    "59": {
       "title": "Episódio 59",
       "groups": {
         "Valkyriescan": [
@@ -2484,7 +2485,7 @@
         ]
       }
     },
-    "Episódio 58": {
+    "58": {
       "title": "Episódio 58",
       "groups": {
         "Valkyriescan": [
@@ -2497,7 +2498,7 @@
         ]
       }
     },
-    "Episódio 57": {
+    "57": {
       "title": "Episódio 57",
       "groups": {
         "Valkyriescan": [
@@ -2510,7 +2511,7 @@
         ]
       }
     },
-    "Episódio 56": {
+    "56": {
       "title": "Episódio 56",
       "groups": {
         "Valkyriescan": [
@@ -2521,7 +2522,7 @@
         ]
       }
     },
-    "Episódio 55": {
+    "55": {
       "title": "Episódio 55",
       "groups": {
         "Valkyriescan": [
@@ -2532,7 +2533,7 @@
         ]
       }
     },
-    "Episódio 54": {
+    "54": {
       "title": "Episódio 54",
       "groups": {
         "Valkyriescan": [
@@ -2543,7 +2544,7 @@
         ]
       }
     },
-    "Episódio 53": {
+    "53": {
       "title": "Episódio 53",
       "groups": {
         "Valkyriescan": [
@@ -2552,7 +2553,7 @@
         ]
       }
     },
-    "Episódio 52": {
+    "52": {
       "title": "Episódio 52",
       "groups": {
         "Valkyriescan": [
@@ -2561,7 +2562,7 @@
         ]
       }
     },
-    "Episódio 51": {
+    "51": {
       "title": "Episódio 51",
       "groups": {
         "Valkyriescan": [
@@ -2571,7 +2572,7 @@
         ]
       }
     },
-    "Episódio 50": {
+    "50": {
       "title": "Episódio 50",
       "groups": {
         "Valkyriescan": [
@@ -2582,7 +2583,7 @@
         ]
       }
     },
-    "Episódio 49": {
+    "49": {
       "title": "Episódio 49",
       "groups": {
         "Valkyriescan": [
@@ -2594,7 +2595,7 @@
         ]
       }
     },
-    "Episódio 48": {
+    "48": {
       "title": "Episódio 48",
       "groups": {
         "Valkyriescan": [
@@ -2606,7 +2607,7 @@
         ]
       }
     },
-    "Episódio 47": {
+    "47": {
       "title": "Episódio 47",
       "groups": {
         "Valkyriescan": [
@@ -2616,7 +2617,7 @@
         ]
       }
     },
-    "Episódio 46": {
+    "46": {
       "title": "Episódio 46",
       "groups": {
         "Valkyriescan": [
@@ -2625,7 +2626,7 @@
         ]
       }
     },
-    "Episódio 45": {
+    "45": {
       "title": "Episódio 45",
       "groups": {
         "Valkyriescan": [
@@ -2635,7 +2636,7 @@
         ]
       }
     },
-    "Episódio 44": {
+    "44": {
       "title": "Episódio 44",
       "groups": {
         "Valkyriescan": [
@@ -2646,7 +2647,7 @@
         ]
       }
     },
-    "Episódio 43": {
+    "43": {
       "title": "Episódio 43",
       "groups": {
         "Valkyriescan": [
@@ -2655,7 +2656,7 @@
         ]
       }
     },
-    "Episódio 42": {
+    "42": {
       "title": "Episódio 42",
       "groups": {
         "Valkyriescan": [
@@ -2666,7 +2667,7 @@
         ]
       }
     },
-    "Episódio 41": {
+    "41": {
       "title": "Episódio 41",
       "groups": {
         "Valkyriescan": [
@@ -2675,7 +2676,7 @@
         ]
       }
     },
-    "Episódio 40": {
+    "40": {
       "title": "Episódio 40",
       "groups": {
         "Valkyriescan": [
@@ -2684,7 +2685,7 @@
         ]
       }
     },
-    "Episódio 39": {
+    "39": {
       "title": "Episódio 39",
       "groups": {
         "Valkyriescan": [
@@ -2695,7 +2696,7 @@
         ]
       }
     },
-    "Episódio 38": {
+    "38": {
       "title": "Episódio 38",
       "groups": {
         "Valkyriescan": [
@@ -2706,7 +2707,7 @@
         ]
       }
     },
-    "Episódio 37": {
+    "37": {
       "title": "Episódio 37",
       "groups": {
         "Valkyriescan": [
@@ -2718,7 +2719,7 @@
         ]
       }
     },
-    "Episódio 36": {
+    "36": {
       "title": "Episódio 36",
       "groups": {
         "Valkyriescan": [
@@ -2730,7 +2731,7 @@
         ]
       }
     },
-    "Episódio 35": {
+    "35": {
       "title": "Episódio 35",
       "groups": {
         "Valkyriescan": [
@@ -2741,7 +2742,7 @@
         ]
       }
     },
-    "Episódio 34": {
+    "34": {
       "title": "Episódio 34",
       "groups": {
         "Valkyriescan": [
@@ -2751,7 +2752,7 @@
         ]
       }
     },
-    "Episódio 33": {
+    "33": {
       "title": "Episódio 33",
       "groups": {
         "Valkyriescan": [
@@ -2761,7 +2762,7 @@
         ]
       }
     },
-    "Episódio 32": {
+    "32": {
       "title": "Episódio 32",
       "groups": {
         "Valkyriescan": [
@@ -2771,7 +2772,7 @@
         ]
       }
     },
-    "Episódio 31": {
+    "31": {
       "title": "Episódio 31",
       "groups": {
         "Valkyriescan": [
@@ -2781,7 +2782,7 @@
         ]
       }
     },
-    "Episódio 30": {
+    "30": {
       "title": "Episódio 30",
       "groups": {
         "Valkyriescan": [
@@ -2790,7 +2791,7 @@
         ]
       }
     },
-    "Episódio 29": {
+    "29": {
       "title": "Episódio 29",
       "groups": {
         "Valkyriescan": [
@@ -2801,7 +2802,7 @@
         ]
       }
     },
-    "Episódio 28": {
+    "28": {
       "title": "Episódio 28",
       "groups": {
         "Valkyriescan": [
@@ -2814,7 +2815,7 @@
         ]
       }
     },
-    "Episódio 27": {
+    "27": {
       "title": "Episódio 27",
       "groups": {
         "Valkyriescan": [
@@ -2827,7 +2828,7 @@
         ]
       }
     },
-    "Episódio 26": {
+    "26": {
       "title": "Episódio 26",
       "groups": {
         "Valkyriescan": [
@@ -2837,7 +2838,7 @@
         ]
       }
     },
-    "Episódio 25": {
+    "25": {
       "title": "Episódio 25",
       "groups": {
         "Valkyriescan": [
@@ -2848,7 +2849,7 @@
         ]
       }
     },
-    "Episódio 24": {
+    "24": {
       "title": "Episódio 24",
       "groups": {
         "Valkyriescan": [
@@ -2859,7 +2860,7 @@
         ]
       }
     },
-    "Episódio 23": {
+    "23": {
       "title": "Episódio 23",
       "groups": {
         "Valkyriescan": [
@@ -2871,7 +2872,7 @@
         ]
       }
     },
-    "Episódio 22": {
+    "22": {
       "title": "Episódio 22",
       "groups": {
         "Valkyriescan": [
@@ -2882,7 +2883,7 @@
         ]
       }
     },
-    "Episódio 21": {
+    "21": {
       "title": "Episódio 21",
       "groups": {
         "Valkyriescan": [
@@ -2892,7 +2893,7 @@
         ]
       }
     },
-    "Episódio 20": {
+    "20": {
       "title": "Episódio 20",
       "groups": {
         "Valkyriescan": [
@@ -2902,7 +2903,7 @@
         ]
       }
     },
-    "Episódio 19": {
+    "19": {
       "title": "Episódio 19",
       "groups": {
         "Valkyriescan": [
@@ -2911,7 +2912,7 @@
         ]
       }
     },
-    "Episódio 18": {
+    "18": {
       "title": "Episódio 18",
       "groups": {
         "Valkyriescan": [
@@ -2922,7 +2923,7 @@
         ]
       }
     },
-    "Episódio 17": {
+    "17": {
       "title": "Episódio 17",
       "groups": {
         "Valkyriescan": [
@@ -2934,7 +2935,7 @@
         ]
       }
     },
-    "Episódio 16": {
+    "16": {
       "title": "Episódio 16",
       "groups": {
         "Valkyriescan": [
@@ -2945,7 +2946,7 @@
         ]
       }
     },
-    "Episódio 15": {
+    "15": {
       "title": "Episódio 15",
       "groups": {
         "Valkyriescan": [
@@ -2955,7 +2956,7 @@
         ]
       }
     },
-    "Episódio 14": {
+    "14": {
       "title": "Episódio 14",
       "groups": {
         "Valkyriescan": [
@@ -2965,7 +2966,7 @@
         ]
       }
     },
-    "Episódio 13": {
+    "13": {
       "title": "Episódio 13",
       "groups": {
         "Valkyriescan": [
@@ -2974,7 +2975,7 @@
         ]
       }
     },
-    "Episódio 12": {
+    "12": {
       "title": "Episódio 12",
       "groups": {
         "Valkyriescan": [
@@ -2983,7 +2984,7 @@
         ]
       }
     },
-    "Episódio 11": {
+    "11": {
       "title": "Episódio 11",
       "groups": {
         "Valkyriescan": [
@@ -2994,7 +2995,7 @@
         ]
       }
     },
-    "Episódio 10": {
+    "10": {
       "title": "Episódio 10",
       "groups": {
         "Valkyriescan": [
@@ -3004,7 +3005,7 @@
         ]
       }
     },
-    "Episódio 09": {
+    "9": {
       "title": "Episódio 09",
       "groups": {
         "Valkyriescan": [
@@ -3015,7 +3016,7 @@
         ]
       }
     },
-    "Episódio 08": {
+    "8": {
       "title": "Episódio 08",
       "groups": {
         "Valkyriescan": [
@@ -3025,7 +3026,7 @@
         ]
       }
     },
-    "Episódio 07": {
+    "7": {
       "title": "Episódio 07",
       "groups": {
         "Valkyriescan": [
@@ -3034,7 +3035,7 @@
         ]
       }
     },
-    "Episódio 06": {
+    "6": {
       "title": "Episódio 06",
       "groups": {
         "Valkyriescan": [
@@ -3043,7 +3044,7 @@
         ]
       }
     },
-    "Episódio 05": {
+    "5": {
       "title": "Episódio 05",
       "groups": {
         "Valkyriescan": [
@@ -3053,7 +3054,7 @@
         ]
       }
     },
-    "Episódio 04": {
+    "4": {
       "title": "Episódio 04",
       "groups": {
         "Valkyriescan": [
@@ -3063,7 +3064,7 @@
         ]
       }
     },
-    "Episódio 03": {
+    "3": {
       "title": "Episódio 03",
       "groups": {
         "Valkyriescan": [
@@ -3072,7 +3073,7 @@
         ]
       }
     },
-    "Episódio 02": {
+    "2": {
       "title": "Episódio 02",
       "groups": {
         "Valkyriescan": [
@@ -3081,7 +3082,7 @@
         ]
       }
     },
-    "Episódio 01": {
+    "1": {
       "title": "Episódio 01",
       "groups": {
         "Valkyriescan": [
