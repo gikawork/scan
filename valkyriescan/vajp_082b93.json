@@ -4,6 +4,7 @@
   "artist": "Kuroi Mori",
   "description": "A guerra entre a humanidade e as IAs, que começou há 100 anos, terminou quando a humanidade decidiu abandonar o uso da eletricidade. Em um mundo que perdeu a eletricidade, começa a jornada de aventura steampunk de Ange, a última autômata a eletricidade, e Erio, uma humana criada por autômatos.",
   "cover": "https://images2.imgbox.com/d7/07/KRi6vX0f_o.jpg",
+  "status": "Em lançamento",
   "chapters": {
     "22": {
       "title": "Capítulo 22 - Onde se esconde o coração...",
@@ -425,7 +426,7 @@
         ]
       }
     },
-    "09": {
+    "9": {
       "title": "Capítulo 09 - Além da fumaça",
       "groups": {
         "Valkyriescan": [
@@ -468,7 +469,7 @@
         ]
       }
     },
-    "08": {
+    "8": {
       "title": "Capítulo 08 - Para aqueles que ainda não nasceram",
       "groups": {
         "Valkyriescan": [
@@ -496,7 +497,7 @@
         ]
       }
     },
-    "07": {
+    "7": {
       "title": "Capítulo 07 - Labirinto de aço",
       "groups": {
         "Valkyriescan": [
@@ -525,7 +526,7 @@
         ]
       }
     },
-    "06": {
+    "6": {
       "title": "Capítulo 06 - A cidade sem estrelas",
       "groups": {
         "Valkyriescan": [
@@ -553,7 +554,7 @@
         ]
       }
     },
-    "05": {
+    "5": {
       "title": "Capítulo 05 - A vida continua",
       "groups": {
         "Valkyriescan": [
@@ -588,7 +589,7 @@
         ]
       }
     },
-    "04": {
+    "4": {
       "title": "Capítulo 04 - Na noite estrelada",
       "groups": {
         "Valkyriescan": [
@@ -622,7 +623,7 @@
         ]
       }
     },
-    "03": {
+    "3": {
       "title": "Capítulo 03 - Pensamentos humanos",
       "groups": {
         "Valkyriescan": [
@@ -654,7 +655,7 @@
         ]
       }
     },
-    "02": {
+    "2": {
       "title": "Capítulo 02 - Cidade de vapor e engrenagens",
       "groups": {
         "Valkyriescan": [
@@ -686,7 +687,7 @@
         ]
       }
     },
-    "01": {
+    "1": {
       "title": "Capítulo 01 - Anjo mecânico",
       "groups": {
         "Valkyriescan": [
