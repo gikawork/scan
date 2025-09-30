@@ -4,8 +4,9 @@
   "artist": "Shunnosuketa",
   "description": "Uma história sobre mulheres sendo arrastadas pelo amor.",
   "cover": "https://images2.imgbox.com/38/2b/N8cAtkyu_o.png",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
