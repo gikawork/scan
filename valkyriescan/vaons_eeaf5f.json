@@ -4,8 +4,9 @@
   "artist": "Eku Takeshima",
   "description": "A história sobre uma ex-heroína que agora vive junto com a ex-rainha dos demônios.",
   "cover": "https://images2.imgbox.com/7c/24/DTUXKpQJ_o.jpg",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
