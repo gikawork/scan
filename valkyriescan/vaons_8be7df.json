@@ -4,8 +4,9 @@
   "artist": "Sumiya Zeniko",
   "description": "Sequência de “5 Seconds Before a Witch Falls in Love” (5 Segundos Antes de uma Bruxa se Apaixonar).",
   "cover": "https://images2.imgbox.com/5a/4b/RhLnkUqK_o.png",
+  "status": "Completo",
   "chapters": {
-    "Único": {
+    "0": {
       "title": "Capítulo Único",
       "groups": {
         "Valkyriescan": [
