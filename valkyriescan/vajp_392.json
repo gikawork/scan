@@ -1,0 +1,50 @@
+{
+  "title": "Crybaby and Cocoa Yuri",
+  "author": "Ando Uni",
+  "artist": "Ando Uni",
+  "description": "Uma menina chorona que de repente foi beijada por uma garota delinquente que ela acabara de conhecer… A história de Crybaby e Cocoa começa sem saber por que se beijaram.",
+  "cover": "https://images2.imgbox.com/fb/02/DWX4lZLH_o.jpg",
+  "status": "Em lançamento",
+  "chapters": {
+    "4": {
+      "title": "Capítulo 04",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/06/04/FxvHbsZd_o.png",
+          "https://images2.imgbox.com/d7/ca/R6NW0Htu_o.png",
+          "https://images2.imgbox.com/03/b2/H1DO0ezw_o.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "Capítulo 03",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/be/58/5TQYFJ72_o.png",
+          "https://images2.imgbox.com/9f/dc/CppVNMTW_o.png",
+          "https://images2.imgbox.com/88/fd/ifr1p0be_o.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "Capítulo 02",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/21/af/Pf50jX4t_o.png",
+          "https://images2.imgbox.com/5d/20/l4NhZCDE_o.png",
+          "https://images2.imgbox.com/b5/41/MiPLlCen_o.png"
+        ]
+      }
+    },
+    "1": {
+      "title": "Capítulo 01",
+      "groups": {
+        "Valkyriescan": [
+          "https://images2.imgbox.com/c1/a0/lPEvB8eT_o.png",
+          "https://images2.imgbox.com/1e/69/00zXH4wu_o.png",
+          "https://images2.imgbox.com/57/ba/5OXo7QlD_o.png"
+        ]
+      }
+    }
+  }
+}
